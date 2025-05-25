@@ -1,0 +1,3226 @@
+﻿code,fullname,firsname,lastname,MaritalStatus,Gender,YearlyIncome,Education,Occupation
+11000,,Jon,Yang,M,M,90000,Bachelors,Professional
+11001,,Eugene,Huang,S,M,60000,Bachelors,Professional
+11002,,Ruben,Torres,M,M,60000,Bachelors,Professional
+11003,,Christy,Zhu,S,F,70000,Bachelors,Professional
+11004,,Elizabeth,Johnson,S,F,80000,Bachelors,Professional
+11005,,Julio,Ruiz,S,M,70000,Bachelors,Professional
+11006,,Janet,Alvarez,S,F,70000,Bachelors,Professional
+11007,,Marco,Mehta,M,M,60000,Bachelors,Professional
+11008,,Rob,Verhoff,S,F,60000,Bachelors,Professional
+11009,,Shannon,Carlson,S,M,70000,Bachelors,Professional
+11010,,Jacquelyn,Suarez,S,F,70000,Bachelors,Professional
+11011,,Curtis,Lu,M,M,60000,Bachelors,Professional
+11012,,Lauren,Walker,M,F,100000,Bachelors,Management
+11013,,Ian,Jenkins,M,M,100000,Bachelors,Management
+11014,,Sydney,Bennett,S,F,100000,Bachelors,Management
+11015,,Chloe,Young,S,F,30000,Partial College,Skilled Manual
+11016,,Wyatt,Hill,M,M,30000,Partial College,Skilled Manual
+11017,,Shannon,Wang,S,F,20000,High School,Skilled Manual
+11018,,Clarence,Rai,S,M,30000,Partial College,Clerical
+11019,,Luke,Lal,S,M,40000,High School,Skilled Manual
+11020,,Jordan,King,S,M,40000,High School,Skilled Manual
+11021,,Destiny,Wilson,S,F,40000,Partial College,Skilled Manual
+11022,,Ethan,Zhang,M,M,40000,Partial College,Skilled Manual
+11023,,Seth,Edwards,M,M,40000,Partial College,Skilled Manual
+11024,,Russell,Xie,M,M,60000,Partial College,Skilled Manual
+11025,,Alejandro,Beck,M,M,10000,Partial High School,Clerical
+11026,,Harold,Sai,S,M,30000,Partial College,Clerical
+11027,,Jessie,Zhao,M,M,30000,Partial College,Clerical
+11028,,Jill,Jimenez,M,F,30000,Partial College,Clerical
+11029,,Jimmy,Moreno,M,M,30000,Partial College,Clerical
+11030,,Bethany,Yuan,M,F,10000,Partial High School,Clerical
+11031,,Theresa,Ramos,M,F,20000,High School,Skilled Manual
+11032,,Denise,Stone,M,F,20000,High School,Skilled Manual
+11033,,Jaime,Nath,M,M,20000,High School,Skilled Manual
+11034,,Ebony,Gonzalez,M,F,20000,High School,Skilled Manual
+11035,,Wendy,Dominguez,M,F,10000,Partial High School,Clerical
+11036,,Jennifer,Russell,M,F,60000,Partial College,Skilled Manual
+11037,,Chloe,Garcia,S,F,40000,Partial High School,Clerical
+11038,,Diana,Hernandez,M,F,10000,Partial High School,Clerical
+11039,,Marc,Martin,M,M,30000,Partial College,Clerical
+11040,,Jesse,Murphy,M,M,30000,Partial College,Skilled Manual
+11041,,Amanda,Carter,M,F,60000,Partial College,Skilled Manual
+11042,,Megan,Sanchez,M,F,70000,Partial College,Skilled Manual
+11043,,Nathan,Simmons,M,M,60000,Partial College,Skilled Manual
+11044,,Adam,Flores,M,M,20000,Partial High School,Clerical
+11045,,Leonard,Nara,S,M,30000,High School,Skilled Manual
+11046,,Christine,Yuan,M,F,30000,High School,Skilled Manual
+11047,,Jaclyn,Lu,M,F,30000,High School,Skilled Manual
+11048,,Jeremy,Powell,M,M,30000,High School,Skilled Manual
+11049,,Carol,Rai,S,F,40000,Partial High School,Clerical
+11050,,Alan,Zheng,M,M,30000,High School,Skilled Manual
+11051,,Daniel,Johnson,S,M,30000,High School,Skilled Manual
+11052,,Heidi,Lopez,S,F,40000,Partial College,Clerical
+11053,,Ana,Price,M,F,60000,Partial College,Skilled Manual
+11054,,Deanna,Munoz,M,F,40000,Partial College,Skilled Manual
+11055,,Gilbert,Raje,M,M,40000,Partial College,Skilled Manual
+11056,,Michele,Nath,M,F,40000,Partial College,Skilled Manual
+11057,,Carl,Andersen,M,M,70000,Graduate Degree,Management
+11058,,Marc,Diaz,M,M,80000,Partial College,Skilled Manual
+11059,,Ashlee,Andersen,S,F,80000,Partial College,Skilled Manual
+11060,,Jon,Zhou,M,M,80000,Partial College,Skilled Manual
+11061,,Todd,Gao,M,M,80000,Partial College,Skilled Manual
+11062,,Noah,Powell,M,M,40000,High School,Skilled Manual
+11063,,Angela,Murphy,S,F,40000,High School,Skilled Manual
+11064,,Chase,Reed,M,M,40000,High School,Skilled Manual
+11065,,Jessica,Henderson,M,F,60000,Partial College,Skilled Manual
+11066,,Grace,Butler,M,F,70000,Partial College,Professional
+11067,,Caleb,Carter,S,M,60000,Partial College,Professional
+11068,,Tiffany,Liang,S,F,80000,High School,Skilled Manual
+11069,,Carolyn,Navarro,S,F,80000,High School,Skilled Manual
+11070,,Willie,Raji,M,M,80000,High School,Skilled Manual
+11071,,Linda,Serrano,S,F,80000,High School,Skilled Manual
+11072,,Casey,Luo,S,F,80000,High School,Skilled Manual
+11073,,Amy,Ye,S,F,70000,High School,Skilled Manual
+11074,,Levi,Arun,S,M,70000,High School,Skilled Manual
+11075,,Felicia,Jimenez,S,F,80000,High School,Professional
+11076,,Blake,Anderson,S,M,80000,High School,Professional
+11077,,Leah,Ye,S,F,80000,High School,Professional
+11078,,Gina,Martin,S,F,40000,High School,Professional
+11079,,Donald,Gonzalez,S,M,160000,Graduate Degree,Management
+11080,,Damien,Chander,M,M,170000,Graduate Degree,Management
+11081,,Savannah,Baker,M,F,120000,Bachelors,Management
+11082,,Angela,Butler,S,F,130000,Graduate Degree,Management
+11083,,Alyssa,Cox,M,F,130000,Graduate Degree,Management
+11084,,Lucas,Phillips,S,M,80000,Partial High School,Skilled Manual
+11085,,Emily,Johnson,S,F,60000,High School,Professional
+11086,,Ryan,Brown,M,M,70000,Partial College,Professional
+11087,,Tamara,Liang,M,F,70000,Partial College,Professional
+11088,,Hunter,Davis,M,M,80000,Bachelors,Management
+11089,,Abigail,Price,S,F,80000,Bachelors,Management
+11090,,Trevor,Bryant,S,M,90000,Partial College,Professional
+11091,,Dalton,Perez,M,M,90000,Partial College,Professional
+11092,,Cheryl,Diaz,M,F,90000,Bachelors,Professional
+11093,,Aimee,He,M,F,100000,Graduate Degree,Management
+11094,,Cedric,Ma,S,M,70000,Partial College,Skilled Manual
+11095,,Chad,Kumar,S,M,70000,Partial College,Skilled Manual
+11096,,Andrés,Anand,M,M,60000,Bachelors,Professional
+11097,,Edwin,Nara,M,M,60000,Partial College,Skilled Manual
+11098,,Mallory,Rubio,S,F,60000,Partial College,Skilled Manual
+11099,,Adam,Ross,M,M,60000,Bachelors,Professional
+11100,,Latasha,Navarro,S,F,60000,Partial College,Skilled Manual
+11101,,Abby,Sai,S,F,70000,Bachelors,Professional
+11102,,Julia,Nelson,S,F,80000,Bachelors,Professional
+11103,,Cassie,Chande,S,F,70000,Bachelors,Professional
+11104,,Edgar,Sara,M,M,70000,Bachelors,Professional
+11105,,Candace,Fernandez,S,F,70000,Bachelors,Professional
+11106,,Jessie,Liu,S,M,70000,Bachelors,Professional
+11107,,Bianca,Lin,M,F,90000,Bachelors,Professional
+11108,,Kari,Alvarez,S,F,70000,Bachelors,Professional
+11109,,Ruben,Kapoor,S,M,70000,Bachelors,Professional
+11110,,Curtis,Yang,M,M,60000,Partial College,Skilled Manual
+11111,,Meredith,Gutierrez,M,F,60000,Partial College,Skilled Manual
+11112,,Crystal,Wang,M,F,60000,Partial College,Skilled Manual
+11113,,Micheal,Blanco,M,M,70000,Bachelors,Professional
+11114,,Leslie,Moreno,S,F,70000,Partial College,Skilled Manual
+11115,,Alvin,Cai,M,M,70000,Partial College,Skilled Manual
+11116,,Clinton,Carlson,M,M,70000,Partial College,Skilled Manual
+11117,,April,Deng,M,F,70000,Partial College,Skilled Manual
+11118,,Alvin,Zeng,S,M,80000,Partial College,Skilled Manual
+11119,,Evan,James,S,M,30000,Partial College,Clerical
+11120,,Beth,Jiménez,S,F,40000,Bachelors,Management
+11121,,Orlando,Suarez,M,M,70000,Partial College,Skilled Manual
+11122,,Byron,Vazquez,M,M,70000,Partial College,Skilled Manual
+11123,,Philip,Alvarez,M,M,70000,Partial College,Skilled Manual
+11124,,Ross,Jordan,S,M,80000,Partial College,Skilled Manual
+11125,,Dana,Navarro,S,F,70000,Partial College,Skilled Manual
+11126,,Shaun,Carson,M,M,10000,High School,Skilled Manual
+11127,,Jan,Edwards,M,F,40000,High School,Skilled Manual
+11128,,Samantha,Long,M,F,40000,High School,Skilled Manual
+11129,,Julia,Wright,S,F,40000,High School,Skilled Manual
+11130,,Caroline,Russell,M,F,30000,High School,Skilled Manual
+11131,,Amanda,Rivera,M,F,30000,High School,Skilled Manual
+11132,,Melissa,Richardson,S,F,30000,High School,Skilled Manual
+11133,,Angela,Griffin,S,F,30000,Partial High School,Clerical
+11134,,Larry,Townsend,S,M,10000,High School,Skilled Manual
+11135,,Marcus,Harris,S,M,30000,Partial High School,Clerical
+11136,,Brianna,Morgan,S,F,40000,High School,Skilled Manual
+11137,,Jasmine,Taylor,M,F,40000,High School,Skilled Manual
+11138,,Lauren,Davis,M,F,40000,High School,Skilled Manual
+11139,,Tanya,Moreno,S,F,30000,Partial College,Clerical
+11140,,Javier,Alvarez,S,M,30000,Partial High School,Clerical
+11141,,Nicole,Ramirez,M,F,40000,High School,Skilled Manual
+11142,,Eduardo,Patterson,S,M,40000,High School,Skilled Manual
+11143,,Jonathan,Henderson,M,M,40000,High School,Skilled Manual
+11144,,Edward,Hernandez,S,M,40000,High School,Skilled Manual
+11145,,Jasmine,Coleman,S,F,40000,High School,Skilled Manual
+11146,,Karla,Goel,S,F,40000,Bachelors,Management
+11147,,Ernest,Wu,M,M,60000,Graduate Degree,Management
+11148,,Ross,Vazquez,M,M,40000,Bachelors,Management
+11149,,Theodore,Gill,M,M,40000,Bachelors,Management
+11150,,Russell,Shen,S,M,40000,Bachelors,Management
+11151,,Melinda,Gill,S,F,60000,Graduate Degree,Management
+11152,,James,Williams,S,M,40000,High School,Skilled Manual
+11153,,Angela,James,M,F,40000,High School,Skilled Manual
+11154,,Megan,Walker,S,F,40000,Partial College,Skilled Manual
+11155,,Hunter,Robinson,S,M,40000,Partial College,Skilled Manual
+11156,,Maria,Roberts,S,F,40000,Partial College,Skilled Manual
+11157,,Hannah,Long,M,F,40000,High School,Skilled Manual
+11158,,Jason,Wright,S,M,40000,High School,Skilled Manual
+11159,,Brianna,Hughes,S,F,40000,High School,Skilled Manual
+11160,,Maurice,Tang,S,M,40000,Partial College,Skilled Manual
+11161,,Emily,Wood,S,F,40000,Partial College,Skilled Manual
+11162,,Chase,Cox,S,M,40000,Partial College,Skilled Manual
+11163,,Gabriel,Wang,M,M,40000,Partial College,Skilled Manual
+11164,,Devin,Brooks,S,M,40000,Partial College,Skilled Manual
+11165,,Jocelyn,Alexander,M,F,60000,Partial College,Skilled Manual
+11166,,Ashley,Martinez,S,F,70000,Partial College,Skilled Manual
+11167,,Jasmine,Barnes,S,F,80000,Bachelors,Management
+11168,,David,Rodriguez,S,M,80000,Bachelors,Management
+11169,,Bryce,Richardson,M,M,90000,Bachelors,Management
+11170,,Carol,Howard,M,F,90000,Bachelors,Management
+11171,,Jonathan,Hill,S,M,100000,Bachelors,Management
+11172,,Gabrielle,Adams,M,F,100000,Bachelors,Management
+11173,,Sarah,Thomas,S,F,110000,Graduate Degree,Management
+11174,,Nicholas,Robinson,M,M,110000,Graduate Degree,Management
+11175,,Luis,Wang,S,M,70000,Partial College,Skilled Manual
+11176,,Mason,Roberts,M,M,90000,Bachelors,Management
+11177,,Jose,Flores,M,M,110000,Graduate Degree,Management
+11178,,Nathan,Johnson,M,M,100000,Graduate Degree,Management
+11179,,Molly,Rodriguez,M,F,120000,Graduate Degree,Management
+11180,,April,Anand,M,F,160000,Bachelors,Management
+11181,,Devin,Martin,M,M,170000,Graduate Degree,Management
+11182,,Stephanie,Torres,S,F,70000,Bachelors,Management
+11183,,Jasmine,Lee,S,F,70000,Bachelors,Management
+11184,,Meghan,Hernandez,S,F,70000,Bachelors,Management
+11185,,Ashley,Henderson,S,F,70000,Bachelors,Management
+11186,,Sarah,Price,S,F,70000,Bachelors,Management
+11187,,Jennifer,Cooper,M,F,60000,Graduate Degree,Management
+11188,,Catherine,Morris,M,F,60000,Graduate Degree,Management
+11189,,Lawrence,Blanco,S,M,60000,Graduate Degree,Management
+11190,,Carson,Bryant,M,M,70000,Bachelors,Management
+11191,,Kristi,Perez,S,F,70000,Bachelors,Management
+11192,,James,Brown,M,M,60000,Bachelors,Management
+11193,,Ian,Gray,M,M,60000,Bachelors,Management
+11194,,Jacqueline,Price,M,F,60000,Bachelors,Management
+11195,,Megan,Henderson,M,F,60000,Bachelors,Management
+11196,,Alfredo,Romero,M,M,60000,Bachelors,Management
+11197,,Andrea,Morris,M,F,70000,Bachelors,Management
+11198,,Brooke,Sanders,S,F,70000,Bachelors,Management
+11199,,Jacqueline,Bennett,M,F,70000,Bachelors,Management
+11200,,Jason,Griffin,M,M,70000,Bachelors,Management
+11201,,Amanda,Foster,M,F,70000,Bachelors,Management
+11202,,Alexia,Price,M,F,80000,Bachelors,Management
+11203,,Luis,Diaz,M,M,40000,High School,Professional
+11204,,Destiny,Rivera,M,F,40000,High School,Professional
+11205,,Abby,Fernandez,M,F,40000,High School,Professional
+11206,,Blake,Flores,M,M,60000,Partial College,Professional
+11207,,Danielle,Cox,S,F,60000,Partial College,Professional
+11208,,Maria,Reed,M,F,60000,Bachelors,Management
+11209,,Allison,Evans,M,F,60000,Bachelors,Management
+11210,,Edward,Wood,M,M,70000,Partial College,Professional
+11211,,Samantha,Russell,M,F,40000,High School,Professional
+11212,,Chloe,Campbell,M,F,40000,High School,Professional
+11213,,Stephanie,Murphy,S,F,60000,Partial College,Professional
+11214,,Charles,Miller,S,M,60000,Partial College,Professional
+11215,,Ana,Perry,M,F,40000,Partial High School,Skilled Manual
+11216,,Jasmine,Torres,S,F,60000,Partial College,Professional
+11217,,Natalie,Adams,S,F,60000,Partial College,Professional
+11218,,Olivia,Brown,S,F,60000,Partial College,Professional
+11219,,Charles,Cook,M,M,60000,High School,Professional
+11220,,Erica,Huang,M,F,60000,Partial College,Professional
+11221,,Nathan,Perry,M,M,70000,Partial College,Professional
+11222,,Alexandra,Rivera,M,F,80000,Bachelors,Management
+11223,,Hailey,Patterson,S,F,70000,High School,Professional
+11224,,Tiffany,Li,S,F,70000,High School,Professional
+11225,,Madison,Lee,M,F,60000,Partial College,Professional
+11226,,Sydney,Ross,M,F,60000,Partial College,Professional
+11227,,Marshall,Chavez,S,M,60000,Partial College,Professional
+11228,,Ashley,Jones,M,F,60000,Partial College,Professional
+11229,,Adrian,Stewart,S,M,70000,Partial College,Professional
+11230,,Amber,Turner,M,F,70000,Partial College,Professional
+11231,,Dennis,Zhang,M,M,60000,High School,Professional
+11232,,Hailey,Bryant,M,F,60000,High School,Professional
+11233,,Todd,Li,M,M,70000,Partial College,Professional
+11234,,Anna,Griffin,S,F,70000,Partial College,Professional
+11235,,Angel,Stewart,M,M,70000,Partial College,Professional
+11236,,Jeremy,Butler,S,M,70000,Partial College,Professional
+11237,,Clarence,Anand,S,M,130000,Bachelors,Management
+11238,,Mayra,Prasad,S,F,130000,Bachelors,Management
+11239,,Latoya,Goel,M,F,130000,Partial College,Professional
+11240,,Anne,Hernandez,M,F,160000,Partial College,Professional
+11241,,Lisa,Cai,S,F,100000,Partial College,Professional
+11242,,Larry,Munoz,M,M,110000,Partial College,Professional
+11243,,Robin,Alvarez,M,F,150000,Partial College,Professional
+11244,,Alexis,Coleman,S,F,170000,Bachelors,Management
+11245,,Ricky,Vazquez,M,M,120000,High School,Professional
+11246,,Latasha,Rubio,M,F,120000,High School,Professional
+11247,,Claudia,Zhou,S,F,130000,Partial College,Professional
+11248,,Tristan,Alexander,M,M,110000,Partial College,Professional
+11249,,Cindy,Patel,M,F,130000,Partial College,Professional
+11250,,Shannon,Liu,M,F,170000,High School,Professional
+11251,,Xavier,Long,S,M,30000,High School,Professional
+11252,,Nicholas,Thompson,S,M,90000,Graduate Degree,Management
+11253,,José,Hernandez,M,M,60000,Graduate Degree,Management
+11254,,Johnathan,Vance,M,M,70000,Graduate Degree,Management
+11255,,Colin,Lin,M,M,70000,Graduate Degree,Management
+11256,,Katelyn,Hernandez,M,F,70000,Graduate Degree,Management
+11257,,Jacqueline,Powell,S,F,120000,Graduate Degree,Management
+11258,,Xavier,Hill,M,M,120000,Graduate Degree,Management
+11259,,Victoria,Stewart,M,F,100000,Partial College,Professional
+11260,,Katelyn,Kelly,M,F,110000,Bachelors,Management
+11261,,Stephanie,Collins,M,F,130000,Graduate Degree,Management
+11262,,Jennifer,Simmons,M,F,80000,Bachelors,Management
+11263,,Trinity,Richardson,M,F,90000,Partial College,Professional
+11264,,Eduardo,Martin,S,M,90000,Partial College,Professional
+11265,,Elizabeth,Jones,M,F,90000,Partial College,Professional
+11266,,Taylor,Howard,S,F,90000,Partial College,Professional
+11267,,David,Diaz,S,M,120000,Partial College,Professional
+11268,,Katelyn,Carter,M,F,130000,Graduate Degree,Management
+11269,,Ryan,Foster,M,M,130000,Graduate Degree,Management
+11270,,Robert,Lee,M,M,130000,Graduate Degree,Management
+11271,,Danielle,Reed,S,F,150000,Bachelors,Management
+11272,,Lauren,Martinez,S,F,70000,Partial College,Professional
+11273,,Nathan,Lal,M,M,90000,Partial College,Professional
+11274,,Kyle,Foster,M,M,50000,Graduate Degree,Management
+11275,,Jenny,Rai,M,F,80000,Graduate Degree,Management
+11276,,Nancy,Chapman,M,F,80000,Partial College,Professional
+11277,,Charles,Jackson,M,M,80000,Partial College,Professional
+11278,,Jonathan,Phillips,S,M,90000,Partial College,Professional
+11279,,Amanda,Cook,M,F,90000,Partial College,Professional
+11280,,Robert,Collins,M,M,90000,Partial College,Professional
+11281,,Megan,Barnes,S,F,110000,Bachelors,Management
+11282,,Christian,Thomas,M,M,90000,Partial College,Professional
+11283,,Arturo,Lal,M,M,110000,Bachelors,Management
+11284,,Theresa,Serrano,M,F,110000,Bachelors,Management
+11285,,Jeremy,Anderson,M,M,120000,Partial College,Professional
+11286,,Hunter,Griffin,M,M,170000,Graduate Degree,Management
+11287,,Henry,Garcia,M,M,70000,Partial College,Professional
+11288,,Cindy,Sanchez,M,F,110000,Bachelors,Management
+11289,,Maria,Carter,M,F,130000,Bachelors,Management
+11290,,Katelyn,Sanchez,M,F,130000,Bachelors,Management
+11291,,Jenna,Wright,M,F,130000,Bachelors,Management
+11292,,Seth,Phillips,S,M,150000,Partial College,Professional
+11293,,Luke,Long,S,M,60000,High School,Professional
+11294,,Dalton,Clark,M,M,60000,High School,Professional
+11295,,Taylor,Lewis,S,F,80000,Partial High School,Skilled Manual
+11296,,Haley,Richardson,S,F,50000,Graduate Degree,Management
+11297,,Noah,Coleman,S,M,70000,Graduate Degree,Management
+11298,,Jon,Luo,M,M,70000,Graduate Degree,Management
+11299,,Orlando,Vazquez,M,M,70000,Graduate Degree,Management
+11300,,Fernando,Barnes,M,M,80000,Partial College,Professional
+11301,,Cameron,Rodriguez,M,M,80000,Partial College,Professional
+11302,,Spencer,Russell,S,M,90000,High School,Professional
+11303,,Julia,Coleman,S,F,90000,High School,Professional
+11304,,Julia,Garcia,M,F,100000,Partial College,Professional
+11305,,Sean,Evans,M,M,110000,Partial College,Professional
+11306,,Micah,Zhou,M,M,110000,Partial College,Professional
+11307,,Hunter,Rodriguez,M,M,80000,Partial High School,Skilled Manual
+11308,,Ian,Gonzales,M,M,60000,High School,Professional
+11309,,Victoria,Lewis,S,F,60000,High School,Professional
+11310,,Erin,Sanders,S,F,70000,Graduate Degree,Management
+11311,,Gabrielle,Lopez,S,F,70000,Graduate Degree,Management
+11312,,Sara,Richardson,S,F,70000,Graduate Degree,Management
+11313,,Trevor,Jenkins,S,M,70000,Graduate Degree,Management
+11314,,Mya,Flores,S,F,70000,Graduate Degree,Management
+11315,,Hailey,Ward,S,F,70000,Graduate Degree,Management
+11316,,Luke,Allen,M,M,60000,Graduate Degree,Management
+11317,,Victoria,Russell,S,F,40000,Partial College,Professional
+11318,,Jessica,Wilson,S,F,40000,Partial College,Professional
+11319,,Jade,Bailey,M,F,70000,Graduate Degree,Management
+11320,,Morgan,Hill,M,F,80000,Graduate Degree,Management
+11321,,Terrance,Raman,M,M,90000,Bachelors,Management
+11322,,Sydney,Garcia,M,F,90000,Bachelors,Management
+11323,,Jose,Patterson,S,M,120000,Graduate Degree,Management
+11324,,Zachary,Anderson,M,M,90000,Bachelors,Management
+11325,,Elijah,Ross,S,M,90000,Bachelors,Management
+11326,,Rafael,Xie,M,M,130000,Bachelors,Management
+11327,,Jaime,Moreno,M,M,90000,Bachelors,Management
+11328,,Julian,Griffin,M,M,90000,Bachelors,Management
+11329,,Andy,Alvarez,S,M,90000,Bachelors,Management
+11330,,Ryan,Thompson,M,M,110000,Graduate Degree,Management
+11331,,Samantha,Jenkins,M,F,90000,Partial College,Skilled Manual
+11332,,Deanna,Ramos,S,F,10000,Graduate Degree,Manual
+11333,,Emily,Miller,M,F,20000,Graduate Degree,Clerical
+11334,,Nicole,Brown,M,F,10000,Bachelors,Manual
+11335,,Carla,Raman,M,F,10000,Bachelors,Manual
+11336,,Shaun,Raji,M,M,20000,Graduate Degree,Clerical
+11337,,Jerome,Romero,M,M,10000,Bachelors,Manual
+11338,,Frank,Navarro,M,M,20000,Graduate Degree,Clerical
+11339,,Dennis,She,S,M,20000,Graduate Degree,Clerical
+11340,,Melody,Munoz,M,F,10000,Graduate Degree,Clerical
+11341,,Randy,Zeng,M,M,20000,Graduate Degree,Clerical
+11342,,Marshall,Wang,M,M,30000,Graduate Degree,Clerical
+11343,,Arthur,Carlson,M,M,10000,Bachelors,Manual
+11344,,Jessie,Jimenez,M,F,10000,Partial College,Manual
+11345,,Robin,Ramos,S,F,10000,Partial College,Manual
+11346,,Deanna,Gutierrez,S,F,10000,Partial College,Manual
+11347,,Roy,Navarro,M,M,10000,Partial College,Manual
+11348,,Shawn,Rai,M,M,10000,Partial College,Manual
+11349,,Mindy,Luo,M,F,10000,Partial College,Manual
+11350,,Cara,Zhou,M,F,30000,Graduate Degree,Clerical
+11351,,Anne,Ramos,S,F,20000,Bachelors,Clerical
+11352,,Raymond,Rodriguez,M,M,10000,Partial College,Manual
+11353,,Carrie,Ortega,S,F,30000,Bachelors,Clerical
+11354,,Deanna,Suarez,M,F,20000,Partial College,Manual
+11355,,Roberto,Gutierrez,M,M,40000,Graduate Degree,Clerical
+11356,,Terrence,Carson,S,M,10000,Partial College,Manual
+11357,,Ramon,Ye,S,M,10000,Partial College,Manual
+11358,,Cynthia,Malhotra,S,F,10000,Partial College,Manual
+11359,,Jarrod,Prasad,S,M,10000,Partial College,Manual
+11360,,Tyrone,Serrano,S,M,10000,Partial College,Manual
+11361,,Cindy,Ramos,M,F,10000,High School,Manual
+11362,,Damien,Shan,M,M,10000,High School,Manual
+11363,,Julian,Ross,S,M,10000,High School,Manual
+11364,,Jennifer,Collins,S,F,10000,High School,Manual
+11365,,Brittney,Sun,S,F,10000,High School,Manual
+11366,,Virginia,Patel,M,F,20000,Bachelors,Clerical
+11367,,Calvin,Nara,M,M,20000,Bachelors,Clerical
+11368,,Edward,Miller,S,M,10000,High School,Manual
+11369,,Ashlee,Tang,M,F,20000,Bachelors,Clerical
+11370,,Alicia,Xu,M,F,20000,Bachelors,Clerical
+11371,,Lacey,Jai,M,F,20000,Bachelors,Clerical
+11372,,Wendy,Romero,S,F,20000,Bachelors,Clerical
+11373,,Carly,Luo,M,F,30000,Bachelors,Clerical
+11374,,Jimmy,Ortega,S,M,30000,Bachelors,Clerical
+11375,,Francisco,Martinez,M,M,30000,Bachelors,Clerical
+11376,,Lance,Vazquez,S,M,40000,Graduate Degree,Clerical
+11377,,David,Robinett,M,M,30000,Graduate Degree,Clerical
+11378,,Shannon,Liang,S,F,10000,High School,Manual
+11379,,Gary,Vazquez,M,M,10000,High School,Manual
+11380,,Mitchell,Kumar,S,M,20000,Partial College,Manual
+11381,,Meredith,Raman,M,F,20000,Partial College,Manual
+11382,,Edward,Patterson,M,M,20000,Partial College,Manual
+11383,,Marie,Gill,M,F,30000,Graduate Degree,Clerical
+11384,,Tiffany,Wang,M,F,30000,Bachelors,Clerical
+11385,,Miguel,Allen,S,M,30000,Bachelors,Clerical
+11386,,Jaclyn,Cai,M,F,30000,Bachelors,Clerical
+11387,,Megan,Ramirez,S,F,40000,Graduate Degree,Clerical
+11388,,Joseph,Martin,M,M,40000,Graduate Degree,Clerical
+11389,,Karl,Shan,S,M,10000,High School,Manual
+11390,,Christine,Raji,S,F,10000,High School,Manual
+11391,,Lindsay,Xie,S,F,10000,High School,Manual
+11392,,Willie,Zhao,S,M,10000,High School,Manual
+11393,,Kurt,Pal,S,M,10000,High School,Manual
+11394,,George,McDonald,S,M,10000,High School,Manual
+11395,,Beth,Gutierrez,S,F,30000,Bachelors,Clerical
+11396,,Ian,Lopez,M,M,10000,High School,Manual
+11397,,Latoya,Shan,S,F,20000,Partial College,Manual
+11398,,Colin,Nath,S,M,30000,Bachelors,Clerical
+11399,,Brenda,Mehta,S,F,30000,Bachelors,Clerical
+11400,,Franklin,Raji,S,M,40000,Graduate Degree,Clerical
+11401,,Linda,Navarro,M,F,40000,Graduate Degree,Clerical
+11402,,Kelli,Cai,M,F,40000,Graduate Degree,Clerical
+11403,,Nancy,Schmidt,S,F,40000,Graduate Degree,Clerical
+11404,,Megan,Taylor,S,F,10000,Partial College,Manual
+11405,,Bonnie,Goel,S,F,10000,Partial College,Manual
+11406,,Latoya,Xu,M,F,20000,Partial College,Manual
+11407,,Mario,She,M,M,20000,Partial College,Manual
+11408,,Darren,Gill,M,M,10000,High School,Manual
+11409,,Jacqueline,Hayes,S,F,10000,High School,Manual
+11410,,Maurice,Goel,M,M,20000,Partial College,Manual
+11411,,Devin,Ross,M,M,80000,Partial College,Professional
+11412,,Sydney,Bryant,S,F,80000,Partial College,Professional
+11413,,Megan,Stewart,M,F,80000,Partial College,Professional
+11414,,Ian,Richardson,S,M,80000,Partial College,Professional
+11415,,Randy,She,S,M,90000,Partial College,Professional
+11416,,Katrina,Becker,M,F,60000,Partial High School,Skilled Manual
+11417,,Lacey,Zheng,M,F,70000,High School,Professional
+11418,,Rafael,Hu,S,M,90000,Partial College,Professional
+11419,,Kyle,Scott,M,M,150000,Graduate Degree,Management
+11420,,Jordan,Turner,M,M,100000,Bachelors,Management
+11421,,Amy,Sun,M,F,110000,Bachelors,Management
+11422,,Dustin,Deng,M,M,170000,Bachelors,Management
+11423,,Jasmine,Stewart,M,F,80000,Partial College,Professional
+11424,,Pamela,Garcia,M,F,80000,Partial College,Professional
+11425,,Ariana,Gray,M,F,90000,High School,Professional
+11426,,Kristopher,Mehta,M,M,110000,Bachelors,Management
+11427,,Desiree,Dominguez,M,F,110000,Partial College,Professional
+11428,,Deanna,Perez,S,F,120000,Bachelors,Management
+11429,,Marco,Lopez,M,M,80000,Partial College,Professional
+11430,,Casey,Yuan,M,F,90000,High School,Professional
+11431,,Bryant,Garcia,M,M,110000,Partial College,Professional
+11432,,Dominique,Prasad,M,F,80000,High School,Professional
+11433,,Maurice,Shan,M,M,80000,High School,Professional
+11434,,Andre,Lopez,M,M,170000,Partial College,Professional
+11435,,Robin,Romero,S,F,100000,Partial College,Management
+11436,,Taylor,Cox,M,F,160000,Partial College,Management
+11437,,Alfredo,Moreno,M,M,90000,High School,Management
+11438,,Jenny,Nara,M,F,130000,High School,Management
+11439,,Janet,Munoz,M,F,90000,High School,Management
+11440,,Sergio,Weber,M,M,80000,Partial High School,Skilled Manual
+11441,,Erika,Gomez,M,F,90000,Partial High School,Skilled Manual
+11442,,Joseph,Harris,M,M,90000,Partial High School,Skilled Manual
+11443,,Grace,Griffin,S,F,60000,Bachelors,Professional
+11444,,Tina,Mehta,M,F,70000,Bachelors,Professional
+11445,,Kari,Kim,S,F,70000,Bachelors,Professional
+11446,,Bethany,Chander,S,F,70000,Bachelors,Professional
+11447,,Jennifer,Roberts,M,F,70000,Bachelors,Professional
+11448,,Kyle,Patterson,S,M,80000,Bachelors,Professional
+11449,,Alvin,Hu,M,M,80000,Bachelors,Professional
+11450,,Brett,Mehta,S,M,130000,High School,Management
+11451,,Ruben,Muñoz,S,M,70000,Bachelors,Professional
+11452,,Erika,Rubio,S,F,80000,Bachelors,Professional
+11453,,Stanley,Malhotra,S,M,80000,Bachelors,Professional
+11454,,Melinda,Navarro,S,F,80000,Bachelors,Professional
+11455,,Ross,Sanz,M,M,100000,High School,Management
+11456,,Jon,Gao,M,M,120000,Partial High School,Professional
+11457,,Jaime,Gutierrez,M,F,90000,Bachelors,Professional
+11458,,Bianca,Liu,M,F,100000,High School,Management
+11459,,Tasha,Deng,S,F,80000,Bachelors,Professional
+11460,,Melvin,Chande,S,M,90000,Bachelors,Professional
+11461,,Victor,Jimenez,S,M,90000,Bachelors,Professional
+11462,,Laura,Lin,M,F,110000,High School,Management
+11463,,Alisha,Beck,M,F,110000,High School,Management
+11464,,Alejandro,Huang,M,M,90000,Bachelors,Professional
+11465,,Louis,Luo,M,M,90000,Bachelors,Professional
+11466,,Grant,Tang,M,M,150000,Partial High School,Management
+11467,,Arturo,Zheng,M,M,170000,Graduate Degree,Management
+11468,,Jaclyn,Andersen,M,F,40000,Bachelors,Skilled Manual
+11469,,Edwin,Raji,S,M,10000,Partial High School,Manual
+11470,,Jay,Suarez,S,M,20000,Partial High School,Manual
+11471,,Latasha,Suarez,S,F,30000,Partial College,Clerical
+11472,,Kenneth,Kumar,S,M,60000,Bachelors,Professional
+11473,,Grace,Henderson,S,F,20000,Partial High School,Manual
+11474,,Melvin,Xu,S,M,20000,Partial High School,Manual
+11475,,Cesar,Subram,S,M,30000,High School,Manual
+11476,,Erika,Navarro,M,F,40000,Bachelors,Skilled Manual
+11477,,Tristan,Hughes,S,M,30000,High School,Manual
+11478,,Billy,Hernandez,S,M,30000,High School,Manual
+11479,,Darryl,Wu,M,M,40000,Bachelors,Skilled Manual
+11480,,Colleen,Ma,M,F,40000,Bachelors,Skilled Manual
+11481,,Erica,Hu,M,F,40000,Bachelors,Skilled Manual
+11482,,Adrienne,Torres,S,F,30000,High School,Manual
+11483,,Calvin,Chande,M,M,40000,Bachelors,Skilled Manual
+11484,,Erick,Sai,S,M,40000,Partial College,Clerical
+11485,,Donald,Chandra,M,M,40000,Partial College,Clerical
+11486,,Ariana,Rogers,S,F,10000,Partial High School,Manual
+11487,,Morgan,Jones,S,F,10000,Partial High School,Manual
+11488,,Jermaine,Lopez,S,M,20000,Partial High School,Manual
+11489,,Deborah,Goel,S,F,20000,Partial High School,Manual
+11490,,Danny,Rubio,S,M,20000,Partial High School,Manual
+11491,,Andre,Perez,M,M,20000,Partial High School,Manual
+11492,,Terrence,Chander,S,M,30000,High School,Manual
+11493,,Dawn,Wu,S,F,40000,Partial College,Clerical
+11494,,Jimmy,Gutierrez,S,M,40000,Partial College,Clerical
+11495,,Francis,Jimenez,S,M,40000,Partial College,Clerical
+11496,,Gary,Ortega,S,M,40000,Partial College,Clerical
+11497,,Katrina,Nath,S,F,40000,Partial College,Clerical
+11498,,Arturo,Sun,S,M,40000,Partial College,Clerical
+11499,,Pedro,Vance,S,M,40000,Partial College,Clerical
+11500,,Sarah,Simmons,S,F,40000,Graduate Degree,Skilled Manual
+11501,,Brandy,Chandra,S,F,40000,Partial College,Clerical
+11502,,Jared,Peterson,S,M,40000,Partial College,Clerical
+11503,,Dennis,Wu,M,M,50000,Graduate Degree,Skilled Manual
+11504,,Jordan,Baker,M,F,40000,Bachelors,Skilled Manual
+11505,,Jasmine,Powell,S,F,60000,Graduate Degree,Skilled Manual
+11506,,Nicholas,Brown,S,M,60000,Graduate Degree,Skilled Manual
+11507,,Isabella,Russell,S,F,60000,Graduate Degree,Skilled Manual
+11508,,Elizabeth,Wilson,S,F,60000,Graduate Degree,Skilled Manual
+11509,,Roger,Harui,M,F,30000,Bachelors,Skilled Manual
+11510,,Seth,Roberts,M,M,30000,Bachelors,Skilled Manual
+11511,,Caleb,Perry,M,M,30000,Bachelors,Skilled Manual
+11512,,Natalie,Campbell,S,F,20000,Partial High School,Manual
+11513,,Alyssa,Howard,S,F,20000,Partial High School,Manual
+11514,,Dalton,Diaz,M,M,30000,High School,Clerical
+11515,,Shannon,Huang,M,F,30000,High School,Clerical
+11516,,Mya,Gonzales,M,F,30000,High School,Clerical
+11517,,Katherine,Bryant,M,F,40000,Partial College,Clerical
+11518,,Edward,Washington,M,M,40000,Partial College,Clerical
+11519,,Jerome,Navarro,M,M,40000,Partial College,Clerical
+11520,,Jada,Morgan,M,F,40000,Partial College,Clerical
+11521,,Ariana,Peterson,M,F,40000,Partial College,Clerical
+11522,,Christian,Hughes,M,M,80000,Graduate Degree,Skilled Manual
+11523,,Lucas,Taylor,M,M,40000,Partial College,Clerical
+11524,,Alyssa,Jackson,M,F,40000,Partial College,Clerical
+11525,,Ariana,Cook,M,F,40000,Partial College,Clerical
+11526,,Katherine,Diaz,M,F,40000,Partial College,Clerical
+11527,,Jenna,Green,M,F,40000,Partial College,Clerical
+11528,,Joan,Washington,M,F,40000,Partial College,Clerical
+11529,,Austin,Bryant,M,M,40000,Partial College,Clerical
+11530,,Andrew,Martinez,M,M,40000,Partial College,Clerical
+11531,,Nina,Yuan,M,F,40000,Partial College,Clerical
+11532,,Lauren,Miller,M,F,40000,Partial College,Clerical
+11533,,Ebony,Gill,M,F,40000,Partial College,Clerical
+11534,,Cameron,Lewis,S,M,60000,Graduate Degree,Skilled Manual
+11535,,Devin,Nelson,M,M,60000,Graduate Degree,Skilled Manual
+11536,,Logan,Chow,M,M,60000,Graduate Degree,Skilled Manual
+11537,,Dakota,Ross,M,M,60000,Graduate Degree,Skilled Manual
+11538,,Nicole,Taylor,S,F,60000,Graduate Degree,Skilled Manual
+11539,,Justin,Washington,M,M,60000,Graduate Degree,Skilled Manual
+11540,,Alberto,Navarro,S,M,60000,Graduate Degree,Skilled Manual
+11541,,Aidan,Ross,S,M,60000,Graduate Degree,Skilled Manual
+11542,,Alejandro,Tang,S,M,20000,Partial College,Manual
+11543,,Sheena,Chande,M,F,20000,Partial College,Manual
+11544,,Joel,Garcia,M,M,30000,Bachelors,Clerical
+11545,,Reginald,Dominguez,M,M,30000,Bachelors,Clerical
+11546,,Christine,Chande,M,F,30000,Bachelors,Clerical
+11547,,Cindy,Sai,M,F,40000,Graduate Degree,Clerical
+11548,,Raymond,Sanchez,S,M,40000,Graduate Degree,Clerical
+11549,,Crystal,Liang,M,F,40000,Bachelors,Clerical
+11550,,Deb,Torres,S,F,40000,Bachelors,Clerical
+11551,,Shannon,Alvarez,S,M,10000,High School,Manual
+11552,,Eddie,Rubio,S,M,20000,Partial College,Manual
+11553,,Sharon,Luo,M,F,20000,Partial College,Manual
+11554,,Sydney,Simmons,S,F,10000,High School,Manual
+11555,,Alexandria,Henderson,M,F,40000,Bachelors,Clerical
+11556,,Lucas,Evans,M,M,20000,Partial College,Manual
+11557,,Felicia,Ramos,S,F,30000,Bachelors,Clerical
+11558,,Ivan,Malhotra,S,M,30000,Bachelors,Clerical
+11559,,Frederick,Subram,S,M,30000,Bachelors,Clerical
+11560,,Whitney,Srini,S,F,30000,Bachelors,Clerical
+11561,,Briana,Dominguez,S,F,10000,Partial High School,Manual
+11562,,Jarrod,Gonzalez,M,M,20000,High School,Manual
+11563,,Cesar,Srini,S,M,20000,High School,Manual
+11564,,Jorge,Liang,S,M,20000,High School,Manual
+11565,,Erik,Diaz,S,M,20000,High School,Manual
+11566,,April,Shan,M,F,40000,Bachelors,Clerical
+11567,,Carla,Perez,M,F,40000,Bachelors,Clerical
+11568,,Alexia,Foster,S,F,20000,High School,Manual
+11569,,Troy,Malhotra,M,M,30000,Bachelors,Clerical
+11570,,Kristin,Andersen,M,F,30000,Bachelors,Skilled Manual
+11571,,Joel,Sai,M,M,30000,Bachelors,Skilled Manual
+11572,,Billy,Moreno,M,M,30000,Bachelors,Skilled Manual
+11573,,Meagan,Subram,S,F,20000,High School,Manual
+11574,,Karla,Luo,S,F,20000,High School,Manual
+11575,,Jackson,Campbell,S,M,20000,High School,Manual
+11576,,Micah,Zhu,M,M,30000,Bachelors,Skilled Manual
+11577,,Janet,Serrano,M,F,30000,Bachelors,Skilled Manual
+11578,,Trisha,Huang,S,F,10000,Partial High School,Manual
+11579,,Clayton,Beck,S,M,20000,High School,Manual
+11580,,Melvin,Raje,M,M,30000,Bachelors,Skilled Manual
+11581,,Cindy,Jordan,M,F,40000,Bachelors,Professional
+11582,,Claudia,Ma,S,F,30000,Partial College,Clerical
+11583,,Karla,Xu,S,F,30000,Partial College,Clerical
+11584,,Devin,Carter,M,M,40000,Bachelors,Skilled Manual
+11585,,Kari,Perez,M,F,40000,Bachelors,Skilled Manual
+11586,,Alberto,Romero,M,M,40000,Bachelors,Skilled Manual
+11587,,Kevin,Bryant,S,M,30000,Partial College,Clerical
+11588,,Candace,Mehta,M,F,30000,Partial College,Clerical
+11589,,Ebony,Malhotra,M,F,40000,Bachelors,Skilled Manual
+11590,,Erika,Diaz,S,F,30000,Partial College,Clerical
+11591,,Stacey,Lu,S,F,30000,Partial College,Clerical
+11592,,Darrell,Raji,S,M,20000,High School,Manual
+11593,,Armando,Moreno,S,M,20000,High School,Manual
+11594,,Corey,Goel,S,M,20000,High School,Manual
+11595,,Sebastian,Howard,S,M,20000,High School,Manual
+11596,,Roger,Raje,M,M,40000,Bachelors,Skilled Manual
+11597,,Janelle,Chandra,S,F,30000,Partial College,Clerical
+11598,,Meredith,Ruiz,S,F,30000,Partial College,Clerical
+11599,,Melody,Diaz,S,F,20000,High School,Manual
+11600,,Linda,Rubio,S,F,30000,Partial College,Clerical
+11601,,Ivan,Raman,S,M,30000,Partial College,Clerical
+11602,,Larry,Gill,S,M,30000,Partial College,Clerical
+11603,,Geoffrey,Gonzalez,S,M,30000,Partial College,Clerical
+11604,,Edgar,Sanchez,S,M,30000,Partial College,Clerical
+11605,,Heidi,Subram,S,F,20000,High School,Manual
+11606,,Melody,Ramos,S,F,10000,Partial High School,Manual
+11607,,Clinton,Moreno,S,M,20000,High School,Manual
+11608,,Cesar,Madan,S,M,20000,High School,Manual
+11609,,Eugene,Ye,S,M,30000,Partial College,Clerical
+11610,,Blake,Collins,S,M,30000,Partial College,Clerical
+11611,,Ernest,Lin,M,M,20000,Partial High School,Manual
+11612,,Keith,Andersen,S,M,20000,Partial High School,Manual
+11613,,Meredith,Prasad,S,F,30000,Partial College,Clerical
+11614,,Katrina,Sharma,S,F,30000,Partial College,Clerical
+11615,,Dwayne,Navarro,M,M,40000,Bachelors,Skilled Manual
+11616,,Casey,Nath,M,F,40000,Bachelors,Skilled Manual
+11617,,Sean,Brooks,S,M,60000,Graduate Degree,Skilled Manual
+11618,,Brian,Ramirez,M,M,60000,Graduate Degree,Skilled Manual
+11619,,Sierra,Young,S,F,50000,Graduate Degree,Skilled Manual
+11620,,Megan,Rodriguez,S,F,50000,Graduate Degree,Skilled Manual
+11621,,Leah,She,S,F,50000,Graduate Degree,Skilled Manual
+11622,,Gabriel,Allen,M,M,50000,Graduate Degree,Skilled Manual
+11623,,Angela,Perry,S,F,50000,Graduate Degree,Skilled Manual
+11624,,Ryan,Smith,S,M,50000,Graduate Degree,Skilled Manual
+11625,,Zachary,Moore,M,M,50000,Graduate Degree,Skilled Manual
+11626,,Destiny,Rogers,M,F,50000,Graduate Degree,Skilled Manual
+11627,,Dalton,Gray,M,M,60000,Graduate Degree,Skilled Manual
+11628,,Mariah,Wood,S,F,40000,Graduate Degree,Skilled Manual
+11629,,Isaiah,Wright,S,M,40000,High School,Skilled Manual
+11630,,Haley,Powell,M,F,60000,Graduate Degree,Skilled Manual
+11631,,Antonio,Bennett,M,M,60000,Graduate Degree,Skilled Manual
+11632,,Alexandra,Jenkins,M,F,60000,Graduate Degree,Skilled Manual
+11633,,Thomas,Anderson,M,M,40000,Bachelors,Skilled Manual
+11634,,Samuel,Collins,M,M,60000,Graduate Degree,Skilled Manual
+11635,,Darrell,Chande,M,M,60000,Graduate Degree,Skilled Manual
+11636,,Kimberly,Cox,S,F,60000,Graduate Degree,Professional
+11637,,Morgan,Hernandez,M,F,70000,Graduate Degree,Professional
+11638,,Antonio,Powell,M,M,70000,Graduate Degree,Professional
+11639,,Angelica,Perry,M,F,70000,Graduate Degree,Professional
+11640,,Chloe,Wilson,M,F,50000,Bachelors,Skilled Manual
+11641,,James,Chen,M,M,50000,Bachelors,Skilled Manual
+11642,,Morgan,Hughes,M,F,50000,Bachelors,Skilled Manual
+11643,,Naomi,Munoz,M,F,50000,Bachelors,Skilled Manual
+11644,,Charles,Torres,S,M,40000,Bachelors,Skilled Manual
+11645,,Gabriella,Turner,S,F,40000,Bachelors,Skilled Manual
+11646,,Anna,Foster,S,F,40000,Bachelors,Skilled Manual
+11647,,Randy,Wu,S,M,40000,Bachelors,Skilled Manual
+11648,,Kevin,Scott,S,M,60000,Graduate Degree,Professional
+11649,,Ian,White,M,M,60000,Graduate Degree,Professional
+11650,,Caleb,Hayes,M,M,60000,Graduate Degree,Professional
+11651,,Patricia,Garcia,M,F,60000,Graduate Degree,Professional
+11652,,Samuel,Russell,M,M,60000,Graduate Degree,Professional
+11653,,Sydney,Peterson,S,F,60000,Graduate Degree,Professional
+11654,,Ariana,Sanchez,M,F,60000,Graduate Degree,Professional
+11655,,Tamara,Sharma,S,F,70000,Graduate Degree,Professional
+11656,,Katelyn,Perez,M,F,70000,Graduate Degree,Professional
+11657,,Megan,Cox,M,F,70000,Graduate Degree,Professional
+11658,,Robert,Mitchell,M,M,60000,Graduate Degree,Professional
+11659,,Miguel,Adams,S,M,60000,Graduate Degree,Professional
+11660,,Miranda,Gonzales,M,F,60000,Graduate Degree,Professional
+11661,,Jeremiah,James,S,M,60000,Graduate Degree,Professional
+11662,,Ethan,Kumar,S,M,60000,Graduate Degree,Professional
+11663,,Seth,Williams,M,M,70000,Graduate Degree,Professional
+11664,,Alyssa,Morgan,S,F,70000,Graduate Degree,Professional
+11665,,Janet,Dominguez,M,F,70000,Graduate Degree,Professional
+11666,,Angel,Baker,M,M,80000,Graduate Degree,Professional
+11667,,Blake,Moore,M,M,70000,Bachelors,Skilled Manual
+11668,,Jada,Collins,S,F,70000,Bachelors,Skilled Manual
+11669,,Isabella,Simmons,S,F,70000,Bachelors,Skilled Manual
+11670,,Jacqueline,Perry,S,F,70000,Bachelors,Skilled Manual
+11671,,Jessica,Brown,S,F,60000,Bachelors,Skilled Manual
+11672,,Chad,Jai,M,M,60000,Bachelors,Skilled Manual
+11673,,Susan,Ye,S,F,60000,Bachelors,Skilled Manual
+11674,,Morgan,Rogers,M,F,60000,Graduate Degree,Professional
+11675,,Devin,Martinez,S,M,70000,Graduate Degree,Professional
+11676,,Alan,Hu,M,M,80000,Graduate Degree,Professional
+11677,,Charles,Walker,S,M,60000,Graduate Degree,Professional
+11678,,Johnny,Chavez,M,M,70000,Graduate Degree,Professional
+11679,,Dalton,Richardson,M,M,70000,Graduate Degree,Professional
+11680,,Kaylee,Nelson,M,F,70000,Graduate Degree,Professional
+11681,,Abigail,Jones,M,F,70000,Graduate Degree,Professional
+11682,,Kaitlyn,Hall,M,F,70000,Graduate Degree,Professional
+11683,,Greg,Taylor,M,M,80000,Graduate Degree,Professional
+11684,,Devin,Parker,S,M,40000,Bachelors,Professional
+11685,,Jose,Griffin,M,M,40000,Bachelors,Professional
+11686,,Luke,Edwards,S,M,40000,Bachelors,Professional
+11687,,Cody,Torres,S,M,40000,Bachelors,Professional
+11688,,Victoria,Morris,S,F,80000,Bachelors,Skilled Manual
+11689,,Ian,Diaz,M,M,80000,Bachelors,Skilled Manual
+11690,,Caroline,Butler,M,F,60000,Graduate Degree,Professional
+11691,,Kaitlyn,Wilson,S,F,40000,Bachelors,Professional
+11692,,Caleb,Gonzales,M,M,40000,Bachelors,Professional
+11693,,Hailey,Diaz,S,F,50000,Bachelors,Skilled Manual
+11694,,Jonathon,Ortega,M,M,50000,Bachelors,Skilled Manual
+11695,,Logan,Campbell,M,M,50000,Bachelors,Skilled Manual
+11696,,Mackenzie,Campbell,S,F,50000,Bachelors,Skilled Manual
+11697,,Eduardo,Lee,M,M,50000,Bachelors,Skilled Manual
+11698,,Jackson,Wright,M,M,50000,Bachelors,Skilled Manual
+11699,,Chase,Peterson,S,M,60000,Bachelors,Skilled Manual
+11700,,Xavier,Richardson,S,M,60000,Bachelors,Professional
+11701,,David,Hayes,M,M,60000,Bachelors,Professional
+11702,,Jenny,Zhou,S,F,60000,Bachelors,Professional
+11703,,Kaylee,Baker,S,F,60000,Bachelors,Professional
+11704,,Evan,Hernandez,S,M,60000,Bachelors,Professional
+11705,,Brooke,Richardson,S,F,60000,Graduate Degree,Professional
+11706,,Blake,Perez,M,M,60000,Bachelors,Professional
+11707,,Natalie,Cook,S,F,60000,Bachelors,Professional
+11708,,Elizabeth,Weisman,S,F,60000,Bachelors,Professional
+11709,,Hailey,Collins,S,F,60000,Graduate Degree,Professional
+11710,,Zoe,Ramirez,M,F,40000,High School,Skilled Manual
+11711,,Daniel,Davis,S,M,70000,Bachelors,Professional
+11712,,Shelby,Rogers,M,F,70000,Partial College,Skilled Manual
+11713,,Kyle,Zhang,M,M,70000,Partial College,Skilled Manual
+11714,,Alexandria,Long,M,F,70000,Partial College,Skilled Manual
+11715,,Chloe,Robinson,M,F,70000,Partial College,Skilled Manual
+11716,,Evan,Kelly,S,M,40000,High School,Skilled Manual
+11717,,Marcus,Jones,M,M,60000,Partial College,Skilled Manual
+11718,,Sarah,Jones,M,F,60000,Partial College,Skilled Manual
+11719,,Blake,Green,M,M,40000,High School,Skilled Manual
+11720,,Morgan,Morris,M,F,40000,High School,Skilled Manual
+11721,,Jennifer,Alexander,M,F,40000,High School,Skilled Manual
+11722,,Julian,Hughes,M,M,60000,Partial College,Skilled Manual
+11723,,Luke,Coleman,S,M,70000,Partial College,Skilled Manual
+11724,,Jason,Carter,S,M,70000,Partial College,Skilled Manual
+11725,,Jose,Li,S,M,70000,Partial College,Skilled Manual
+11726,,Micah,Liang,S,M,70000,Partial College,Skilled Manual
+11727,,Benjamin,Taylor,S,M,60000,Graduate Degree,Professional
+11728,,Logan,White,M,M,60000,Partial College,Skilled Manual
+11729,,Caleb,Campbell,M,M,60000,Partial College,Skilled Manual
+11730,,Emma,Torres,M,F,60000,Partial College,Skilled Manual
+11731,,Tanya,Gill,M,F,60000,Partial College,Skilled Manual
+11732,,Erick,Sanchez,M,M,60000,Partial College,Skilled Manual
+11733,,Kristi,Schmidt,M,F,60000,Partial College,Skilled Manual
+11734,,Omar,Chen,M,M,60000,Partial College,Skilled Manual
+11735,,Sydney,Gray,M,F,60000,Partial College,Skilled Manual
+11736,,Sebastian,Sanchez,M,M,60000,Partial College,Skilled Manual
+11737,,Megan,Martin,M,F,60000,Bachelors,Professional
+11738,,Elijah,Alexander,M,M,60000,Bachelors,Professional
+11739,,Aaron,King,M,M,70000,Graduate Degree,Professional
+11740,,Jan,Hall,M,F,70000,Graduate Degree,Professional
+11741,,Tamara,Chander,M,F,80000,Graduate Degree,Professional
+11742,,Edward,Lewis,S,M,60000,Bachelors,Professional
+11743,,Chase,Kelly,M,M,60000,Bachelors,Professional
+11744,,Stephanie,Campbell,M,F,60000,Bachelors,Professional
+11745,,Allison,Gonzalez,M,F,60000,Bachelors,Professional
+11746,,Seth,Brooks,S,M,60000,Bachelors,Professional
+11747,,Destiny,Davis,M,F,70000,Graduate Degree,Professional
+11748,,Blake,Hill,M,M,70000,Graduate Degree,Professional
+11749,,Eduardo,Jackson,M,M,80000,Graduate Degree,Management
+11750,,Latoya,She,M,F,60000,Bachelors,Professional
+11751,,Victoria,Gonzales,M,F,80000,Graduate Degree,Management
+11752,,Lauren,Bryant,M,F,80000,Graduate Degree,Management
+11753,,Felicia,Ortega,M,F,80000,Graduate Degree,Management
+11754,,Janet,Ortega,M,F,90000,Bachelors,Professional
+11755,,Willie,Pal,M,M,60000,Bachelors,Professional
+11756,,Linda,Ortega,S,F,60000,Bachelors,Professional
+11757,,Vincent,Cai,M,M,70000,Bachelors,Professional
+11758,,Colin,Yuan,M,M,70000,Bachelors,Professional
+11759,,Dawn,Nath,M,F,110000,Graduate Degree,Management
+11760,,Melody,Moreno,M,F,70000,Bachelors,Professional
+11761,,Edgar,Mehta,S,M,70000,Bachelors,Professional
+11762,,Randall,Gomez,M,M,70000,Bachelors,Professional
+11763,,Ross,Fernandez,M,M,80000,Graduate Degree,Management
+11764,,Jessie,Ramos,S,F,80000,Graduate Degree,Management
+11765,,Marc,Torres,M,M,80000,Bachelors,Professional
+11766,,Candace,Raman,S,F,90000,Bachelors,Professional
+11767,,Meagan,Madan,S,F,90000,Bachelors,Professional
+11768,,Clayton,Nara,M,M,90000,Bachelors,Professional
+11769,,Haley,Hernandez,S,F,50000,Graduate Degree,Skilled Manual
+11770,,Peter,Nara,S,M,50000,Graduate Degree,Skilled Manual
+11771,,Isaac,Rivera,S,M,50000,Graduate Degree,Skilled Manual
+11772,,Cameron,Moore,M,M,50000,Graduate Degree,Skilled Manual
+11773,,Gavin,Diaz,S,M,50000,Graduate Degree,Skilled Manual
+11774,,Emma,Sanchez,M,F,50000,Graduate Degree,Skilled Manual
+11775,,Sierra,Roberts,S,F,50000,Graduate Degree,Skilled Manual
+11776,,Seth,Mitchell,M,M,50000,Graduate Degree,Skilled Manual
+11777,,Miranda,Long,S,F,40000,Graduate Degree,Skilled Manual
+11778,,Haley,Henderson,S,F,60000,Graduate Degree,Skilled Manual
+11779,,Sarah,Jackson,S,F,60000,Graduate Degree,Skilled Manual
+11780,,Jessica,Alexander,S,F,60000,Graduate Degree,Skilled Manual
+11781,,Carlos,Gray,M,M,60000,Graduate Degree,Skilled Manual
+11782,,Barbara,Jai,M,F,60000,Graduate Degree,Skilled Manual
+11783,,Sara,Mitchell,M,F,60000,Graduate Degree,Skilled Manual
+11784,,Jose,Turner,M,M,40000,Graduate Degree,Skilled Manual
+11785,,Theodore,Diaz,M,M,40000,Bachelors,Skilled Manual
+11786,,Ian,Murphy,S,M,60000,Graduate Degree,Skilled Manual
+11787,,Jerry,Nath,M,M,60000,Graduate Degree,Skilled Manual
+11788,,Destiny,James,S,F,70000,Graduate Degree,Professional
+11789,,Bailey,Phillips,M,F,50000,Bachelors,Skilled Manual
+11790,,Timothy,Gonzalez,M,M,50000,Bachelors,Skilled Manual
+11791,,Chase,Morgan,M,M,60000,Graduate Degree,Professional
+11792,,Alexia,Perry,M,F,40000,Bachelors,Skilled Manual
+11793,,Xavier,Rogers,M,M,40000,Bachelors,Skilled Manual
+11794,,Lauren,Ross,S,F,40000,Bachelors,Skilled Manual
+11795,,Nicole,Thomas,S,F,40000,Bachelors,Skilled Manual
+11796,,Isabel,Jenkins,S,F,40000,Bachelors,Skilled Manual
+11797,,Devin,Coleman,S,M,40000,Bachelors,Skilled Manual
+11798,,Brendan,Chande,M,M,40000,Bachelors,Skilled Manual
+11799,,Jessie,Wang,M,M,40000,Bachelors,Skilled Manual
+11800,,Jennifer,Baker,M,F,60000,Graduate Degree,Professional
+11801,,Aaron,Sharma,M,M,60000,Graduate Degree,Professional
+11802,,Madison,Taylor,M,F,60000,Graduate Degree,Professional
+11803,,Jan,Hernandez,S,F,60000,Graduate Degree,Professional
+11804,,Haley,Turner,M,F,60000,Graduate Degree,Professional
+11805,,Richard,Green,M,M,70000,Graduate Degree,Professional
+11806,,Jennifer,Stewart,M,F,70000,Graduate Degree,Professional
+11807,,Lucas,Baker,M,M,70000,Graduate Degree,Professional
+11808,,James,Parker,M,M,60000,Graduate Degree,Professional
+11809,,Juan,Gray,M,M,60000,Bachelors,Skilled Manual
+11810,,Antonio,Washington,S,M,40000,Bachelors,Professional
+11811,,Abigail,Brooks,S,F,40000,Bachelors,Professional
+11812,,Andrew,Rodriguez,M,M,40000,Bachelors,Professional
+11813,,Mary,Patterson,M,F,40000,Bachelors,Professional
+11814,,Dalton,Morgan,M,M,60000,Graduate Degree,Professional
+11815,,Hannah,Patterson,M,F,70000,Graduate Degree,Professional
+11816,,Joe,Torres,M,M,70000,Graduate Degree,Professional
+11817,,Morgan,Miller,S,F,70000,Graduate Degree,Professional
+11818,,Daniel,Garcia,M,M,70000,Graduate Degree,Professional
+11819,,Jose,Lal,M,M,70000,Bachelors,Skilled Manual
+11820,,Katelyn,Lopez,M,F,60000,Graduate Degree,Professional
+11821,,Austin,Johnson,M,M,60000,Graduate Degree,Professional
+11822,,Rohinton,Wadia,M,F,60000,Graduate Degree,Professional
+11823,,Morgan,Turner,M,F,70000,Graduate Degree,Professional
+11824,,Jill,Martin,M,F,70000,Graduate Degree,Professional
+11825,,Aimee,She,S,F,70000,Graduate Degree,Professional
+11826,,Jessie,Alonso,M,F,70000,Graduate Degree,Professional
+11827,,Sara,Baker,M,F,60000,Graduate Degree,Professional
+11828,,Katherine,Martinez,M,F,70000,Graduate Degree,Professional
+11829,,Sophia,Campbell,M,F,70000,Graduate Degree,Professional
+11830,,Taylor,Garcia,M,F,80000,Graduate Degree,Professional
+11831,,Christian,Ross,M,M,80000,Graduate Degree,Professional
+11832,,Zoe,Murphy,S,F,40000,Bachelors,Professional
+11833,,Oscar,Price,M,M,80000,Bachelors,Skilled Manual
+11834,,Fernando,Flores,S,M,80000,Bachelors,Skilled Manual
+11835,,Elijah,Russell,S,M,80000,Bachelors,Skilled Manual
+11836,,Garrett,Travers,M,M,80000,Bachelors,Skilled Manual
+11837,,Haley,Alexander,S,F,80000,Bachelors,Skilled Manual
+11838,,Justin,Rodriguez,S,M,80000,Bachelors,Skilled Manual
+11839,,Tyler,Brown,S,M,60000,Graduate Degree,Professional
+11840,,Julian,Patterson,M,M,60000,Graduate Degree,Professional
+11841,,Sean,Nelson,M,M,40000,Bachelors,Professional
+11842,,Justin,Wilson,S,M,50000,Bachelors,Skilled Manual
+11843,,Christy,Nara,S,F,50000,Bachelors,Skilled Manual
+11844,,Michele,Alvarez,S,F,50000,Bachelors,Skilled Manual
+11845,,Natalie,Jones,S,F,30000,High School,Skilled Manual
+11846,,Savannah,Reed,S,F,50000,Bachelors,Skilled Manual
+11847,,Cassidy,Diaz,S,F,50000,Bachelors,Skilled Manual
+11848,,Joshua,Lewis,M,M,50000,Bachelors,Skilled Manual
+11849,,Faith,Reed,S,F,50000,Bachelors,Skilled Manual
+11850,,Brooke,Ramirez,S,F,50000,Bachelors,Skilled Manual
+11851,,Jada,Mitchell,S,F,60000,Bachelors,Professional
+11852,,Kyle,Russell,S,M,60000,Bachelors,Professional
+11853,,Grace,Jones,S,F,60000,Bachelors,Professional
+11854,,Jason,Mitchell,S,M,60000,Graduate Degree,Professional
+11855,,Christian,Walker,M,M,60000,Bachelors,Professional
+11856,,Seth,Hernandez,M,M,60000,Graduate Degree,Professional
+11857,,Isabella,Young,S,F,60000,Graduate Degree,Professional
+11858,,Jordan,Coleman,M,M,40000,High School,Skilled Manual
+11859,,Blake,Garcia,M,M,70000,Partial College,Skilled Manual
+11860,,Nicole,Walker,M,F,70000,Partial College,Skilled Manual
+11861,,Katherine,Carter,M,F,70000,Partial College,Skilled Manual
+11862,,Olivia,Peterson,S,F,40000,High School,Skilled Manual
+11863,,Jessica,Wood,M,F,60000,Partial College,Skilled Manual
+11864,,Elizabeth,Thompson,M,F,60000,Partial College,Skilled Manual
+11865,,Chloe,Rivera,M,F,60000,Partial College,Skilled Manual
+11866,,Lucas,Scott,M,M,60000,Partial College,Skilled Manual
+11867,,Nathaniel,James,M,M,40000,High School,Skilled Manual
+11868,,Jessica,Peterson,S,F,70000,Partial College,Skilled Manual
+11869,,Kaitlyn,Adams,S,F,70000,Partial College,Skilled Manual
+11870,,Jillian,Garcia,S,F,70000,Partial College,Skilled Manual
+11871,,Dalton,Bennett,S,M,70000,Partial College,Skilled Manual
+11872,,Faith,Patterson,S,F,60000,Graduate Degree,Professional
+11873,,Ryan,Zhang,M,M,60000,Graduate Degree,Professional
+11874,,Adrian,Bell,S,M,60000,Bachelors,Professional
+11875,,Jonathan,Brown,M,M,60000,Partial College,Skilled Manual
+11876,,Madison,White,M,F,60000,Partial College,Skilled Manual
+11877,,Alexis,Diaz,M,F,60000,Partial College,Skilled Manual
+11878,,Christine,Nara,M,F,60000,Partial College,Skilled Manual
+11879,,Edgar,Sai,M,M,60000,Partial College,Skilled Manual
+11880,,Melissa,Sanchez,M,F,60000,Partial College,Skilled Manual
+11881,,Richard,Mitchell,M,M,60000,Bachelors,Professional
+11882,,Patrick,Stewart,M,M,60000,Bachelors,Professional
+11883,,Hannah,Anderson,M,F,70000,Graduate Degree,Professional
+11884,,Latoya,Shen,M,F,80000,Graduate Degree,Professional
+11885,,Kurt,Sharma,M,M,80000,Graduate Degree,Professional
+11886,,Katelyn,Parker,M,F,60000,Bachelors,Professional
+11887,,Joseph,White,M,M,60000,Bachelors,Professional
+11888,,Aaron,Ross,M,M,60000,Bachelors,Professional
+11889,,Blake,Patterson,S,M,60000,Bachelors,Professional
+11890,,Whitney,Lopez,M,F,70000,Graduate Degree,Professional
+11891,,Jamie,Liang,M,F,70000,Graduate Degree,Professional
+11892,,Julio,Ortega,M,M,90000,Graduate Degree,Management
+11893,,Orlando,Carlson,M,M,90000,Graduate Degree,Management
+11894,,Ann,Gonzalez,M,F,100000,Graduate Degree,Management
+11895,,Dustin,Chander,M,M,100000,Graduate Degree,Management
+11896,,Frank,Carlson,M,M,100000,Graduate Degree,Management
+11897,,Orlando,Ashe,S,M,60000,Bachelors,Professional
+11898,,Angela,Henderson,M,F,80000,Graduate Degree,Management
+11899,,Brenda,Perez,S,F,80000,Graduate Degree,Management
+11900,,Byron,Carlson,S,M,90000,Bachelors,Professional
+11901,,Stacy,Alvarez,S,F,60000,Bachelors,Professional
+11902,,Drew,Pal,M,M,70000,Bachelors,Professional
+11903,,Kate,Raji,S,F,110000,Graduate Degree,Management
+11904,,Kaylee,Cook,S,F,110000,Graduate Degree,Management
+11905,,Isaiah,Ramirez,S,M,110000,Graduate Degree,Management
+11906,,Gabriella,Sanders,M,F,80000,Graduate Degree,Management
+11907,,Sarah,Garcia,S,F,80000,Graduate Degree,Management
+11908,,Rafael,Tang,S,M,80000,Graduate Degree,Management
+11909,,Nichole,She,M,F,80000,Graduate Degree,Management
+11910,,Jaclyn,Zheng,M,F,80000,Graduate Degree,Management
+11911,,Rachael,Kapoor,M,F,80000,Graduate Degree,Management
+11912,,Rachael,Sai,S,F,60000,Bachelors,Professional
+11913,,Rebecca,Robinson,M,F,60000,Bachelors,Professional
+11914,,Meagan,Rana,S,F,70000,Bachelors,Professional
+11915,,Philip,Carlson,S,M,70000,Bachelors,Professional
+11916,,Joe,Rana,S,M,70000,Bachelors,Professional
+11917,,Roy,Sanz,S,M,70000,Bachelors,Professional
+11918,,Kaylee,Hill,M,F,60000,Bachelors,Professional
+11919,,Warren,Andersen,M,M,60000,Bachelors,Professional
+11920,,Adrienne,Gomez,S,F,60000,Bachelors,Professional
+11921,,Gilbert,Zhu,M,M,60000,Bachelors,Professional
+11922,,James,Davis,S,M,90000,Partial College,Skilled Manual
+11923,,Sarah,Bryant,M,F,60000,Partial College,Skilled Manual
+11924,,Ian,Long,S,M,60000,Partial College,Skilled Manual
+11925,,Ashlee,Jai,S,F,40000,Partial College,Skilled Manual
+11926,,Eduardo,Foster,S,M,40000,Partial College,Skilled Manual
+11927,,Nicole,Murphy,S,F,40000,Partial College,Skilled Manual
+11928,,Isabella,Morris,M,F,60000,Partial College,Skilled Manual
+11929,,Virginia,Gonzalez,S,F,30000,Partial College,Clerical
+11930,,Jaclyn,Nara,M,F,20000,High School,Skilled Manual
+11931,,Marcus,Adams,S,M,70000,Partial College,Skilled Manual
+11932,,Elizabeth,Coleman,M,F,70000,Partial College,Skilled Manual
+11933,,Mathew,Rubio,S,M,40000,Partial High School,Clerical
+11934,,Justin,Shan,S,M,40000,Partial High School,Clerical
+11935,,Jessica,Taylor,S,F,30000,Partial College,Skilled Manual
+11936,,Hunter,Clark,M,M,30000,Partial College,Skilled Manual
+11937,,Devin,Perez,M,M,30000,Partial College,Skilled Manual
+11938,,Seth,Alexander,M,M,60000,Partial College,Skilled Manual
+11939,,Kevin,Washington,S,M,60000,Partial College,Skilled Manual
+11940,,Tyler,Miller,M,M,100000,Bachelors,Management
+11941,,Adam,Roberts,S,M,60000,Partial College,Skilled Manual
+11942,,George,Gonzalez,M,M,20000,Partial High School,Clerical
+11943,,Dawn,Huang,M,F,20000,Partial High School,Clerical
+11944,,Rachael,Rodriguez,S,F,30000,Partial College,Clerical
+11945,,Dennis,Huang,M,M,20000,Partial College,Skilled Manual
+11946,,Brandy,Saunders,S,F,30000,High School,Skilled Manual
+11947,,Jenny,Zheng,S,F,30000,High School,Skilled Manual
+11948,,Tasha,Xu,M,F,30000,High School,Skilled Manual
+11949,,Julia,Brooks,S,F,70000,Partial College,Skilled Manual
+11950,,Jordan,Carter,M,F,70000,Partial College,Skilled Manual
+11951,,Lacey,Huang,M,F,40000,Partial College,Skilled Manual
+11952,,Dorothy,Robinson,S,M,80000,Partial College,Skilled Manual
+11953,,Courtney,Wright,S,F,40000,High School,Skilled Manual
+11954,,Joseph,Garcia,M,M,60000,Partial College,Skilled Manual
+11955,,Gabriel,Green,S,M,60000,Partial College,Skilled Manual
+11956,,Alexandria,Sandberg,S,F,40000,High School,Skilled Manual
+11957,,Courtney,Hernandez,S,F,60000,Partial College,Skilled Manual
+11958,,Dylan,Lal,S,M,70000,Partial College,Professional
+11959,,Elizabeth,Davis,S,F,70000,Partial College,Professional
+11960,,Ana,Griffin,S,F,70000,Partial College,Professional
+11961,,Anne,Alvarez,S,F,70000,Partial College,Professional
+11962,,Alexandra,Roberts,S,F,60000,Partial College,Professional
+11963,,Antonio,Patterson,M,M,80000,High School,Skilled Manual
+11964,,Sharon,Salavaria,S,M,70000,High School,Skilled Manual
+11965,,Katie,She,S,F,70000,High School,Skilled Manual
+11966,,Rafael,Black,S,M,70000,High School,Skilled Manual
+11967,,Latasha,Munoz,S,F,80000,High School,Professional
+11968,,Kelsey,Becker,S,F,130000,Graduate Degree,Management
+11969,,Randy,Xu,S,M,130000,Graduate Degree,Management
+11970,,Bailey,Collins,S,F,80000,Bachelors,Management
+11971,,Amanda,Adams,S,F,80000,Bachelors,Management
+11972,,Katherine,Williams,M,F,60000,Partial College,Professional
+11973,,Caroline,Barnes,S,F,60000,Partial College,Professional
+11974,,Randy,Sun,S,M,60000,Partial College,Professional
+11975,,Destiny,Garcia,S,F,60000,High School,Professional
+11976,,Audrey,Ramos,S,F,120000,Bachelors,Management
+11977,,Bonnie,Jai,M,F,130000,Graduate Degree,Management
+11978,,Jackson,Washington,M,M,130000,Graduate Degree,Management
+11979,,Christopher,Johnson,M,M,80000,Partial High School,Skilled Manual
+11980,,Kimberly,Richardson,S,F,60000,High School,Professional
+11981,,Alexandria,Howard,S,F,60000,High School,Professional
+11982,,Alexandra,Foster,S,F,60000,High School,Professional
+11983,,Cheryl,Ortega,M,F,70000,Partial College,Professional
+11984,,Alex,Campbell,M,M,80000,Bachelors,Management
+11985,,Melanie,Hughes,M,F,80000,Bachelors,Management
+11986,,Max,Alvarez,S,M,70000,Bachelors,Professional
+11987,,Diane,Vazquez,M,F,90000,Bachelors,Professional
+11988,,Kathryn,Chapman,S,F,70000,Partial College,Skilled Manual
+11989,,Kara,Anand,S,F,70000,Partial College,Skilled Manual
+11990,,Joanna,Vazquez,S,F,70000,Partial College,Skilled Manual
+11991,,Frederick,Martinez,M,M,60000,Bachelors,Professional
+11992,,Tonya,Chande,S,F,60000,Partial College,Skilled Manual
+11993,,Rosa,Wang,S,F,60000,Partial College,Skilled Manual
+11994,,Leah,Hu,S,F,110000,Graduate Degree,Management
+11995,,Kelvin,Carson,M,M,60000,Partial College,Skilled Manual
+11996,,Veronica,Srini,S,F,60000,Partial College,Skilled Manual
+11997,,Kristina,Kapoor,M,F,60000,Partial College,Skilled Manual
+11998,,Donna,Sharma,M,F,60000,Partial College,Skilled Manual
+11999,,Johnny,Shan,M,M,60000,Partial College,Skilled Manual
+12000,,Ashley,Russell,S,F,70000,Bachelors,Professional
+12001,,Shannon,Yang,S,F,80000,Bachelors,Professional
+12002,,Adriana,Lopez,S,F,70000,Bachelors,Professional
+12003,,Audrey,Munoz,S,F,70000,Bachelors,Professional
+12004,,Jarrod,Suri,S,M,70000,Bachelors,Professional
+12005,,Gilbert,Shen,M,M,60000,Partial College,Skilled Manual
+12006,,Richard,Blue,M,M,70000,Partial College,Skilled Manual
+12007,,Shannon,Sun,M,F,60000,Partial College,Skilled Manual
+12008,,Sharon,Yuan,M,F,70000,Partial College,Skilled Manual
+12009,,Ann,Martinez,S,F,80000,Partial College,Skilled Manual
+12010,,Max,Serrano,M,M,80000,Partial College,Skilled Manual
+12011,,Morgan,Johnson,S,F,30000,Partial College,Clerical
+12012,,Monica,Schmidt,M,F,60000,Partial College,Skilled Manual
+12013,,Kayla,Lewis,S,F,30000,Partial College,Clerical
+12014,,Devin,Sanders,M,M,10000,High School,Skilled Manual
+12015,,Jacob,White,S,M,30000,High School,Skilled Manual
+12016,,Meredith,Serrano,S,F,40000,High School,Skilled Manual
+12017,,David,Simmons,M,M,40000,High School,Skilled Manual
+12018,,Devin,Henderson,M,M,30000,High School,Skilled Manual
+12019,,Gabrielle,Cox,S,F,30000,High School,Skilled Manual
+12020,,Olivia,Rogers,M,F,30000,High School,Skilled Manual
+12021,,Deborah,Yuan,S,F,10000,High School,Skilled Manual
+12022,,Jose,Wright,S,M,40000,High School,Skilled Manual
+12023,,Fernando,Johnson,S,M,30000,Partial High School,Clerical
+12024,,Samuel,Edwards,S,M,40000,High School,Skilled Manual
+12025,,Logan,Diaz,M,M,40000,High School,Skilled Manual
+12026,,Lucas,Flores,M,M,40000,High School,Skilled Manual
+12027,,Haley,Wood,M,F,40000,High School,Skilled Manual
+12028,,Sarah,Lewis,S,F,30000,Partial High School,Clerical
+12029,,Damien,Hu,M,M,30000,Partial High School,Clerical
+12030,,Ana,Washington,S,F,40000,High School,Skilled Manual
+12031,,Logan,Jai,S,M,30000,Partial High School,Clerical
+12032,,Tyler,Taylor,S,M,30000,Partial High School,Clerical
+12033,,Kristen,Guo,S,F,40000,High School,Skilled Manual
+12034,,Julian,Long,M,M,40000,Bachelors,Management
+12035,,Gerald,Prasad,M,M,40000,Bachelors,Management
+12036,,Summer,Lopez,M,F,40000,Bachelors,Management
+12037,,Patricia,Chapman,S,F,40000,Bachelors,Management
+12038,,George,Vance,S,M,40000,Bachelors,Management
+12039,,Ricardo,Nath,M,M,70000,Graduate Degree,Management
+12040,,Richard,Torres,M,M,40000,Partial College,Skilled Manual
+12041,,Seth,Martin,M,M,40000,High School,Skilled Manual
+12042,,Alex,Carter,M,M,40000,High School,Skilled Manual
+12043,,Carson,Patterson,M,M,40000,Partial College,Skilled Manual
+12044,,Madeline,Lopez,S,F,40000,Partial College,Skilled Manual
+12045,,Luis,Russell,S,M,40000,Partial College,Skilled Manual
+12046,,Alexa,Cook,S,F,40000,Partial College,Skilled Manual
+12047,,Alexandra,Davis,S,F,40000,Partial College,Skilled Manual
+12048,,Kayla,Coleman,S,F,70000,Partial College,Skilled Manual
+12049,,Angela,Russell,S,F,80000,Bachelors,Management
+12050,,Aaron,Young,S,M,110000,Graduate Degree,Management
+12051,,Isaiah,Scott,S,M,120000,Bachelors,Management
+12052,,Makayla,Ward,S,F,120000,Bachelors,Management
+12053,,Cedric,Gao,S,M,130000,Graduate Degree,Management
+12054,,Luke,Diaz,M,M,90000,Bachelors,Management
+12055,,Arianna,Richardson,M,F,90000,Bachelors,Management
+12056,,Ian,Ward,M,M,120000,Graduate Degree,Management
+12057,,Madeline,Collins,M,F,120000,Graduate Degree,Management
+12058,,Chloe,Nelson,M,F,130000,Bachelors,Management
+12059,,Jason,Jenkins,M,M,130000,Bachelors,Management
+12060,,Andrew,Wedge,S,M,150000,Graduate Degree,Management
+12061,,Bryce,Brooks,M,M,160000,Bachelors,Management
+12062,,Edward,Long,M,M,70000,Bachelors,Management
+12063,,Xavier,Martinez,M,M,70000,Bachelors,Management
+12064,,John,White,S,M,70000,Bachelors,Management
+12065,,Isaiah,Collins,M,M,70000,Bachelors,Management
+12066,,Wyatt,Powell,M,M,70000,Bachelors,Management
+12067,,Aaron,Bryant,S,M,70000,Bachelors,Management
+12068,,Maria,Jenkins,S,F,70000,Bachelors,Management
+12069,,Garrett,Kelly,M,M,70000,Bachelors,Management
+12070,,Luke,Ross,M,M,70000,Bachelors,Management
+12071,,Robert,Robinson,M,M,70000,Bachelors,Management
+12072,,Tristan,Ross,M,M,70000,Bachelors,Management
+12073,,Thomas,Rodriguez,M,M,70000,Bachelors,Management
+12074,,Megan,Jenkins,S,F,70000,Bachelors,Management
+12075,,Cameron,Griffin,S,M,60000,Bachelors,Management
+12076,,Chloe,Washington,M,F,70000,Bachelors,Management
+12077,,Nicole,Sandberg,S,F,70000,Bachelors,Management
+12078,,Jose,Edwards,M,M,60000,Bachelors,Management
+12079,,Nathaniel,Cooper,M,M,60000,Bachelors,Management
+12080,,Grace,Sanchez,S,F,60000,Bachelors,Management
+12081,,Kaitlyn,Perez,S,F,60000,Bachelors,Management
+12082,,Lauren,Sanchez,M,F,70000,Bachelors,Management
+12083,,Kayla,Alexander,M,F,70000,Bachelors,Management
+12084,,Aidan,Perry,M,M,60000,Bachelors,Management
+12085,,Tyler,Rodriguez,M,M,60000,Bachelors,Management
+12086,,Emily,Clark,S,F,60000,Bachelors,Management
+12087,,Sean,Cook,S,M,70000,Bachelors,Management
+12088,,Lauren,Thompson,S,F,70000,Bachelors,Management
+12089,,Nathaniel,Richardson,M,M,70000,Bachelors,Management
+12090,,Savannah,Carter,M,F,40000,High School,Professional
+12091,,Eddie,Munoz,M,M,40000,High School,Professional
+12092,,Austin,White,M,M,40000,High School,Professional
+12093,,Levi,Chandra,M,M,60000,Partial College,Professional
+12094,,Bailey,Bailey,M,F,60000,Bachelors,Management
+12095,,Austin,Griffin,M,M,60000,Bachelors,Management
+12096,,Caitlin,Brooks,M,F,60000,Bachelors,Management
+12097,,Sean,Allen,S,M,60000,Partial College,Professional
+12098,,Grace,Clark,S,F,60000,Partial College,Professional
+12099,,Sydney,Hall,S,F,60000,Partial College,Professional
+12100,,Jon,Sun,S,M,60000,Bachelors,Management
+12101,,Logan,Patterson,S,M,70000,Partial College,Professional
+12102,,Devin,Simmons,M,M,70000,Partial College,Professional
+12103,,Chloe,White,M,F,70000,Partial College,Professional
+12104,,Mariah,Ross,M,F,70000,Partial College,Professional
+12105,,Abigail,Foster,S,F,70000,Partial College,Professional
+12106,,Isaiah,Baker,M,M,40000,Partial High School,Skilled Manual
+12107,,Nathan,Gonzales,M,M,40000,Partial High School,Skilled Manual
+12108,,James,Walker,M,M,60000,Partial College,Professional
+12109,,Morgan,Foster,S,F,60000,Partial College,Professional
+12110,,Bianca,Guo,M,F,60000,Partial College,Professional
+12111,,Jacqueline,Gonzales,M,F,60000,Partial College,Professional
+12112,,Arianna,Henderson,M,F,70000,Partial College,Professional
+12113,,Nathan,Hughes,M,M,70000,High School,Professional
+12114,,Charles,Richardson,M,M,70000,High School,Professional
+12115,,Chloe,Richardson,S,F,70000,High School,Professional
+12116,,Amanda,Gray,S,F,70000,High School,Professional
+12117,,Cameron,Yang,M,M,60000,Partial College,Professional
+12118,,Miguel,Sanchez,M,F,60000,Partial College,Professional
+12119,,Keith,Raje,M,M,60000,Partial College,Professional
+12120,,Xavier,Simmons,M,M,60000,High School,Professional
+12121,,Logan,Wilson,S,M,60000,High School,Professional
+12122,,Destiny,Coleman,M,F,70000,Partial College,Professional
+12123,,Wesley,Liang,M,M,170000,Bachelors,Management
+12124,,Brandi,Gill,S,F,110000,Partial College,Professional
+12125,,Diana,Ortega,M,F,130000,Partial College,Professional
+12126,,Tammy,Raman,M,F,150000,High School,Professional
+12127,,Grace,Davis,M,F,100000,Partial College,Professional
+12128,,Kristy,Munoz,M,F,120000,High School,Professional
+12129,,Wendy,Alvarez,M,F,120000,High School,Professional
+12130,,Suzanne,Zhou,S,F,120000,High School,Professional
+12131,,Randall,Dominguez,M,M,90000,High School,Professional
+12132,,Kaitlyn,Henderson,M,F,110000,Partial College,Professional
+12133,,Colleen,Xie,M,F,130000,Partial College,Professional
+12134,,Hector,Alonso,M,M,170000,High School,Professional
+12135,,Fernando,Taylor,M,M,90000,Partial College,Professional
+12136,,Blake,Turner,M,M,30000,High School,Professional
+12137,,Jack,Green,M,M,90000,Graduate Degree,Management
+12138,,Colin,Jai,M,M,70000,Graduate Degree,Management
+12139,,Franklin,Yang,M,M,70000,Graduate Degree,Management
+12140,,Oscar,Russell,S,M,90000,Partial College,Professional
+12141,,Kaitlyn,Lee,S,F,90000,Partial College,Professional
+12142,,Gabriella,Torres,S,F,100000,Bachelors,Management
+12143,,Logan,Turner,M,M,100000,Bachelors,Management
+12144,,Kelly,Jenkins,M,F,100000,Partial College,Professional
+12145,,Brandon,Butler,M,M,100000,Partial College,Professional
+12146,,Xavier,Thomas,S,M,110000,Bachelors,Management
+12147,,Taylor,Patterson,M,F,80000,Bachelors,Management
+12148,,Gabrielle,Morris,S,F,100000,Partial College,Professional
+12149,,Bailey,Scott,M,F,100000,Partial College,Professional
+12150,,Logan,Wang,M,M,130000,Graduate Degree,Management
+12151,,Steven,Kelly,M,M,130000,Bachelors,Management
+12152,,Adrian,Ramirez,M,M,130000,Bachelors,Management
+12153,,Kaitlyn,Bailey,S,F,70000,Partial College,Professional
+12154,,Hailey,Adams,S,F,80000,Partial College,Professional
+12155,,Gabriella,Lopez,S,F,80000,Partial College,Professional
+12156,,Bonnie,Raji,M,F,70000,Graduate Degree,Management
+12157,,William,White,M,M,120000,Graduate Degree,Management
+12158,,Kyle,Phillips,M,M,80000,Partial College,Professional
+12159,,Kaitlyn,Scott,M,F,80000,Partial College,Professional
+12160,,Jaclyn,Zhang,S,F,90000,Partial College,Professional
+12161,,Alexandria,Rogers,M,F,100000,Partial College,Professional
+12162,,Luke,Mitchell,S,M,120000,Partial College,Professional
+12163,,Aaron,Wang,S,M,150000,Bachelors,Management
+12164,,Noah,Butler,M,M,150000,Bachelors,Management
+12165,,Caleb,Flores,M,M,80000,Partial College,Professional
+12166,,Jared,Rogers,M,M,80000,Partial College,Professional
+12167,,Sebastian,Stewart,S,M,100000,Partial College,Professional
+12168,,Hunter,Jackson,M,M,80000,Partial College,Professional
+12169,,Abigail,Howard,S,F,120000,High School,Professional
+12170,,Sara,Reed,M,F,130000,Bachelors,Management
+12171,,Alyssa,Cooper,S,F,130000,Bachelors,Management
+12172,,Eduardo,Alexander,S,M,130000,Bachelors,Management
+12173,,Dalton,Edwards,M,M,130000,Bachelors,Management
+12174,,Charles,Phillips,M,M,170000,Graduate Degree,Management
+12175,,Luke,Powell,S,M,60000,High School,Professional
+12176,,Cody,James,S,M,60000,High School,Professional
+12177,,Kevin,Campbell,S,M,70000,High School,Professional
+12178,,Ethan,Shan,M,M,80000,Partial High School,Skilled Manual
+12179,,Alexis,Jones,S,F,50000,Graduate Degree,Management
+12180,,Holly,Mehta,S,F,50000,Graduate Degree,Management
+12181,,Katelyn,Sanders,M,F,130000,Graduate Degree,Management
+12182,,Erin,Torres,M,F,70000,High School,Professional
+12183,,Emily,Robinson,M,F,80000,Partial College,Professional
+12184,,Isaiah,Perez,M,M,100000,Partial College,Professional
+12185,,Kaitlyn,Patterson,S,F,100000,Partial College,Professional
+12186,,Bryant,Srini,S,M,100000,Partial College,Professional
+12187,,Ruben,Subram,M,M,100000,Partial College,Professional
+12188,,Ashley,Thomas,S,F,110000,Partial College,Professional
+12189,,Sophia,Wright,M,F,130000,Bachelors,Management
+12190,,Justin,Gonzales,S,M,170000,Graduate Degree,Management
+12191,,Melissa,Washington,M,F,60000,Partial High School,Skilled Manual
+12192,,Jocelyn,Hayes,S,F,60000,Partial High School,Skilled Manual
+12193,,Caleb,Simmons,S,M,70000,High School,Professional
+12194,,Destiny,Foster,S,F,70000,Graduate Degree,Management
+12195,,Erin,Morris,S,F,70000,Graduate Degree,Management
+12196,,Alexis,Miller,S,F,70000,Graduate Degree,Management
+12197,,Adam,Hernandez,M,M,70000,Graduate Degree,Management
+12198,,Noah,Scott,M,M,60000,Graduate Degree,Management
+12199,,Christina,Richardson,S,F,40000,Partial College,Professional
+12200,,Rafael,Sharma,M,M,70000,Graduate Degree,Management
+12201,,Mindy,Yuan,M,F,100000,Graduate Degree,Management
+12202,,Xavier,Ross,M,M,100000,Graduate Degree,Management
+12203,,Zachary,Hughes,M,M,120000,Graduate Degree,Management
+12204,,Bradley,Jai,M,M,120000,Graduate Degree,Management
+12205,,Madison,Long,S,F,130000,Bachelors,Management
+12206,,Sierra,Parker,M,F,90000,Bachelors,Management
+12207,,Samuel,Hill,S,M,80000,Bachelors,Management
+12208,,Dominique,Sanchez,M,F,130000,Bachelors,Management
+12209,,Mindy,Jai,M,F,130000,Bachelors,Management
+12210,,Alan,He,M,M,10000,Graduate Degree,Manual
+12211,,Victor,Romero,M,M,10000,Graduate Degree,Manual
+12212,,Shawna,Xie,M,F,10000,Graduate Degree,Manual
+12213,,Alejandro,Lal,M,M,10000,Graduate Degree,Manual
+12214,,Julie,Raje,M,F,20000,Graduate Degree,Manual
+12215,,Karla,She,M,F,20000,Graduate Degree,Clerical
+12216,,Gerald,Rodriguez,M,M,20000,Graduate Degree,Clerical
+12217,,Kyle,Roberts,M,M,10000,Bachelors,Manual
+12218,,Mitchell,Xu,M,M,10000,Bachelors,Manual
+12219,,Kurt,Nara,M,M,10000,Bachelors,Manual
+12220,,Virginia,Sara,M,F,10000,Bachelors,Manual
+12221,,Brandi,Ruiz,M,F,20000,Graduate Degree,Clerical
+12222,,Jenny,Xu,M,F,20000,Graduate Degree,Clerical
+12223,,Felicia,Vazquez,M,F,20000,Graduate Degree,Clerical
+12224,,Tristan,Henderson,M,M,20000,Graduate Degree,Clerical
+12225,,Kathleen,Ortega,M,F,20000,Graduate Degree,Clerical
+12226,,Faith,Ward,M,F,10000,Bachelors,Clerical
+12227,,Kelsey,Raje,M,F,10000,Partial College,Manual
+12228,,Mayra,Martinez,M,F,20000,Bachelors,Clerical
+12229,,Kari,Gomez,M,F,10000,Partial College,Manual
+12230,,Wesley,Zheng,M,M,10000,Partial College,Manual
+12231,,Isabelle,Patterson,S,F,10000,Partial College,Manual
+12232,,Sean,Hernandez,S,M,10000,Partial College,Manual
+12233,,Jerry,Yuan,M,M,10000,Partial College,Manual
+12234,,Clarence,Zeng,M,M,10000,Partial College,Manual
+12235,,Donna,Rai,M,F,30000,Graduate Degree,Clerical
+12236,,Kendra,Gill,M,F,20000,Partial College,Manual
+12237,,Ruth,Madan,M,F,20000,Partial College,Manual
+12238,,Monica,Raman,M,F,30000,Bachelors,Clerical
+12239,,Alberto,Ramos,M,M,30000,Bachelors,Clerical
+12240,,Clayton,Sharma,S,M,10000,Partial College,Manual
+12241,,Kristine,Sandberg,S,F,10000,Partial College,Manual
+12242,,Gilbert,Liang,S,M,10000,Partial College,Manual
+12243,,Kristy,Rubio,S,F,10000,Partial College,Manual
+12244,,Amy,Huang,M,F,20000,Bachelors,Clerical
+12245,,Francisco,Gonzalez,S,M,10000,Partial College,Manual
+12246,,Shawn,Luo,M,M,10000,High School,Manual
+12247,,Brandy,Raman,S,F,20000,Bachelors,Clerical
+12248,,Devin,Taylor,S,M,10000,High School,Manual
+12249,,Jessie,Cai,M,M,20000,Bachelors,Clerical
+12250,,Andrea,Collins,S,F,10000,High School,Manual
+12251,,Troy,Suri,M,M,20000,Partial College,Manual
+12252,,Omar,Liu,M,M,20000,Partial College,Manual
+12253,,Jenny,Sun,S,F,20000,Partial College,Manual
+12254,,Calvin,Deng,S,M,20000,Partial College,Manual
+12255,,Robyn,Alvarez,S,F,20000,Partial College,Manual
+12256,,Wendy,Ramos,M,F,20000,Partial College,Manual
+12257,,Ross,Ruiz,M,M,30000,Graduate Degree,Clerical
+12258,,Jamie,Li,M,F,30000,Graduate Degree,Clerical
+12259,,Cindy,Madan,M,F,30000,Graduate Degree,Clerical
+12260,,Melinda,Romero,M,F,30000,Graduate Degree,Clerical
+12261,,Kaitlin,Sanchez,M,F,10000,High School,Manual
+12262,,Morgan,Sanchez,M,F,20000,Partial College,Manual
+12263,,Emmanuel,Garcia,S,M,20000,Partial College,Manual
+12264,,Bruce,Ashe,S,M,20000,Partial College,Manual
+12265,,Alan,Guo,S,M,10000,High School,Manual
+12266,,Tiffany,Lin,M,F,20000,Partial College,Manual
+12267,,Clifford,Garcia,S,M,20000,Partial College,Manual
+12268,,Edwin,Shan,M,M,30000,Graduate Degree,Clerical
+12269,,Warren,Zheng,M,M,30000,Graduate Degree,Clerical
+12270,,Ebony,Ramos,S,F,30000,Graduate Degree,Clerical
+12271,,Tyrone,Hernandez,M,M,30000,Bachelors,Clerical
+12272,,Justin,Alexander,M,M,40000,Graduate Degree,Clerical
+12273,,Nelson,Carlson,M,M,30000,Bachelors,Clerical
+12274,,Javier,Torres,S,M,10000,High School,Manual
+12275,,Adriana,Madan,S,F,20000,Partial College,Manual
+12276,,Alisha,Shan,M,F,30000,Bachelors,Clerical
+12277,,Beth,Ortega,S,F,10000,High School,Manual
+12278,,Meredith,Johnsen,S,F,10000,High School,Manual
+12279,,Mathew,Suarez,M,M,30000,Bachelors,Clerical
+12280,,Theresa,Alvarez,M,F,30000,Bachelors,Clerical
+12281,,Janelle,Sanchez,M,F,40000,Graduate Degree,Clerical
+12282,,Nicolas,Tang,S,M,40000,Graduate Degree,Clerical
+12283,,Todd,Zeng,S,M,20000,Partial College,Manual
+12284,,Cristina,Beck,M,F,30000,Bachelors,Clerical
+12285,,Bethany,Chande,S,F,30000,Bachelors,Clerical
+12286,,Nathan,Jenkins,S,M,40000,Graduate Degree,Skilled Manual
+12287,,Andre,Arun,S,M,10000,Partial College,Manual
+12288,,Sara,Brooks,M,F,10000,High School,Manual
+12289,,Joseph,Taylor,S,M,10000,High School,Manual
+12290,,Kaylee,Morris,S,F,10000,High School,Manual
+12291,,Johnathan,Suri,S,M,90000,Partial College,Professional
+12292,,Nicolas,Kumar,M,M,130000,Bachelors,Management
+12293,,Tammy,Garcia,M,F,130000,Bachelors,Management
+12294,,Shane,Kovar,M,M,130000,Bachelors,Management
+12295,,Dwayne,Gomez,S,M,60000,Partial High School,Skilled Manual
+12296,,Francisco,Sara,M,M,70000,High School,Professional
+12297,,Felicia,Blanco,S,F,80000,Partial College,Professional
+12298,,Crystal,Zeng,S,F,90000,Partial College,Professional
+12299,,Walter,Serrano,M,M,150000,Graduate Degree,Management
+12300,,Adriana,Gonzalez,S,F,80000,Partial College,Professional
+12301,,Nichole,Nara,S,F,100000,Bachelors,Management
+12302,,Kevin,Coleman,M,M,100000,Bachelors,Management
+12303,,Kristi,Alvarez,M,F,130000,Partial College,Professional
+12304,,Alejandro,Zhou,S,M,130000,Partial College,Professional
+12305,,Xavier,Bailey,M,M,80000,Partial College,Professional
+12306,,Logan,Parker,M,M,80000,Partial College,Professional
+12307,,Brad,She,M,M,90000,High School,Professional
+12308,,Margaret,He,M,F,100000,High School,Professional
+12309,,Omar,Raje,S,M,130000,Partial College,Professional
+12310,,Stacy,Munoz,S,F,130000,High School,Professional
+12311,,Stanley,Weber,S,M,130000,High School,Professional
+12312,,Jake,Zhao,M,M,100000,Bachelors,Management
+12313,,Jaime,Chande,S,M,100000,Bachelors,Management
+12314,,Jill,Suarez,M,F,110000,Bachelors,Management
+12315,,Ann,Rodriguez,M,F,130000,Partial College,Professional
+12316,,Alejandro,Luo,M,M,130000,Partial College,Professional
+12317,,Carl,She,M,M,150000,Bachelors,Management
+12318,,Kristina,Schmidt,M,F,170000,Bachelors,Management
+12319,,Shannon,Ye,M,F,90000,High School,Professional
+12320,,Cheryl,Alvarez,S,F,120000,Partial College,Professional
+12321,,Rosa,Hu,M,F,70000,Partial High School,Skilled Manual
+12322,,Kari,Mehta,M,F,80000,High School,Professional
+12323,,Lawrence,Alonso,M,M,80000,High School,Professional
+12324,,Dale,Lal,S,M,90000,High School,Professional
+12325,,Gloria,Martin,M,F,130000,High School,Professional
+12326,,Glenn,Zhou,S,M,170000,Partial College,Management
+12327,,Edwin,Liang,S,M,100000,Partial College,Management
+12328,,Eugene,Zhao,S,M,130000,High School,Management
+12329,,Bonnie,Shan,S,F,170000,Partial College,Management
+12330,,Preston,Raman,M,M,100000,Partial College,Management
+12331,,Meagan,Chandra,S,F,70000,Partial High School,Skilled Manual
+12332,,Andres,Nara,M,M,90000,High School,Management
+12333,,Terrance,Rodriguez,M,M,90000,High School,Management
+12334,,Roy,Jimenez,M,M,130000,High School,Management
+12335,,Francisco,Ashe,S,M,150000,High School,Management
+12336,,Wyatt,Price,S,M,130000,Graduate Degree,Professional
+12337,,Dustin,Goldstein,S,M,70000,Bachelors,Professional
+12338,,Monica,Vance,S,F,70000,Bachelors,Professional
+12339,,Clayton,Jai,S,M,70000,Bachelors,Professional
+12340,,Stacy,Diaz,S,F,70000,Bachelors,Professional
+12341,,Katie,Kumar,M,F,80000,Bachelors,Professional
+12342,,Morgan,Young,M,F,70000,Bachelors,Professional
+12343,,Gloria,Ruiz,M,F,60000,Bachelors,Professional
+12344,,Dominique,Perez,S,F,80000,Bachelors,Professional
+12345,,Alison,Raje,S,F,80000,Bachelors,Professional
+12346,,Wesley,Gao,S,M,90000,Bachelors,Professional
+12347,,Summer,Madan,M,F,90000,Bachelors,Professional
+12348,,Jimmy,Vazquez,M,M,90000,Bachelors,Professional
+12349,,Lacey,Yuan,S,F,90000,Bachelors,Professional
+12350,,Logan,Hernandez,M,M,90000,Bachelors,Professional
+12351,,Cara,Zhang,M,F,100000,High School,Management
+12352,,Ramon,Zhang,M,M,100000,High School,Management
+12353,,Joe,Ramos,M,M,110000,Partial College,Management
+12354,,Lance,Ortega,M,M,110000,Partial College,Management
+12355,,Monique,Ortega,S,F,120000,Partial High School,Professional
+12356,,Julia,Wood,S,F,90000,Bachelors,Professional
+12357,,Susan,Lu,S,F,100000,High School,Management
+12358,,Lacey,Raje,M,F,100000,Partial High School,Professional
+12359,,Veronica,Raman,M,F,130000,Graduate Degree,Professional
+12360,,Mario,Goel,S,M,130000,Partial College,Management
+12361,,Dana,Diaz,M,F,160000,Partial High School,Management
+12362,,Thomas,Harrison,S,M,90000,Bachelors,Management
+12363,,Kayla,Thompson,M,F,110000,Graduate Degree,Management
+12364,,Erin,Rogers,M,F,130000,Bachelors,Management
+12365,,Alex,Evans,M,M,80000,Bachelors,Management
+12366,,Stephanie,Cox,M,F,80000,Bachelors,Management
+12367,,Trinity,Townsend,S,F,10000,Partial High School,Manual
+12368,,Rodney,Rubio,S,M,10000,Partial High School,Manual
+12369,,Terrence,Lal,S,M,60000,Bachelors,Professional
+12370,,Preston,Perez,M,M,60000,Bachelors,Professional
+12371,,Stefanie,Subram,S,F,60000,Bachelors,Professional
+12372,,Darren,Prasad,S,M,60000,Bachelors,Professional
+12373,,Isaac,Gray,S,M,30000,Partial College,Clerical
+12374,,Marie,Kapoor,S,F,20000,Partial High School,Manual
+12375,,Jarrod,Raman,S,M,20000,Partial High School,Manual
+12376,,Holly,Perez,S,F,20000,Partial High School,Manual
+12377,,Christopher,Miller,S,M,20000,Partial High School,Manual
+12378,,Brianna,Sanchez,S,F,30000,Partial College,Clerical
+12379,,Bridget,Chande,S,F,30000,Partial College,Clerical
+12380,,Omar,Yuan,S,M,30000,High School,Manual
+12381,,Johnny,Lal,M,M,40000,Bachelors,Skilled Manual
+12382,,Tamara,Chen,S,F,20000,Partial High School,Manual
+12383,,Albert,Gomez,S,M,30000,High School,Manual
+12384,,Jacquelyn,Gutierrez,M,F,40000,Bachelors,Skilled Manual
+12385,,Tara,Raji,M,F,40000,Bachelors,Skilled Manual
+12386,,Katherine,Perry,S,F,20000,Partial High School,Manual
+12387,,Meredith,Vazquez,S,F,30000,High School,Manual
+12388,,Casey,Kumar,S,F,30000,High School,Manual
+12389,,Albert,Jiménez,S,M,30000,High School,Manual
+12390,,Denise,Martinez,S,F,40000,Partial College,Clerical
+12391,,Olivia,Kelly,S,F,40000,Partial College,Clerical
+12392,,Nichole,Nath,S,F,10000,Partial High School,Manual
+12393,,Brenda,Sai,S,F,20000,Partial High School,Manual
+12394,,Erika,Serrano,S,F,20000,Partial High School,Manual
+12395,,Kyle,Carter,S,M,30000,High School,Manual
+12396,,Susan,Yang,S,F,30000,High School,Manual
+12397,,Shaun,Chapman,S,M,40000,Partial College,Clerical
+12398,,Ashley,Clark,S,F,40000,Partial College,Clerical
+12399,,Henry,Chapman,S,M,40000,Partial College,Clerical
+12400,,Andy,Martin,S,M,40000,Partial College,Clerical
+12401,,Kimberly,Rivera,S,F,40000,Partial College,Clerical
+12402,,Albert,Moreno,S,M,40000,Partial College,Clerical
+12403,,Henry,Young,S,M,40000,Partial College,Clerical
+12404,,Krystal,Liang,S,F,40000,Partial College,Clerical
+12405,,Cole,Sanchez,S,M,40000,Partial College,Clerical
+12406,,Ross,Gutierrez,S,M,50000,Graduate Degree,Skilled Manual
+12407,,Shawn,Raji,S,M,50000,Graduate Degree,Skilled Manual
+12408,,Jon,Lu,S,M,50000,Graduate Degree,Skilled Manual
+12409,,Savannah,Hill,S,F,40000,Partial College,Clerical
+12410,,Mariah,Richardson,S,F,40000,Partial College,Clerical
+12411,,Kevin,Alexander,S,M,40000,Partial College,Clerical
+12412,,Mackenzie,Wright,M,F,50000,Graduate Degree,Skilled Manual
+12413,,James,Gonzales,S,M,60000,Graduate Degree,Skilled Manual
+12414,,Ethan,Lal,S,M,60000,Graduate Degree,Skilled Manual
+12415,,Brianna,Richardson,S,F,60000,Graduate Degree,Skilled Manual
+12416,,Veronica,Martinez,S,F,60000,Graduate Degree,Skilled Manual
+12417,,Alexis,Bryant,S,F,60000,Graduate Degree,Skilled Manual
+12418,,Robert,Hernandez,S,M,20000,High School,Manual
+12419,,Destiny,Bell,M,F,30000,Bachelors,Skilled Manual
+12420,,Spencer,Hayes,M,M,30000,Bachelors,Skilled Manual
+12421,,Cameron,Hughes,M,M,30000,Bachelors,Skilled Manual
+12422,,Hailey,Evans,M,F,30000,Bachelors,Skilled Manual
+12423,,Sarah,Thompson,S,F,20000,Partial High School,Clerical
+12424,,Rebecca,Mitchell,M,F,30000,High School,Manual
+12425,,Brandon,White,M,M,30000,High School,Clerical
+12426,,Cody,Cox,M,M,40000,Partial College,Clerical
+12427,,Kimberly,Stewart,M,F,40000,Partial College,Clerical
+12428,,Sean,Morris,M,M,40000,Partial College,Clerical
+12429,,Melvin,Black,M,M,40000,Partial College,Clerical
+12430,,Kaitlyn,Thompson,M,F,40000,Partial College,Clerical
+12431,,Wyatt,Thomas,M,M,40000,Partial College,Clerical
+12432,,Nathan,Clark,M,M,40000,Partial College,Clerical
+12433,,Antonio,Price,M,M,40000,Partial College,Clerical
+12434,,Thomas,Kumar,M,M,40000,Partial College,Clerical
+12435,,Christy,Zhou,M,F,40000,Partial College,Clerical
+12436,,Albert,Diaz,M,M,40000,Partial College,Clerical
+12437,,Jeremy,Young,M,M,40000,Partial College,Clerical
+12438,,Bailey,Rogers,S,F,80000,Graduate Degree,Skilled Manual
+12439,,Megan,Bennett,M,F,40000,Partial College,Clerical
+12440,,Francisco,Chandra,M,M,40000,Partial College,Clerical
+12441,,Trevor,Simmons,M,M,40000,Partial College,Clerical
+12442,,Allison,Richardson,M,F,40000,Partial College,Clerical
+12443,,Garrett,James,M,M,40000,Partial College,Clerical
+12444,,Mackenzie,Phillips,M,F,40000,Partial College,Clerical
+12445,,Cameron,Taylor,M,M,40000,Partial College,Clerical
+12446,,Jasmine,Hall,M,F,40000,Partial College,Clerical
+12447,,Carson,Hayes,M,M,40000,Partial College,Clerical
+12448,,Hailey,Cox,S,F,60000,Graduate Degree,Skilled Manual
+12449,,Dylan,Brown,S,M,60000,Graduate Degree,Skilled Manual
+12450,,Cody,Cook,M,M,60000,Graduate Degree,Skilled Manual
+12451,,Anna,Simmons,S,F,60000,Graduate Degree,Skilled Manual
+12452,,Sean,Sanchez,M,M,60000,Graduate Degree,Skilled Manual
+12453,,Madison,Bennett,S,F,60000,Graduate Degree,Skilled Manual
+12454,,Samuel,Griffin,M,M,60000,Graduate Degree,Skilled Manual
+12455,,Benjamin,Lewis,M,M,60000,Graduate Degree,Skilled Manual
+12456,,Thomas,Chen,M,M,60000,Graduate Degree,Skilled Manual
+12457,,Misty,Rai,S,F,60000,Graduate Degree,Skilled Manual
+12458,,Veronica,Sanchez,M,F,30000,Bachelors,Clerical
+12459,,Stefanie,Rodriguez,S,F,30000,Bachelors,Clerical
+12460,,Dominique,Malhotra,S,F,30000,Bachelors,Clerical
+12461,,Ruth,Suri,M,F,40000,Graduate Degree,Clerical
+12462,,Levi,Suri,M,M,40000,Graduate Degree,Clerical
+12463,,Todd,Huang,M,M,40000,Graduate Degree,Clerical
+12464,,Jared,Cook,S,M,10000,High School,Manual
+12465,,Cassandra,Patel,M,F,20000,Partial College,Manual
+12466,,Willie,He,M,M,20000,Partial College,Manual
+12467,,Jennifer,Jones,S,F,20000,Partial College,Manual
+12468,,Wayne,Nath,M,M,30000,Bachelors,Clerical
+12469,,Shane,Srini,M,M,20000,High School,Manual
+12470,,Barbara,He,M,F,20000,High School,Manual
+12471,,Lacey,Zeng,M,F,40000,Bachelors,Clerical
+12472,,Jeffery,Zhang,M,M,30000,Bachelors,Clerical
+12473,,Sergio,Sai,M,M,30000,Bachelors,Skilled Manual
+12474,,Tammy,Chandra,M,F,30000,Bachelors,Skilled Manual
+12475,,Logan,Carter,S,M,10000,Partial High School,Manual
+12476,,Rodney,Jimenez,S,M,20000,High School,Manual
+12477,,Robin,Gill,M,F,20000,High School,Manual
+12478,,Ruben,Mehta,S,M,20000,High School,Manual
+12479,,Priscilla,Tang,M,F,30000,Bachelors,Skilled Manual
+12480,,Meredith,Alvarez,S,F,10000,Partial High School,Manual
+12481,,Victor,Diaz,S,M,10000,Partial High School,Manual
+12482,,Jerome,Browning,S,M,10000,Partial High School,Manual
+12483,,Amanda,Perez,S,F,20000,High School,Manual
+12484,,Lori,Suarez,S,F,20000,High School,Manual
+12485,,Veronica,Subram,S,F,20000,High School,Manual
+12486,,Kristen,Ye,S,F,20000,High School,Manual
+12487,,Willie,Zhu,S,M,20000,High School,Manual
+12488,,Jay,Garcia,S,M,20000,High School,Manual
+12489,,Wayne,Rai,M,M,40000,Bachelors,Professional
+12490,,Trisha,He,M,F,40000,Bachelors,Professional
+12491,,Alvin,Huang,M,M,40000,Bachelors,Professional
+12492,,Brittany,Price,S,F,60000,Graduate Degree,Skilled Manual
+12493,,Dwayne,Vazquez,M,M,40000,Bachelors,Professional
+12494,,Abby,Sandberg,M,F,30000,Partial College,Clerical
+12495,,Lucas,Miller,S,M,30000,Partial College,Clerical
+12496,,Melanie,Cox,M,F,40000,Bachelors,Skilled Manual
+12497,,Ashlee,Kumar,M,F,40000,Bachelors,Skilled Manual
+12498,,Eduardo,Diaz,M,M,40000,Bachelors,Skilled Manual
+12499,,Heather,Wang,S,F,20000,High School,Manual
+12500,,Kathleen,Vazquez,S,F,30000,Partial College,Clerical
+12501,,Cory,Sai,S,M,30000,Partial College,Clerical
+12502,,Darren,Sanchez,S,M,30000,Partial College,Clerical
+12503,,Casey,Shen,S,F,30000,Partial College,Clerical
+12504,,Arthur,Gutierrez,M,M,40000,Bachelors,Skilled Manual
+12505,,Dalton,Martin,M,M,40000,Bachelors,Skilled Manual
+12506,,Preston,Sanchez,M,M,40000,Bachelors,Skilled Manual
+12507,,Ian,Bell,M,M,30000,Partial College,Clerical
+12508,,Nichole,Anand,M,F,40000,Bachelors,Skilled Manual
+12509,,Marc,Ferrier,M,M,40000,Bachelors,Skilled Manual
+12510,,Roberto,Sanz,M,M,40000,Bachelors,Skilled Manual
+12511,,Grant,Chander,S,M,30000,Partial College,Clerical
+12512,,Carolyn,Gomez,M,F,30000,Partial College,Clerical
+12513,,Austin,Thompson,S,M,30000,Partial College,Clerical
+12514,,Lacey,Becker,S,F,30000,Partial College,Clerical
+12515,,Shelby,Bailey,S,F,30000,Partial College,Clerical
+12516,,Shawna,Chander,S,F,30000,Partial College,Clerical
+12517,,Alexa,Watson,S,F,30000,Partial College,Clerical
+12518,,Jacquelyn,Dominguez,S,F,30000,Partial College,Clerical
+12519,,Casey,Gutierrez,S,M,30000,Partial College,Clerical
+12520,,Seth,Jackson,S,M,20000,High School,Manual
+12521,,Meredith,Dominguez,S,F,10000,Partial High School,Manual
+12522,,Brandy,Sanchez,S,F,20000,High School,Manual
+12523,,Steve,Wagner,S,M,20000,High School,Manual
+12524,,Kate,Shan,S,F,30000,Partial College,Clerical
+12525,,Chelsea,Rodriguez,M,F,40000,Bachelors,Skilled Manual
+12526,,Michele,Suarez,M,F,40000,Bachelors,Skilled Manual
+12527,,José,Rodriguez,M,M,60000,Graduate Degree,Skilled Manual
+12528,,Devin,Wilson,S,M,60000,Graduate Degree,Skilled Manual
+12529,,Isaiah,Allen,M,M,60000,Graduate Degree,Skilled Manual
+12530,,Isabel,Coleman,S,F,40000,Partial College,Clerical
+12531,,Autumn,Xu,S,F,40000,Partial College,Clerical
+12532,,Jose,Carter,M,M,50000,Graduate Degree,Skilled Manual
+12533,,Luis,Washington,M,M,170000,Graduate Degree,Management
+12534,,Katie,Shan,M,F,10000,Graduate Degree,Manual
+12535,,Clifford,Kapoor,S,M,10000,Bachelors,Manual
+12536,,Javier,Dominguez,M,M,10000,Bachelors,Manual
+12537,,Terrence,Luo,M,M,10000,Bachelors,Manual
+12538,,Paula,Blanco,M,F,20000,Graduate Degree,Clerical
+12539,,Marc,Dominguez,S,M,20000,Graduate Degree,Clerical
+12540,,Levi,Sara,M,M,30000,Graduate Degree,Clerical
+12541,,Jonathan,Zhang,M,M,30000,Graduate Degree,Clerical
+12542,,Preston,Patel,M,M,30000,Graduate Degree,Clerical
+12543,,Ruben,Alvarez,M,M,10000,Bachelors,Manual
+12544,,Bruce,Jordan,M,M,10000,Bachelors,Manual
+12545,,Marc,Ruiz,M,M,10000,Partial College,Manual
+12546,,Clarence,Andersen,S,M,20000,Bachelors,Clerical
+12547,,Bradley,Nara,M,M,20000,Bachelors,Clerical
+12548,,Alexandra,Collins,S,F,10000,Partial College,Manual
+12549,,Donna,Xie,S,F,10000,Partial College,Manual
+12550,,Austin,Diaz,M,M,10000,Partial College,Manual
+12551,,Julio,Ramos,M,M,20000,Bachelors,Clerical
+12552,,Bruce,Torres,M,M,20000,Bachelors,Clerical
+12553,,Toni,Fernandez,M,F,20000,Bachelors,Clerical
+12554,,Barry,Rodriguez,M,M,30000,Graduate Degree,Clerical
+12555,,Edgar,Malhotra,M,M,10000,Bachelors,Clerical
+12556,,Manuel,Kapoor,M,M,10000,Bachelors,Clerical
+12557,,Phillip,Lopez,M,M,10000,Bachelors,Clerical
+12558,,Amanda,Evans,M,F,20000,Bachelors,Clerical
+12559,,Emmanuel,Lopez,M,M,20000,Bachelors,Clerical
+12560,,Mandy,Gao,M,F,20000,Bachelors,Clerical
+12561,,Trisha,Lin,S,F,10000,Partial College,Manual
+12562,,Kristina,Chandra,M,F,10000,Partial College,Manual
+12563,,Alejandro,Lin,M,M,30000,Bachelors,Clerical
+12564,,Marshall,Yang,M,M,30000,Bachelors,Clerical
+12565,,Kendra,Gutierrez,M,F,10000,Partial College,Manual
+12566,,Omar,Yang,M,M,30000,Bachelors,Clerical
+12567,,Carmen,Arthur,M,F,30000,Bachelors,Clerical
+12568,,Stacey,Ye,M,F,30000,Bachelors,Clerical
+12569,,Kristin,Rai,M,F,40000,Graduate Degree,Clerical
+12570,,Casey,Munoz,S,M,10000,Partial College,Manual
+12571,,Jennifer,Green,M,F,10000,Partial College,Manual
+12572,,Alisha,Chander,S,F,10000,Partial College,Manual
+12573,,Grant,Rai,S,M,10000,Partial College,Manual
+12574,,Derek,Raje,S,M,10000,Partial College,Manual
+12575,,Jaclyn,Shen,S,F,10000,Partial College,Manual
+12576,,Walter,Dominguez,S,M,10000,Partial College,Manual
+12577,,Francis,Sanz,S,M,10000,Partial College,Manual
+12578,,Gavin,Perry,S,M,10000,Partial College,Manual
+12579,,Lydia,Sanchez,S,F,10000,Partial College,Manual
+12580,,Cedric,She,S,M,10000,Partial College,Manual
+12581,,Kristina,Fernandez,S,F,10000,Partial College,Manual
+12582,,Carmen,Sara,S,F,10000,High School,Manual
+12583,,Tyrone,Ortega,S,M,10000,High School,Manual
+12584,,Brittney,Ma,S,F,10000,High School,Manual
+12585,,Ian,Martinez,M,M,10000,High School,Manual
+12586,,Kellie,Hernandez,S,F,10000,High School,Manual
+12587,,Danny,Travers,S,M,20000,Bachelors,Clerical
+12588,,Tracy,Chande,S,F,10000,High School,Manual
+12589,,Ruben,Rodriguez,M,M,20000,Partial College,Manual
+12590,,Mario,Chander,S,M,30000,Bachelors,Clerical
+12591,,Meredith,Madan,M,F,30000,Graduate Degree,Clerical
+12592,,Amy,Li,M,F,30000,Graduate Degree,Clerical
+12593,,Benjamin,Zhang,S,M,30000,Graduate Degree,Clerical
+12594,,Sandra,Gao,M,F,30000,Graduate Degree,Clerical
+12595,,Mathew,Blanco,S,M,30000,Graduate Degree,Clerical
+12596,,Armando,Romero,M,M,30000,Graduate Degree,Clerical
+12597,,Franklin,Zhang,M,M,20000,Partial College,Manual
+12598,,Alexandra,Bryant,M,F,30000,Graduate Degree,Clerical
+12599,,Jillian,Fernandez,M,F,20000,Partial College,Manual
+12600,,Larry,Romero,M,M,30000,Graduate Degree,Clerical
+12601,,Randy,Zhang,M,M,30000,Graduate Degree,Clerical
+12602,,Francisco,Srini,M,M,30000,Graduate Degree,Clerical
+12603,,Cole,Reed,S,M,30000,Bachelors,Clerical
+12604,,Nathan,Lee,M,M,30000,Bachelors,Clerical
+12605,,Carol,Cooper,M,F,30000,Bachelors,Clerical
+12606,,Arthur,Van,M,M,40000,Graduate Degree,Clerical
+12607,,Tamara,Zhu,M,F,40000,Graduate Degree,Clerical
+12608,,Brett,Sanchez,M,M,30000,Bachelors,Clerical
+12609,,Linda,Carlson,M,F,30000,Bachelors,Clerical
+12610,,Wendy,Gutierrez,M,F,30000,Bachelors,Clerical
+12611,,Manuel,Sara,S,M,20000,Partial College,Manual
+12612,,Shannon,Torres,S,M,10000,High School,Manual
+12613,,Joel,Prasad,M,M,30000,Bachelors,Clerical
+12614,,Lance,Gill,S,M,30000,Bachelors,Clerical
+12615,,Nathan,Hill,S,M,10000,High School,Manual
+12616,,Kelsey,Tang,S,F,20000,Partial College,Manual
+12617,,Jake,Ma,M,M,20000,Partial College,Manual
+12618,,Dawn,Lal,M,F,30000,Bachelors,Clerical
+12619,,Priscilla,Rai,M,F,40000,Graduate Degree,Clerical
+12620,,Maurice,Lal,M,M,40000,Graduate Degree,Clerical
+12621,,Barry,Martinez,M,M,40000,Graduate Degree,Clerical
+12622,,Micheal,Rubio,M,M,40000,Graduate Degree,Skilled Manual
+12623,,Jesse,Sanchez,M,M,10000,Partial College,Manual
+12624,,Jamie,Xu,M,F,20000,Partial College,Manual
+12625,,Carly,Andersen,M,F,20000,Partial College,Manual
+12626,,Cassie,Lal,M,F,20000,Partial College,Manual
+12627,,Leah,Zheng,S,F,20000,Partial College,Manual
+12628,,Arturo,Ma,M,M,20000,Partial College,Manual
+12629,,Russell,Nara,S,M,20000,Partial College,Manual
+12630,,Kevin,Simmons,M,M,80000,Partial College,Professional
+12631,,Clarence,Gao,S,M,70000,High School,Professional
+12632,,Bonnie,Nath,M,F,80000,Bachelors,Management
+12633,,Shannon,Suarez,M,M,110000,Bachelors,Management
+12634,,Derrick,Ruiz,M,M,120000,Bachelors,Management
+12635,,Brad,Beck,S,M,80000,Partial College,Professional
+12636,,Tamer,Salah,M,F,100000,Bachelors,Management
+12637,,Leonard,Nath,M,M,130000,Partial College,Professional
+12638,,Sebastian,Brooks,M,M,80000,Partial College,Professional
+12639,,Ruben,Lopez,S,M,80000,Partial College,Professional
+12640,,Angel,Richardson,M,M,90000,Partial College,Professional
+12641,,Willie,Raje,M,M,100000,High School,Professional
+12642,,Jimmy,Carlson,M,M,100000,High School,Professional
+12643,,Kristina,Perez,M,F,120000,Bachelors,Management
+12644,,Rachel,Reed,M,F,130000,Partial College,Professional
+12645,,Audrey,Ruiz,M,F,170000,Bachelors,Management
+12646,,Kenneth,Xu,S,M,90000,High School,Professional
+12647,,Colleen,Anand,M,F,170000,Partial College,Professional
+12648,,Lori,Dominguez,M,F,170000,Partial College,Professional
+12649,,Omar,Goel,M,M,80000,High School,Professional
+12650,,Aaron,Wright,M,M,90000,High School,Management
+12651,,Martin,Malhotra,S,M,90000,High School,Management
+12652,,Carolyn,Martin,M,F,130000,High School,Management
+12653,,Nichole,Andersen,M,F,150000,Bachelors,Management
+12654,,Briana,Gill,M,F,160000,Partial College,Management
+12655,,Larry,Vazquez,M,M,80000,High School,Management
+12656,,Blake,Roberts,M,M,90000,High School,Management
+12657,,Audrey,Blanco,M,F,110000,High School,Management
+12658,,Joy,Gomez,M,F,170000,High School,Management
+12659,,Damien,Chande,M,M,80000,High School,Management
+12660,,Toni,Sanchez,M,F,80000,Partial High School,Skilled Manual
+12661,,Deborah,Pal,M,F,80000,Partial High School,Skilled Manual
+12662,,Jessie,Huang,M,M,90000,Partial High School,Skilled Manual
+12663,,Morgan,Adams,M,F,90000,Partial High School,Skilled Manual
+12664,,Krista,Gill,M,F,130000,Partial College,Professional
+12665,,Joy,Suarez,M,F,60000,Bachelors,Professional
+12666,,Jessie,Zhu,S,M,60000,Bachelors,Professional
+12667,,Maria,Wood,M,F,70000,Bachelors,Professional
+12668,,Melissa,Patterson,S,F,70000,Bachelors,Professional
+12669,,Irving,Schmidt,S,M,70000,Bachelors,Professional
+12670,,Sarah,Martinez,S,F,70000,Bachelors,Professional
+12671,,Alan,Huang,S,M,70000,Bachelors,Professional
+12672,,Carson,Butler,S,M,80000,Bachelors,Professional
+12673,,Colin,Stone,M,M,80000,Bachelors,Professional
+12674,,Jimmy,Travers,M,M,90000,Bachelors,Professional
+12675,,Holly,Fernandez,S,F,80000,Bachelors,Professional
+12676,,Michele,Madan,S,F,90000,Bachelors,Professional
+12677,,Cedric,Liu,M,M,100000,High School,Management
+12678,,Dana,Serrano,S,F,130000,High School,Management
+12679,,Stacy,Gill,M,F,100000,High School,Management
+12680,,George,Sanchez,S,M,80000,Bachelors,Professional
+12681,,Christy,Chow,S,F,80000,Bachelors,Professional
+12682,,Kari,Subram,M,F,100000,High School,Management
+12683,,Laura,Zhou,S,F,120000,Partial High School,Professional
+12684,,Shaun,Shen,M,M,120000,Partial High School,Professional
+12685,,Jaclyn,Xu,M,F,90000,Bachelors,Professional
+12686,,Trisha,Zhou,S,F,90000,Bachelors,Professional
+12687,,Marshall,Li,S,M,90000,Bachelors,Professional
+12688,,Stacy,Navarro,S,F,90000,Bachelors,Professional
+12689,,Tamara,Pal,S,F,90000,Bachelors,Professional
+12690,,Roger,Zhang,M,M,100000,High School,Management
+12691,,Rafael,Andersen,M,M,100000,High School,Management
+12692,,Glenn,Lu,S,M,80000,Bachelors,Professional
+12693,,Ruth,Gonzalez,M,F,80000,Bachelors,Professional
+12694,,Jay,Arthur,S,M,120000,Partial High School,Professional
+12695,,Kari,Ruiz,M,F,90000,Bachelors,Professional
+12696,,Stacey,Hu,M,F,100000,High School,Management
+12697,,Brenda,Stone,S,F,90000,Bachelors,Professional
+12698,,Mohamed,Pal,M,M,110000,High School,Management
+12699,,Amy,Chow,M,F,120000,Partial High School,Professional
+12700,,Mindy,Kumar,M,F,110000,Partial High School,Professional
+12701,,Gary,Gutierrez,M,M,110000,Partial High School,Professional
+12702,,Yolanda,Shan,M,F,110000,Partial High School,Professional
+12703,,Renee,Suarez,M,F,110000,Partial High School,Professional
+12704,,Barbara,Nara,M,F,120000,Partial High School,Management
+12705,,Andre,Garcia,M,M,150000,Bachelors,Management
+12706,,Louis,Liang,M,M,160000,Bachelors,Management
+12707,,Ian,Lewis,M,M,70000,Graduate Degree,Management
+12708,,Bonnie,Pal,M,F,90000,Bachelors,Management
+12709,,Ian,Rodriguez,M,M,130000,Bachelors,Management
+12710,,Dalton,Evans,S,M,170000,Graduate Degree,Management
+12711,,Heather,Zheng,S,F,20000,Partial High School,Manual
+12712,,Arthur,Romero,S,M,20000,Partial High School,Manual
+12713,,Deborah,Xie,S,F,20000,Partial High School,Manual
+12714,,Colleen,Lu,S,F,30000,Partial College,Clerical
+12715,,Eddie,Gill,M,M,60000,Bachelors,Professional
+12716,,Dale,Shen,S,M,30000,Partial College,Clerical
+12717,,Hannah,Wood,M,F,30000,Partial College,Clerical
+12718,,Tammy,Sai,S,F,30000,Partial College,Clerical
+12719,,Cheryl,Ruiz,S,F,30000,Partial College,Clerical
+12720,,Nicolas,Chande,S,M,30000,Partial College,Clerical
+12721,,Rebekah,Martinez,S,F,30000,Partial College,Clerical
+12722,,Latasha,Gomez,S,F,20000,Partial High School,Manual
+12723,,Kurt,Jai,M,M,20000,Partial High School,Manual
+12724,,Eddie,Martin,S,M,20000,Partial High School,Manual
+12725,,Gabrielle,James,M,F,10000,Partial High School,Manual
+12726,,Kurt,Goel,S,M,20000,Partial High School,Manual
+12727,,Amanda,Ross,S,F,20000,Partial High School,Manual
+12728,,Jeremiah,Stewart,S,M,30000,Partial College,Clerical
+12729,,Jose,Perry,S,M,30000,Partial College,Clerical
+12730,,Karla,Becker,S,F,30000,High School,Manual
+12731,,Steven,Murphy,S,M,30000,High School,Manual
+12732,,Todd,Guo,S,M,10000,Partial High School,Manual
+12733,,Lacey,Cai,S,F,10000,Partial High School,Manual
+12734,,Margaret,Zhou,S,F,10000,Partial High School,Manual
+12735,,Donald,Mehta,S,M,20000,Partial High School,Manual
+12736,,Diana,Ruiz,S,F,20000,Partial High School,Manual
+12737,,Brett,Chandra,S,M,30000,High School,Manual
+12738,,Melinda,Rubio,M,F,40000,Bachelors,Skilled Manual
+12739,,Evan,Young,M,M,40000,Bachelors,Skilled Manual
+12740,,Kathryn,Goel,S,F,30000,High School,Manual
+12741,,Raymond,Sam,S,M,30000,High School,Manual
+12742,,Samantha,Martinez,S,F,40000,Partial College,Clerical
+12743,,Carl,Kumar,M,M,40000,Partial College,Clerical
+12744,,Anna,Moore,S,F,40000,Partial College,Clerical
+12745,,Rafael,Wu,S,M,40000,Partial College,Clerical
+12746,,Juan,Torres,S,M,10000,Partial High School,Manual
+12747,,Colleen,Hu,S,F,20000,Partial High School,Manual
+12748,,Grace,Bell,S,F,30000,High School,Manual
+12749,,Miguel,Lee,S,M,30000,High School,Manual
+12750,,Teresa,Vazquez,S,F,40000,Partial College,Clerical
+12751,,Priscilla,Xu,S,F,40000,Partial College,Clerical
+12752,,Jonathon,Alvarez,S,M,40000,Partial College,Clerical
+12753,,Ramon,Zhao,S,M,40000,Partial College,Clerical
+12754,,Lindsey,Deng,M,F,40000,Partial College,Clerical
+12755,,Chloe,Hughes,S,F,40000,Partial College,Clerical
+12756,,Antonio,Butler,S,M,40000,Partial College,Clerical
+12757,,Sara,Ramirez,S,F,40000,Partial College,Clerical
+12758,,Stephanie,Ramirez,M,F,30000,Bachelors,Skilled Manual
+12759,,Jada,Sanders,M,F,40000,Graduate Degree,Skilled Manual
+12760,,Krista,Gomez,S,F,60000,Graduate Degree,Skilled Manual
+12761,,Alexandra,Richardson,S,F,60000,Graduate Degree,Skilled Manual
+12762,,Jonathan,Smith,M,M,30000,Bachelors,Skilled Manual
+12763,,Chloe,Russell,M,F,30000,Bachelors,Skilled Manual
+12764,,Alexandra,Harris,M,F,30000,Partial College,Clerical
+12765,,Robyn,Gill,M,F,20000,Partial High School,Manual
+12766,,Jordyn,Bryant,M,F,20000,Partial High School,Clerical
+12767,,Christopher,Robinson,M,M,30000,High School,Clerical
+12768,,Johnathan,Chapman,M,M,30000,High School,Clerical
+12769,,Thomas,Zhang,M,M,40000,Partial College,Clerical
+12770,,Charles,Evans,M,M,40000,Partial College,Clerical
+12771,,Morgan,Thomas,M,F,40000,Partial College,Clerical
+12772,,Abigail,Clark,M,F,40000,Partial College,Clerical
+12773,,Samantha,Taylor,M,F,40000,Partial College,Clerical
+12774,,Kristen,Gao,M,F,40000,Partial College,Clerical
+12775,,Connor,Griffin,M,M,40000,Partial College,Clerical
+12776,,Blake,Campbell,M,M,80000,Graduate Degree,Skilled Manual
+12777,,Joseph,Anderson,M,M,40000,Partial College,Clerical
+12778,,Connie,Morgan,M,F,40000,Partial College,Clerical
+12779,,Mason,Rogers,M,M,40000,Partial College,Clerical
+12780,,Jeremy,Richardson,M,M,40000,Partial College,Clerical
+12781,,Emma,James,M,F,40000,Partial College,Clerical
+12782,,Elizabeth,Long,M,F,40000,Partial College,Clerical
+12783,,Jerome,Gutierrez,M,M,40000,Partial College,Clerical
+12784,,Jonathan,Campbell,M,M,40000,Partial College,Clerical
+12785,,Javier,Ortega,M,M,40000,Partial College,Clerical
+12786,,James,Yang,M,M,40000,Partial College,Clerical
+12787,,Katelyn,Cook,S,F,70000,Graduate Degree,Skilled Manual
+12788,,Amanda,Nelson,M,F,40000,Partial College,Clerical
+12789,,Jamie,Zeng,M,F,40000,Partial College,Clerical
+12790,,Brandon,Kumar,S,M,60000,Graduate Degree,Skilled Manual
+12791,,Angelica,Foster,S,F,60000,Graduate Degree,Skilled Manual
+12792,,Blake,White,M,M,60000,Graduate Degree,Skilled Manual
+12793,,Jessie,Guo,M,M,60000,Graduate Degree,Skilled Manual
+12794,,Megan,Jackson,S,F,60000,Graduate Degree,Skilled Manual
+12795,,Antonio,Foster,M,M,60000,Graduate Degree,Skilled Manual
+12796,,Jason,Zhang,M,M,60000,Graduate Degree,Skilled Manual
+12797,,Patrick,Howard,S,M,60000,Graduate Degree,Skilled Manual
+12798,,Andy,Gutierrez,M,M,20000,Partial College,Manual
+12799,,George,Chandra,M,M,30000,Bachelors,Clerical
+12800,,Lacey,Chen,M,F,30000,Bachelors,Clerical
+12801,,Melody,Browning,S,F,30000,Bachelors,Clerical
+12802,,Alan,Sun,S,M,30000,Bachelors,Clerical
+12803,,Heather,Li,M,F,30000,Bachelors,Clerical
+12804,,Jaclyn,Chander,S,F,30000,Bachelors,Clerical
+12805,,Marvin,Moreno,M,M,40000,Graduate Degree,Clerical
+12806,,Ronnie,Zeng,M,M,40000,Graduate Degree,Clerical
+12807,,Nina,Kumar,S,F,40000,Graduate Degree,Clerical
+12808,,Marc,Schmidt,M,M,40000,Bachelors,Clerical
+12809,,Michele,Navarro,M,F,20000,Partial College,Manual
+12810,,Chase,Stewart,M,M,30000,Bachelors,Clerical
+12811,,Marc,Serrano,S,M,20000,Partial College,Manual
+12812,,Brandi,Sanz,M,F,20000,High School,Manual
+12813,,Reginald,Ramos,M,M,30000,Bachelors,Clerical
+12814,,Casey,Sharma,S,F,30000,Bachelors,Clerical
+12815,,Dominique,Mehta,M,F,30000,Bachelors,Clerical
+12816,,Tammy,Mehta,S,F,10000,Partial High School,Manual
+12817,,Theodore,Suarez,S,M,10000,Partial High School,Manual
+12818,,Curtis,She,M,M,20000,High School,Manual
+12819,,Nicolas,Chander,S,M,20000,High School,Manual
+12820,,Derek,Tang,S,M,20000,High School,Manual
+12821,,Cesar,McDonald,M,M,40000,Bachelors,Clerical
+12822,,Alexandra,James,M,F,40000,Bachelors,Clerical
+12823,,Bethany,She,M,F,10000,High School,Manual
+12824,,Kristopher,Subram,S,M,30000,Bachelors,Clerical
+12825,,Kelvin,Hu,M,M,30000,Bachelors,Skilled Manual
+12826,,Caleb,Gonzalez,S,M,10000,Partial High School,Manual
+12827,,Nicolas,Raje,S,M,20000,High School,Manual
+12828,,Carol,Rubio,S,F,10000,Partial High School,Manual
+12829,,Micah,Li,S,M,20000,High School,Manual
+12830,,Russell,Raje,S,M,20000,High School,Manual
+12831,,Kathryn,Lal,S,F,20000,High School,Manual
+12832,,Douglas,Prasad,S,M,20000,High School,Manual
+12833,,Sheena,Goel,S,F,20000,High School,Manual
+12834,,Kelsey,Xie,M,F,30000,Bachelors,Skilled Manual
+12835,,Karl,Yuan,S,M,10000,Partial High School,Manual
+12836,,Rodney,Munoz,S,M,20000,High School,Manual
+12837,,Nicole,Anderson,M,F,20000,Partial College,Manual
+12838,,Ralph,Beck,M,M,40000,Bachelors,Professional
+12839,,Dominique,Fernandez,S,F,60000,Graduate Degree,Skilled Manual
+12840,,Naomi,Sanz,M,F,40000,Graduate Degree,Skilled Manual
+12841,,Yolanda,Xie,S,F,30000,Partial College,Clerical
+12842,,Kelvin,Becker,S,M,30000,Partial College,Clerical
+12843,,Summer,Smith,S,F,30000,Partial College,Clerical
+12844,,Gerald,Gonzalez,M,M,40000,Bachelors,Skilled Manual
+12845,,Angela,Torres,M,F,40000,Bachelors,Skilled Manual
+12846,,Bridget,Nara,S,F,30000,Partial College,Clerical
+12847,,Colin,Chander,M,M,40000,Bachelors,Skilled Manual
+12848,,Brittney,Lu,M,F,40000,Bachelors,Skilled Manual
+12849,,Adam,Baker,S,M,30000,Partial College,Clerical
+12850,,Johnny,Raji,S,M,20000,High School,Manual
+12851,,Brandy,Sai,S,F,20000,High School,Manual
+12852,,Teresa,Carlson,S,F,30000,Partial College,Clerical
+12853,,Evelyn,Malhotra,M,F,40000,Bachelors,Skilled Manual
+12854,,Reginald,Romero,M,M,40000,Bachelors,Skilled Manual
+12855,,Philip,Diaz,M,M,40000,Bachelors,Skilled Manual
+12856,,Rosa,Lin,M,F,40000,Bachelors,Skilled Manual
+12857,,Raul,Kumar,M,M,40000,Bachelors,Skilled Manual
+12858,,Adriana,Mehta,S,F,30000,Partial College,Clerical
+12859,,Evelyn,Gonzalez,S,F,30000,Partial College,Clerical
+12860,,Jillian,Prasad,M,F,40000,Bachelors,Skilled Manual
+12861,,Robyn,Jimenez,M,F,40000,Bachelors,Skilled Manual
+12862,,Melinda,Ortega,S,F,30000,Partial College,Clerical
+12863,,Caleb,Zhang,S,M,30000,Partial College,Clerical
+12864,,Michelle,Townsend,S,F,30000,Partial College,Clerical
+12865,,Brandy,Martinez,M,F,20000,High School,Manual
+12866,,Janelle,Fernandez,S,F,10000,Partial High School,Manual
+12867,,Laura,Ye,S,F,10000,Partial High School,Manual
+12868,,Julie,Anand,S,F,20000,High School,Manual
+12869,,Alisha,Tang,M,F,20000,High School,Manual
+12870,,Tyrone,Munoz,S,M,20000,Partial High School,Manual
+12871,,Leah,Li,S,F,30000,Partial College,Clerical
+12872,,Olivia,Hughes,S,F,30000,Partial College,Clerical
+12873,,Mandar,Samant,S,F,20000,Partial High School,Manual
+12874,,Kirk,Nason,S,F,20000,Partial High School,Manual
+12875,,Brianna,Ross,S,F,60000,Graduate Degree,Skilled Manual
+12876,,Blake,Robinson,M,M,60000,Graduate Degree,Skilled Manual
+12877,,Alexander,Williams,M,M,60000,Graduate Degree,Skilled Manual
+12878,,Gilbert,Sun,M,M,40000,High School,Skilled Manual
+12879,,Elijah,Nelson,M,M,40000,Graduate Degree,Skilled Manual
+12880,,Luis,Hayes,S,M,50000,Graduate Degree,Skilled Manual
+12881,,Isabella,Edwards,S,F,50000,Graduate Degree,Skilled Manual
+12882,,Eduardo,Allen,M,M,50000,Graduate Degree,Skilled Manual
+12883,,Stephanie,Bailey,S,F,60000,Graduate Degree,Skilled Manual
+12884,,Megan,Williams,S,F,60000,Graduate Degree,Skilled Manual
+12885,,Jonathan,Anderson,M,M,60000,Graduate Degree,Skilled Manual
+12886,,Jocelyn,Long,S,F,60000,Graduate Degree,Skilled Manual
+12887,,Brendan,Pal,M,M,60000,Graduate Degree,Skilled Manual
+12888,,Melissa,Barnes,M,F,60000,Graduate Degree,Skilled Manual
+12889,,James,Adams,M,M,60000,Graduate Degree,Skilled Manual
+12890,,Steven,Thorpe,M,M,60000,Graduate Degree,Skilled Manual
+12891,,Kaylee,King,M,F,60000,Graduate Degree,Skilled Manual
+12892,,Brian,Peterson,M,M,40000,Graduate Degree,Skilled Manual
+12893,,Brittany,Foster,M,F,70000,Graduate Degree,Professional
+12894,,Natalie,Walker,M,F,70000,Graduate Degree,Professional
+12895,,Destiny,Anderson,M,F,50000,Bachelors,Skilled Manual
+12896,,Victoria,Wood,M,F,50000,Bachelors,Skilled Manual
+12897,,Alyssa,Wilson,M,F,50000,Bachelors,Skilled Manual
+12898,,Madeline,Campbell,M,F,50000,Bachelors,Skilled Manual
+12899,,Ana,Ross,M,F,50000,Bachelors,Skilled Manual
+12900,,Carlos,Ward,M,M,60000,Graduate Degree,Professional
+12901,,Robert,Adams,M,M,50000,Bachelors,Skilled Manual
+12902,,Julia,Stewart,S,F,50000,Bachelors,Skilled Manual
+12903,,John,Sandstone,S,F,50000,Bachelors,Skilled Manual
+12904,,Thomas,Jai,M,M,50000,Bachelors,Skilled Manual
+12905,,Alexandra,Sanchez,M,F,60000,Graduate Degree,Professional
+12906,,Philip,Ramos,M,M,60000,Graduate Degree,Professional
+12907,,Julia,Bryant,M,F,60000,Graduate Degree,Professional
+12908,,Tyler,Clark,M,M,60000,Graduate Degree,Professional
+12909,,Kelsey,Shan,M,F,60000,Graduate Degree,Professional
+12910,,Robert,Brown,M,M,60000,Graduate Degree,Professional
+12911,,Sebastian,Rogers,S,M,60000,Graduate Degree,Professional
+12912,,Brianna,Morris,S,F,40000,High School,Skilled Manual
+12913,,Benjamin,Moore,M,M,60000,Bachelors,Skilled Manual
+12914,,Jill,Miller,S,F,40000,Bachelors,Professional
+12915,,Kaitlyn,Alexander,S,F,40000,Bachelors,Professional
+12916,,Natalie,Ross,M,F,60000,Graduate Degree,Professional
+12917,,Vanessa,Russell,M,F,70000,Graduate Degree,Professional
+12918,,Brooke,Murphy,M,F,80000,Graduate Degree,Professional
+12919,,Carlos,Hill,S,M,70000,Bachelors,Skilled Manual
+12920,,Kelly,Henderson,S,F,70000,Bachelors,Skilled Manual
+12921,,Wyatt,Lee,S,M,60000,Bachelors,Skilled Manual
+12922,,Jennifer,Sanders,S,F,60000,Bachelors,Skilled Manual
+12923,,Fernando,Wright,S,M,60000,Bachelors,Skilled Manual
+12924,,Devon,Chande,M,M,60000,Bachelors,Skilled Manual
+12925,,Mackenzie,Blue,M,F,60000,Graduate Degree,Professional
+12926,,Sara,Murphy,M,F,70000,Graduate Degree,Professional
+12927,,Savannah,Sanchez,M,F,70000,Graduate Degree,Professional
+12928,,Carol,Wright,M,F,60000,Graduate Degree,Professional
+12929,,Vanessa,Bryant,M,F,70000,Graduate Degree,Professional
+12930,,Grace,Harris,M,F,70000,Graduate Degree,Professional
+12931,,Ann,Fernandez,S,F,70000,Graduate Degree,Professional
+12932,,Tyler,Johnson,M,M,70000,Graduate Degree,Professional
+12933,,Jonathan,Hall,M,M,70000,Graduate Degree,Professional
+12934,,Jason,Foster,S,M,80000,Graduate Degree,Professional
+12935,,Robert,Hill,M,M,80000,Graduate Degree,Professional
+12936,,Renee,Moreno,S,F,40000,Bachelors,Professional
+12937,,Megan,Wilson,S,F,40000,Bachelors,Professional
+12938,,Edward,Parker,S,M,40000,Bachelors,Professional
+12939,,Eduardo,Parker,S,M,80000,Bachelors,Skilled Manual
+12940,,Steven,Rogers,M,M,80000,Bachelors,Skilled Manual
+12941,,Maria,Morgan,S,F,80000,Bachelors,Skilled Manual
+12942,,Morgan,Harris,S,F,80000,Bachelors,Skilled Manual
+12943,,Caleb,Perez,S,M,80000,Bachelors,Skilled Manual
+12944,,Jose,Jai,M,M,80000,Bachelors,Skilled Manual
+12945,,Jessica,Bailey,M,F,60000,Graduate Degree,Professional
+12946,,Seth,Allen,M,M,60000,Graduate Degree,Professional
+12947,,Isaiah,Sanchez,S,M,40000,Bachelors,Professional
+12948,,Adam,Kumar,M,M,50000,Bachelors,Skilled Manual
+12949,,Morgan,Rivera,S,F,50000,Bachelors,Skilled Manual
+12950,,Mary,Adams,S,F,50000,Bachelors,Skilled Manual
+12951,,Blake,Simmons,S,M,40000,Bachelors,Professional
+12952,,Jennifer,Hughes,S,F,60000,Bachelors,Professional
+12953,,Catherine,Cooper,S,F,60000,Graduate Degree,Professional
+12954,,Pedro,Diaz,M,M,70000,Bachelors,Professional
+12955,,Theresa,Hernandez,S,F,70000,Bachelors,Professional
+12956,,Marshall,Sun,S,M,70000,Bachelors,Professional
+12957,,Isabella,Lopez,S,F,70000,Bachelors,Professional
+12958,,Jennifer,Campbell,S,F,70000,Bachelors,Professional
+12959,,Sydney,Carter,S,F,70000,Bachelors,Professional
+12960,,Ashley,Lewis,S,F,70000,Bachelors,Professional
+12961,,Kimberly,Murphy,M,F,70000,Partial College,Skilled Manual
+12962,,Jennifer,Edwards,M,F,70000,Partial College,Skilled Manual
+12963,,Marcus,Anderson,M,M,70000,Partial College,Skilled Manual
+12964,,Xavier,Russell,M,M,70000,Partial College,Skilled Manual
+12965,,Cody,Bell,M,M,40000,High School,Skilled Manual
+12966,,Dennis,Zhu,M,M,40000,High School,Skilled Manual
+12967,,Fernando,Rodriguez,M,M,40000,High School,Skilled Manual
+12968,,Paige,Butler,M,F,60000,Partial College,Skilled Manual
+12969,,Richard,Rodriguez,M,M,40000,High School,Skilled Manual
+12970,,Angela,Powell,S,F,40000,High School,Skilled Manual
+12971,,Carl,Nara,M,M,40000,Bachelors,Professional
+12972,,Carolyn,Suri,S,F,70000,Partial College,Skilled Manual
+12973,,Adrian,Howard,S,M,70000,Partial College,Skilled Manual
+12974,,Marc,Gill,S,M,60000,Graduate Degree,Professional
+12975,,Marcus,Wilson,S,M,60000,Graduate Degree,Professional
+12976,,Hunter,Thompson,S,M,60000,Graduate Degree,Professional
+12977,,Destiny,Johnson,S,F,60000,Graduate Degree,Professional
+12978,,Danielle,James,M,F,20000,High School,Skilled Manual
+12979,,Christina,Ward,M,F,60000,Partial College,Skilled Manual
+12980,,Max,Moyer,M,M,80000,Graduate Degree,Professional
+12981,,Joe,Sanz,S,M,80000,Graduate Degree,Professional
+12982,,Brittany,Patterson,M,F,80000,Partial College,Skilled Manual
+12983,,Gabriella,Carter,M,F,60000,Bachelors,Professional
+12984,,Adam,Young,M,M,60000,Bachelors,Professional
+12985,,Hailey,Roberts,M,F,70000,Graduate Degree,Professional
+12986,,Rachel,Garcia,M,F,80000,Graduate Degree,Professional
+12987,,Felicia,Moreno,M,F,90000,Graduate Degree,Management
+12988,,Barbara,Goel,S,F,90000,Graduate Degree,Management
+12989,,Carly,Goel,M,F,100000,Graduate Degree,Management
+12990,,Leslie,Hernandez,S,F,100000,Graduate Degree,Management
+12991,,Jésus,Serrano,M,M,60000,Bachelors,Professional
+12992,,Ernest,Zeng,M,M,60000,Bachelors,Professional
+12993,,Xavier,Henderson,M,M,60000,Bachelors,Professional
+12994,,Anna,Martinez,S,F,80000,Graduate Degree,Management
+12995,,Grant,Nara,M,M,80000,Graduate Degree,Management
+12996,,Jaclyn,Liu,M,F,90000,Bachelors,Professional
+12997,,Nina,Xie,M,F,60000,Bachelors,Professional
+12998,,Mayra,Mehta,S,F,60000,Bachelors,Professional
+12999,,Nichole,Shen,S,F,70000,Bachelors,Professional
+13000,,Rafael,Raje,M,M,110000,Graduate Degree,Management
+13001,,Clarence,Zhang,S,M,130000,Graduate Degree,Management
+13002,,Roger,Cai,M,M,80000,Graduate Degree,Management
+13003,,Jill,Hernandez,M,F,80000,Graduate Degree,Management
+13004,,Randy,Chen,M,M,80000,Graduate Degree,Management
+13005,,Desiree,Alvarez,M,F,80000,Graduate Degree,Management
+13006,,Whitney,Rana,S,F,90000,Bachelors,Professional
+13007,,Brooke,Ward,S,F,60000,Bachelors,Professional
+13008,,Alberto,Muñoz,M,M,60000,Bachelors,Professional
+13009,,Mindy,She,M,F,60000,Bachelors,Professional
+13010,,Erica,Ye,M,F,60000,Bachelors,Professional
+13011,,Anne,Ortega,S,F,70000,Bachelors,Professional
+13012,,Krystal,Hu,S,F,70000,Bachelors,Professional
+13013,,Vincent,Ye,M,M,60000,Bachelors,Professional
+13014,,James,Clark,M,M,100000,Bachelors,Management
+13015,,Rebecca,Parker,S,F,100000,Bachelors,Management
+13016,,Antonio,Bryant,M,M,110000,Graduate Degree,Management
+13017,,Xavier,Alexander,M,M,30000,Partial College,Skilled Manual
+13018,,Brendan,Xie,M,M,10000,High School,Skilled Manual
+13019,,Destiny,Murphy,S,F,60000,Partial College,Skilled Manual
+13020,,Madalena,Sanchez,M,M,10000,Partial High School,Clerical
+13021,,Kendra,Diaz,S,F,30000,Partial College,Clerical
+13022,,Rafael,Ma,M,M,10000,Partial High School,Clerical
+13023,,Dominique,Raman,S,F,20000,High School,Skilled Manual
+13024,,Marc,Moreno,M,M,30000,Partial College,Clerical
+13025,,Reginald,Serrano,M,M,30000,Partial College,Clerical
+13026,,Colleen,Zheng,S,F,10000,Partial High School,Clerical
+13027,,Jeremy,Patterson,S,M,40000,Partial High School,Clerical
+13028,,Dalton,Thompson,S,M,30000,Partial College,Skilled Manual
+13029,,Jennifer,Foster,S,F,30000,Partial College,Skilled Manual
+13030,,Sophia,Lopez,S,F,60000,Partial College,Skilled Manual
+13031,,Hunter,Shan,S,M,60000,Partial College,Skilled Manual
+13032,,Kevin,Baker,M,M,70000,Partial College,Skilled Manual
+13033,,Xavier,Gonzalez,S,M,60000,Partial College,Skilled Manual
+13034,,Kelsey,Yuan,S,F,20000,Partial High School,Clerical
+13035,,Kristy,Torres,M,F,30000,Partial College,Clerical
+13036,,Virginia,Subram,S,F,30000,Partial College,Clerical
+13037,,Terrence,Pal,M,M,30000,High School,Skilled Manual
+13038,,Wilson,Pais,M,M,40000,Bachelors,Management
+13039,,Trisha,Ma,S,F,20000,Partial College,Skilled Manual
+13040,,Roy,Gonzalez,M,M,30000,High School,Skilled Manual
+13041,,Cameron,Brown,M,M,30000,High School,Skilled Manual
+13042,,Alison,Pal,M,F,30000,High School,Skilled Manual
+13043,,Brenda,Madan,M,F,30000,High School,Skilled Manual
+13044,,Katrina,Jai,M,F,30000,High School,Skilled Manual
+13045,,Anne,Gomez,M,F,30000,High School,Skilled Manual
+13046,,Jonathan,Rodriguez,M,M,30000,High School,Skilled Manual
+13047,,Rodney,Vazquez,M,M,40000,Partial College,Clerical
+13048,,Alexis,Hayes,M,F,40000,Partial College,Skilled Manual
+13049,,Autumn,Wang,M,F,40000,Partial College,Skilled Manual
+13050,,Dennis,Zeng,M,M,40000,Partial College,Skilled Manual
+13051,,Ethan,Jones,S,M,80000,Partial College,Skilled Manual
+13052,,Jared,Morris,S,M,40000,Partial College,Skilled Manual
+13053,,Vincent,Lu,S,M,40000,Partial College,Skilled Manual
+13054,,Bryce,Ward,M,M,40000,Partial College,Skilled Manual
+13055,,Patrick,Gray,S,M,30000,High School,Skilled Manual
+13056,,Morgan,Blue,S,F,30000,High School,Skilled Manual
+13057,,Destiny,Powell,S,F,30000,High School,Skilled Manual
+13058,,Ramon,Huang,M,M,30000,High School,Skilled Manual
+13059,,Keith,Deng,M,M,30000,High School,Skilled Manual
+13060,,Eugene,Zhu,M,M,30000,High School,Skilled Manual
+13061,,Ethan,Anderson,S,M,40000,High School,Skilled Manual
+13062,,Eduardo,Williams,S,M,40000,High School,Skilled Manual
+13063,,Jessica,Johnson,S,F,40000,High School,Skilled Manual
+13064,,Dalton,Parker,S,M,40000,High School,Skilled Manual
+13065,,Morgan,Gonzalez,S,F,30000,High School,Skilled Manual
+13066,,Carson,Perry,S,M,30000,High School,Skilled Manual
+13067,,Olivia,Garcia,S,F,30000,High School,Skilled Manual
+13068,,Alexandria,Morris,S,F,30000,High School,Skilled Manual
+13069,,Adam,Green,M,M,30000,High School,Skilled Manual
+13070,,Emma,Clark,S,F,60000,Partial College,Skilled Manual
+13071,,Thomas,Walker,M,M,60000,Partial College,Skilled Manual
+13072,,Emma,Rogers,S,F,70000,Partial College,Professional
+13073,,Sydney,Lopez,M,F,60000,Partial College,Professional
+13074,,Grace,Hughes,M,F,60000,Partial College,Professional
+13075,,Kelvin,Lin,M,M,80000,High School,Skilled Manual
+13076,,Craig,Munoz,S,M,80000,High School,Skilled Manual
+13077,,Alejandro,Goel,S,M,70000,High School,Skilled Manual
+13078,,Michele,Chande,S,F,70000,High School,Skilled Manual
+13079,,Edwin,Bhat,S,M,80000,High School,Professional
+13080,,Denise,Mehta,S,F,80000,High School,Professional
+13081,,Krista,Ruiz,S,F,80000,High School,Professional
+13082,,Juan,Peterson,S,M,130000,Graduate Degree,Management
+13083,,Jordyn,Butler,S,F,70000,Partial College,Professional
+13084,,Luis,Hughes,S,M,30000,High School,Professional
+13085,,Daniel,Harris,S,M,30000,Partial High School,Skilled Manual
+13086,,Blake,Nelson,S,M,60000,Partial College,Professional
+13087,,Jeremy,Collins,S,M,60000,Partial College,Professional
+13088,,Megan,Powell,S,F,60000,Partial College,Professional
+13089,,Elizabeth,Alexander,M,F,120000,Bachelors,Management
+13090,,Wayne,Tang,S,M,130000,Graduate Degree,Management
+13091,,Deanna,Martin,S,F,130000,Graduate Degree,Management
+13092,,William,Walker,M,M,130000,Graduate Degree,Management
+13093,,Michelle,James,S,F,80000,Partial High School,Skilled Manual
+13094,,Antonio,Diaz,M,M,60000,High School,Professional
+13095,,Jordan,Griffin,S,M,60000,High School,Professional
+13096,,Jonathan,Chen,M,M,60000,High School,Professional
+13097,,Dalton,Hughes,M,M,60000,High School,Professional
+13098,,Miguel,Russell,M,M,60000,High School,Professional
+13099,,Jay,Romero,M,M,70000,Partial College,Professional
+13100,,Jeremy,Perez,M,M,80000,Bachelors,Management
+13101,,Alex,Sanchez,S,M,90000,Partial College,Professional
+13102,,Mariah,Bryant,S,F,90000,Partial College,Professional
+13103,,Brendan,Raji,S,M,70000,Bachelors,Professional
+13104,,Gregory,Becker,S,M,70000,Bachelors,Professional
+13105,,Whitney,Kovár,M,F,60000,Bachelors,Professional
+13106,,Ebony,Munoz,M,F,60000,Bachelors,Professional
+13107,,Mary,Nelson,M,F,60000,Bachelors,Professional
+13108,,Curtis,Wang,M,M,60000,Bachelors,Professional
+13109,,Cheryl,Navarro,M,F,60000,Bachelors,Professional
+13110,,Levi,Mehta,M,M,60000,Partial College,Skilled Manual
+13111,,Hannah,Butler,S,F,60000,Partial College,Skilled Manual
+13112,,Bianca,Gao,S,F,60000,Partial College,Skilled Manual
+13113,,Bryant,Sanchez,S,M,100000,Bachelors,Professional
+13114,,Claudia,Zhang,S,F,100000,Bachelors,Professional
+13115,,Clarence,Wu,S,M,110000,Graduate Degree,Management
+13116,,Tyrone,Diaz,S,M,110000,Graduate Degree,Management
+13117,,Evelyn,Rodriguez,S,F,110000,Graduate Degree,Management
+13118,,Sydney,Cook,M,F,60000,Partial College,Skilled Manual
+13119,,Jaclyn,Guo,S,F,70000,Bachelors,Professional
+13120,,Levi,Weber,M,M,80000,Bachelors,Professional
+13121,,Latasha,Jimenez,M,F,80000,Bachelors,Professional
+13122,,Catherine,Cox,M,F,80000,Bachelors,Professional
+13123,,Kelli,Raji,S,F,70000,Bachelors,Professional
+13124,,Marco,Vance,S,M,70000,Bachelors,Professional
+13125,,Alejandro,Hu,S,M,70000,Bachelors,Professional
+13126,,Lydia,Suri,S,F,70000,Bachelors,Professional
+13127,,Shane,Fernandez,S,M,70000,Bachelors,Professional
+13128,,Colleen,West,S,F,70000,Bachelors,Professional
+13129,,Joy,Ramos,S,F,70000,Bachelors,Professional
+13130,,Dalton,Miller,M,M,90000,Bachelors,Professional
+13131,,Briana,Diaz,M,F,90000,Bachelors,Professional
+13132,,Casey,Vazquez,S,M,90000,Bachelors,Professional
+13133,,Devon,Kennedy,S,M,100000,Bachelors,Professional
+13134,,Sara,Morgan,S,F,50000,Graduate Degree,Management
+13135,,Johnny,Rai,S,M,80000,Partial College,Skilled Manual
+13136,,Virginia,Martinez,M,F,30000,Partial College,Clerical
+13137,,Jacqueline,Simmons,M,F,70000,Partial College,Skilled Manual
+13138,,Teresa,Alonso,M,F,70000,Partial College,Skilled Manual
+13139,,Carmen,Perez,S,F,70000,Partial College,Skilled Manual
+13140,,Jamie,Zhu,M,F,40000,Bachelors,Management
+13141,,Walter,Hernandez,M,M,40000,Bachelors,Management
+13142,,Xavier,Moore,M,M,40000,High School,Skilled Manual
+13143,,Hannah,Jackson,M,F,40000,High School,Skilled Manual
+13144,,Destiny,Stewart,S,F,40000,High School,Skilled Manual
+13145,,Gilbert,Xu,M,M,40000,High School,Skilled Manual
+13146,,Gabriella,Ramirez,S,F,40000,High School,Skilled Manual
+13147,,Cedric,Lin,M,M,30000,High School,Skilled Manual
+13148,,Tyler,Anderson,M,M,30000,High School,Skilled Manual
+13149,,Linda,Ferrier,M,F,10000,High School,Skilled Manual
+13150,,Lacey,Yang,S,F,30000,Partial College,Clerical
+13151,,Ethan,Moore,S,M,40000,High School,Skilled Manual
+13152,,Gabrielle,Butler,M,F,40000,High School,Skilled Manual
+13153,,Jack,Hill,S,M,40000,High School,Skilled Manual
+13154,,Aaron,Lal,M,M,40000,High School,Skilled Manual
+13155,,Jay,Gutierrez,M,M,60000,Graduate Degree,Management
+13156,,Bradley,Lal,M,M,30000,Partial College,Clerical
+13157,,Heidi,Gonzalez,M,F,30000,Partial College,Clerical
+13158,,Casey,Xu,M,F,40000,Bachelors,Management
+13159,,Roberto,Ramos,M,M,40000,Bachelors,Management
+13160,,Willie,Xu,M,M,70000,Graduate Degree,Management
+13161,,Jose,Moore,M,M,40000,High School,Skilled Manual
+13162,,Nina,Nath,S,F,40000,Partial College,Skilled Manual
+13163,,Noah,Lopez,M,M,40000,Partial College,Skilled Manual
+13164,,Olivia,Ward,S,F,40000,Partial College,Skilled Manual
+13165,,Wyatt,Walker,S,M,40000,Partial College,Skilled Manual
+13166,,Kyle,Chen,M,M,40000,Partial College,Skilled Manual
+13167,,Mario,Tang,S,M,30000,Partial College,Skilled Manual
+13168,,Hannah,Price,S,F,30000,Partial College,Skilled Manual
+13169,,Caleb,Griffin,S,M,80000,Bachelors,Management
+13170,,Sebastian,Reed,S,M,80000,Bachelors,Management
+13171,,Catherine,Torres,S,F,80000,Bachelors,Management
+13172,,Isabella,Cook,S,F,80000,Bachelors,Management
+13173,,Dalton,Brooks,M,M,80000,Bachelors,Management
+13174,,Gabriella,Morris,S,F,80000,Bachelors,Management
+13175,,Noah,Smith,M,M,90000,Bachelors,Management
+13176,,Kurt,Chander,S,M,130000,Graduate Degree,Management
+13177,,Taylor,Rogers,S,F,70000,Partial College,Skilled Manual
+13178,,Megan,Gray,S,F,80000,Bachelors,Management
+13179,,Adrian,Sanchez,M,M,80000,Bachelors,Management
+13180,,Leslie,Sanz,M,F,80000,Bachelors,Management
+13181,,Brian,Morgan,M,M,90000,Bachelors,Management
+13182,,Jeremy,Bennett,M,M,90000,Bachelors,Management
+13183,,Christian,Jenkins,M,M,90000,Bachelors,Management
+13184,,Miguel,Perez,M,M,90000,Bachelors,Management
+13185,,William,Lee,M,M,100000,Graduate Degree,Management
+13186,,Marcus,Sanders,M,M,110000,Graduate Degree,Management
+13187,,Evan,Wright,M,M,110000,Graduate Degree,Management
+13188,,Anthony,Davis,M,M,120000,Graduate Degree,Management
+13189,,Gloria,Romero,S,F,120000,Graduate Degree,Management
+13190,,Jonathan,Diaz,S,M,120000,Graduate Degree,Management
+13191,,Emma,Rodriguez,M,F,90000,Bachelors,Management
+13192,,Hunter,Martinez,M,M,110000,Bachelors,Management
+13193,,Kevin,Evans,M,M,110000,Bachelors,Management
+13194,,Kevin,Carter,M,M,110000,Bachelors,Management
+13195,,Aaron,Perry,M,M,110000,Bachelors,Management
+13196,,Kimberly,Sanders,M,F,110000,Bachelors,Management
+13197,,Katherine,Smith,M,F,120000,Graduate Degree,Management
+13198,,Cindy,Gray,M,F,120000,Bachelors,Management
+13199,,Timothy,Stewart,S,M,130000,Bachelors,Management
+13200,,Jessica,Miller,M,F,130000,Bachelors,Management
+13201,,Nicholas,Davis,S,M,70000,Bachelors,Management
+13202,,Natasha,Romero,S,F,70000,Bachelors,Management
+13203,,Bailey,Bell,S,F,70000,Bachelors,Management
+13204,,Savannah,Parker,S,F,70000,Bachelors,Management
+13205,,Jerome,Torres,M,M,70000,Bachelors,Management
+13206,,Emily,Flores,S,F,70000,Bachelors,Management
+13207,,Kenneth,Rai,M,M,70000,Bachelors,Management
+13208,,Cassidy,Bryant,S,F,70000,Bachelors,Management
+13209,,Alexandria,Bailey,M,F,60000,Bachelors,Management
+13210,,Ethan,Simmons,M,M,60000,Bachelors,Management
+13211,,James,Jai,M,M,60000,Bachelors,Management
+13212,,Logan,Phillips,M,M,60000,Bachelors,Management
+13213,,Courtney,King,M,F,60000,Bachelors,Management
+13214,,Elijah,Adams,M,M,60000,Bachelors,Management
+13215,,Colleen,Sharma,M,F,60000,Bachelors,Management
+13216,,Mary,Mitchell,M,F,60000,Bachelors,Management
+13217,,Julian,Alexander,S,M,60000,Bachelors,Management
+13218,,Melissa,Bryant,M,F,60000,Bachelors,Management
+13219,,Rafael,Shan,M,M,60000,Bachelors,Management
+13220,,Isabella,Hernandez,M,F,70000,Bachelors,Management
+13221,,Madeline,Hall,M,F,70000,Bachelors,Management
+13222,,Arturo,Liu,M,M,70000,Bachelors,Management
+13223,,Noah,Lee,S,M,70000,Bachelors,Management
+13224,,Amanda,Brooks,M,F,70000,Bachelors,Management
+13225,,Jésus,Suarez,M,M,60000,Bachelors,Management
+13226,,Jenna,Mitchell,M,F,60000,Bachelors,Management
+13227,,Alexander,Wilson,M,M,60000,Bachelors,Management
+13228,,Thomas,Sanchez,M,M,60000,Bachelors,Management
+13229,,Dylan,Wang,M,M,70000,Bachelors,Management
+13230,,Chloe,Bryant,M,F,70000,Bachelors,Management
+13231,,Alexia,Ross,M,F,40000,High School,Professional
+13232,,Kaitlyn,Baker,S,F,60000,Partial College,Professional
+13233,,Richard,Coleman,M,M,60000,Partial College,Professional
+13234,,Robert,Lewis,S,M,60000,Partial College,Professional
+13235,,Jonathan,Robinson,M,M,60000,Partial College,Professional
+13236,,Robert,Wang,M,M,60000,Partial College,Professional
+13237,,Devin,Stewart,M,M,70000,Bachelors,Management
+13238,,John,Williams,M,M,70000,Bachelors,Management
+13239,,Matthew,Thomas,M,M,40000,Partial High School,Skilled Manual
+13240,,Blake,Foster,M,M,60000,Bachelors,Management
+13241,,Natalie,Ward,M,F,40000,Partial High School,Skilled Manual
+13242,,Kyle,Yang,S,M,70000,Partial College,Professional
+13243,,Alyssa,Davis,S,F,70000,High School,Professional
+13244,,Jose,Sharma,M,M,70000,High School,Professional
+13245,,Angel,Scott,M,M,60000,Partial College,Professional
+13246,,Hailey,Perez,M,F,60000,High School,Professional
+13247,,Zachary,Chen,M,M,60000,High School,Professional
+13248,,Isabella,Martinez,M,F,60000,High School,Professional
+13249,,Ryan,Perry,M,M,70000,Partial College,Professional
+13250,,Jordan,King,M,F,70000,Partial College,Professional
+13251,,Raymond,Malhotra,M,M,130000,Partial College,Professional
+13252,,Bianca,Lu,M,F,130000,Partial College,Professional
+13253,,Carly,Xie,M,F,130000,Partial College,Professional
+13254,,Beth,Gomez,M,F,150000,Partial College,Professional
+13255,,Lance,Blanco,M,M,130000,Partial College,Professional
+13256,,Abby,Subram,S,F,130000,Partial College,Professional
+13257,,Jon,Chander,M,M,130000,Partial College,Professional
+13258,,Anne,Dominguez,M,F,130000,Partial College,Professional
+13259,,Allen,Garcia,M,M,130000,Partial College,Professional
+13260,,James,Flores,M,M,130000,Partial College,Professional
+13261,,Lindsey,Andersen,M,F,130000,Partial College,Professional
+13262,,Jaime,Nara,M,M,150000,High School,Professional
+13263,,Kate,Anand,S,F,110000,Partial College,Professional
+13264,,Melanie,Sanchez,M,F,120000,High School,Professional
+13265,,Luke,Adams,S,M,120000,High School,Professional
+13266,,Samuel,Wang,M,M,70000,Partial College,Professional
+13267,,Matthew,Moore,M,M,30000,High School,Professional
+13268,,Katherine,Parker,M,F,40000,Partial College,Professional
+13269,,Rachel,Martin,S,F,50000,Graduate Degree,Management
+13270,,Mason,Baker,S,M,50000,Graduate Degree,Management
+13271,,Ryan,Anderson,M,M,50000,Graduate Degree,Management
+13272,,Jordan,Gonzalez,S,F,90000,Graduate Degree,Management
+13273,,Elizabeth,Lee,S,F,110000,Graduate Degree,Management
+13274,,Joshua,Lee,S,M,90000,Partial College,Professional
+13275,,Carlos,Murphy,M,M,100000,Bachelors,Management
+13276,,Sarah,Johnson,M,F,100000,Bachelors,Management
+13277,,Nathan,Brown,S,M,100000,Partial College,Professional
+13278,,Jorge,Hu,S,M,110000,Bachelors,Management
+13279,,Rachel,Howard,M,F,130000,Graduate Degree,Management
+13280,,Bailey,Adams,M,F,90000,Partial College,Professional
+13281,,Brent,Li,M,M,110000,Bachelors,Management
+13282,,Madison,Price,M,F,120000,Partial College,Professional
+13283,,Dakota,Griffin,M,M,80000,Partial College,Professional
+13284,,Victoria,Butler,M,F,80000,Partial College,Professional
+13285,,Kara,Chavez,M,F,80000,Partial College,Professional
+13286,,Hannah,Rodriguez,S,F,90000,Partial College,Professional
+13287,,Brandon,Rodriguez,S,M,110000,Bachelors,Management
+13288,,Jackson,Lopez,M,M,120000,Partial College,Professional
+13289,,Alexandria,Coleman,M,F,70000,Partial College,Professional
+13290,,Jordan,Campbell,M,M,80000,Partial College,Professional
+13291,,Nina,Xu,M,F,80000,Partial College,Professional
+13292,,Paula,Carlson,S,F,90000,Partial College,Professional
+13293,,Barbara,Lu,M,F,110000,Bachelors,Management
+13294,,Cassidy,Hughes,M,F,80000,Partial College,Professional
+13295,,Jasmine,Jackson,M,F,90000,High School,Professional
+13296,,Seth,Anderson,M,M,110000,Bachelors,Management
+13297,,Arthur,Rubio,M,M,110000,Partial College,Professional
+13298,,Anna,Harris,M,F,130000,Bachelors,Management
+13299,,Vanessa,Ross,M,F,130000,Bachelors,Management
+13300,,Timothy,Hernandez,M,M,60000,High School,Professional
+13301,,Angela,Stewart,S,F,60000,High School,Professional
+13302,,Cole,Torres,S,M,60000,High School,Professional
+13303,,Jonathan,Martinez,M,M,70000,High School,Professional
+13304,,Sara,Peterson,S,F,70000,High School,Professional
+13305,,Oscar,Alexander,M,M,70000,High School,Professional
+13306,,Kaitlyn,Cox,M,F,70000,High School,Professional
+13307,,Michelle,Stone,M,F,100000,Graduate Degree,Management
+13308,,Kaitlyn,King,M,F,60000,Graduate Degree,Management
+13309,,Angela,Sanders,M,F,90000,Bachelors,Management
+13310,,Miguel,Barnes,M,M,100000,Partial College,Professional
+13311,,Isabella,Reed,M,F,100000,Partial College,Professional
+13312,,Natalie,Jenkins,M,F,110000,Partial College,Professional
+13313,,Megan,Stone,M,F,120000,High School,Professional
+13314,,Jordan,Hernandez,M,M,120000,High School,Professional
+13315,,Lucas,Thomas,M,M,80000,Partial High School,Skilled Manual
+13316,,Angel,Rivera,M,M,80000,Partial High School,Skilled Manual
+13317,,Jeremiah,Long,S,M,60000,High School,Professional
+13318,,Amber,Perez,M,F,60000,Partial High School,Skilled Manual
+13319,,Charles,Howard,S,M,70000,High School,Professional
+13320,,Jasmine,Jones,S,F,70000,Graduate Degree,Management
+13321,,Arianna,Barnes,S,F,70000,Graduate Degree,Management
+13322,,Elizabeth,Patterson,S,F,70000,Graduate Degree,Management
+13323,,Adam,Adams,M,M,70000,Graduate Degree,Management
+13324,,Florian,Stiller,M,F,130000,Bachelors,Management
+13325,,Marcus,Wright,M,M,90000,Bachelors,Management
+13326,,Bob,Fernandez,M,M,130000,Bachelors,Management
+13327,,Isabelle,Russell,M,F,170000,Graduate Degree,Management
+13328,,Albert,Serrano,S,M,80000,Graduate Degree,Management
+13329,,Jake,Wang,M,M,90000,Bachelors,Management
+13330,,Maria,Patterson,M,F,100000,Graduate Degree,Management
+13331,,Lauren,Diaz,M,F,130000,Bachelors,Management
+13332,,Neil,Alonso,M,M,90000,Bachelors,Management
+13333,,Tara,Chander,M,F,90000,Bachelors,Management
+13334,,Melanie,Rivera,M,F,90000,Bachelors,Management
+13335,,Alyssa,Barnes,S,F,90000,Bachelors,Management
+13336,,Deanna,Gill,M,F,100000,Graduate Degree,Management
+13337,,Lauren,Cox,M,F,80000,Bachelors,Management
+13338,,Jada,Carter,S,F,90000,Bachelors,Management
+13339,,Nicole,Clark,S,F,90000,Bachelors,Management
+13340,,Natalie,Edwards,M,F,90000,Bachelors,Management
+13341,,Lucas,King,M,M,90000,Bachelors,Management
+13342,,Brandon,Jackson,S,M,90000,Bachelors,Management
+13343,,Melanie,Bradley,M,F,90000,Bachelors,Management
+13344,,Caitlin,Reed,M,F,110000,Bachelors,Management
+13345,,Dalton,Butler,M,M,130000,Bachelors,Management
+13346,,Gregory,Chande,S,M,110000,Bachelors,Management
+13347,,Rachel,Hall,M,F,120000,Bachelors,Management
+13348,,Noah,Young,M,M,130000,Bachelors,Management
+13349,,Kaitlyn,Gonzalez,M,F,130000,Bachelors,Management
+13350,,Isaac,Sandberg,M,M,170000,Graduate Degree,Management
+13351,,Mariah,Cox,S,F,70000,Bachelors,Management
+13352,,Joseph,Davis,S,M,70000,Bachelors,Management
+13353,,Jordyn,Coleman,S,F,60000,Graduate Degree,Management
+13354,,Eric,Campbell,M,M,70000,Bachelors,Management
+13355,,Jackson,Jai,M,M,70000,Bachelors,Management
+13356,,Stefanie,Prasad,M,F,60000,Bachelors,Management
+13357,,Blake,Gonzales,S,M,60000,Bachelors,Management
+13358,,Alexandra,Edwards,M,F,60000,Bachelors,Management
+13359,,Ian,Wood,M,M,60000,Bachelors,Management
+13360,,Jada,Cook,M,F,60000,Bachelors,Management
+13361,,Cameron,Jai,M,M,60000,Bachelors,Management
+13362,,Destiny,Morgan,S,F,60000,Bachelors,Management
+13363,,Sydney,Allen,M,F,70000,Bachelors,Management
+13364,,Natalie,Anderson,S,F,70000,Bachelors,Management
+13365,,Luke,Shan,M,M,70000,Bachelors,Management
+13366,,Austin,Davis,M,M,70000,Bachelors,Management
+13367,,Savannah,Edwards,M,F,70000,Bachelors,Management
+13368,,Kyle,Henderson,M,M,70000,Bachelors,Management
+13369,,Mariah,Henderson,M,F,80000,Bachelors,Management
+13370,,Blake,Ross,M,M,60000,Partial College,Professional
+13371,,Sydney,Gonzales,S,F,60000,Partial College,Professional
+13372,,Isaac,Edwards,M,M,60000,Partial College,Professional
+13373,,Michelle,Murphy,S,F,60000,Partial College,Professional
+13374,,Marco,Martinez,M,M,60000,Partial College,Professional
+13375,,Jason,Kumar,M,M,60000,Partial College,Professional
+13376,,Jerry,Rai,M,M,60000,Partial College,Professional
+13377,,Thomas,Hernandez,M,M,70000,Bachelors,Management
+13378,,Alexandra,Bailey,M,F,70000,Partial College,Professional
+13379,,Bailey,Morris,S,F,60000,Partial College,Professional
+13380,,Katherine,Scott,M,F,60000,Bachelors,Management
+13381,,Vanessa,Jenkins,M,F,60000,Bachelors,Management
+13382,,Richard,Rogers,M,M,70000,Partial College,Professional
+13383,,Natalie,Wright,S,F,60000,Partial College,Professional
+13384,,Mario,Ashe,S,M,60000,Partial College,Professional
+13385,,Danielle,Cook,S,F,60000,Partial College,Professional
+13386,,Samuel,Patterson,M,M,60000,Partial College,Professional
+13387,,Miranda,Jenkins,M,F,60000,Partial College,Professional
+13388,,Marshall,Shen,S,M,60000,Partial College,Professional
+13389,,Madison,Thomas,M,F,70000,Partial College,Professional
+13390,,Julia,Collins,M,F,70000,Partial College,Professional
+13391,,Brenda,Malhotra,M,F,40000,Partial High School,Skilled Manual
+13392,,Hunter,Parker,M,M,70000,High School,Professional
+13393,,Willie,Kumar,M,M,70000,High School,Professional
+13394,,Matthew,Clark,S,M,70000,High School,Professional
+13395,,Gabriel,Li,M,M,70000,High School,Professional
+13396,,David,Kumar,M,M,70000,High School,Professional
+13397,,Adam,Mitchell,M,M,60000,Partial College,Professional
+13398,,Logan,Ross,M,M,60000,Partial College,Professional
+13399,,Edward,Young,M,M,60000,Partial College,Professional
+13400,,Julia,Thomas,M,F,60000,Partial College,Professional
+13401,,Erin,Bradley,S,F,60000,High School,Professional
+13402,,Gabriel,Turner,M,M,60000,High School,Professional
+13403,,Jennifer,Jackson,S,F,70000,Partial College,Professional
+13404,,Kelvin,Yang,M,M,130000,Partial College,Professional
+13405,,Ethan,Bryant,M,M,110000,Partial College,Professional
+13406,,Craig,Jiménez,M,M,130000,Partial College,Professional
+13407,,Cassandra,Rana,S,F,150000,High School,Professional
+13408,,Katherine,Gonzales,M,F,170000,Bachelors,Management
+13409,,Cory,Fernandez,M,M,110000,Partial College,Professional
+13410,,Jillian,Madan,M,F,110000,Partial College,Professional
+13411,,Jacquelyn,Blanco,M,F,130000,Partial College,Professional
+13412,,Rafael,Zhao,M,M,130000,Partial College,Professional
+13413,,Fernando,Phillips,M,M,60000,Graduate Degree,Management
+13414,,Miguel,Wilson,M,M,80000,Graduate Degree,Management
+13415,,Marcus,Rogers,S,M,100000,Graduate Degree,Management
+13416,,Richard,Roberts,S,M,110000,Graduate Degree,Management
+13417,,Ian,Cox,M,M,110000,Graduate Degree,Management
+13418,,Devin,Cox,M,M,90000,Partial College,Professional
+13419,,Lauren,Coleman,M,F,90000,Partial College,Professional
+13420,,Jordan,Turner,M,F,120000,Bachelors,Management
+13421,,Alyssa,Patterson,M,F,130000,Graduate Degree,Management
+13422,,Jacqueline,Washington,S,F,160000,Graduate Degree,Management
+13423,,Alex,Peterson,S,M,80000,Bachelors,Management
+13424,,Jasmine,Thomas,M,F,90000,Partial College,Professional
+13425,,Jose,Garcia,M,M,90000,Partial College,Professional
+13426,,Taylor,Williams,S,F,110000,Bachelors,Management
+13427,,Connor,Winston,S,M,130000,Bachelors,Management
+13428,,Marcus,Ramirez,M,M,130000,Bachelors,Management
+13429,,Gabrielle,Washington,M,F,150000,Bachelors,Management
+13430,,Edward,Griffin,M,M,150000,Bachelors,Management
+13431,,Bryan,James,M,M,70000,Partial College,Professional
+13432,,Dalton,Wood,S,M,80000,Partial College,Professional
+13433,,Jessie,Vazquez,S,F,90000,Partial College,Professional
+13434,,Kaitlyn,Wright,S,F,50000,Graduate Degree,Management
+13435,,Tracy,Pal,M,F,70000,Graduate Degree,Management
+13436,,Gail,Griffin,S,F,90000,Partial College,Professional
+13437,,Ethan,Flores,M,M,90000,Partial College,Professional
+13438,,Chloe,Griffin,S,F,90000,Partial College,Professional
+13439,,Arturo,Lin,M,M,110000,Bachelors,Management
+13440,,Sydney,Miller,S,F,80000,Partial College,Professional
+13441,,Omar,Zhang,M,M,90000,Partial College,Professional
+13442,,Paula,Vazquez,S,F,90000,Partial College,Professional
+13443,,Jasmine,White,M,F,100000,Partial College,Professional
+13444,,Abby,Lopez,S,F,110000,Bachelors,Management
+13445,,Logan,Davis,M,M,120000,Partial College,Professional
+13446,,Katelyn,Scott,S,F,120000,Partial College,Professional
+13447,,Destiny,Cox,M,F,130000,Bachelors,Management
+13448,,Catherine,Ward,M,F,130000,Bachelors,Management
+13449,,Jerome,Diaz,S,M,80000,Partial College,Professional
+13450,,Victoria,Jones,S,F,90000,High School,Professional
+13451,,Robin,Browning,M,F,110000,Partial College,Professional
+13452,,Kaitlyn,Evans,M,F,130000,Bachelors,Management
+13453,,Amanda,Howard,M,F,130000,Bachelors,Management
+13454,,Benjamin,Griffin,M,M,130000,Bachelors,Management
+13455,,Kaitlyn,Bryant,M,F,130000,Bachelors,Management
+13456,,Sydney,Hernandez,S,F,80000,Partial High School,Skilled Manual
+13457,,Eric,Henderson,M,M,60000,High School,Professional
+13458,,Joan,James,M,F,60000,High School,Professional
+13459,,Devin,Foster,M,M,60000,High School,Professional
+13460,,Jasmine,Walker,S,F,80000,Partial High School,Skilled Manual
+13461,,Anthony,Jones,S,M,130000,Graduate Degree,Management
+13462,,Jay,Sara,S,M,50000,Graduate Degree,Management
+13463,,Tammy,Sara,M,F,60000,Graduate Degree,Management
+13464,,Martha,Hu,M,F,70000,Graduate Degree,Management
+13465,,Sydney,Campbell,M,F,100000,Graduate Degree,Management
+13466,,Bryce,James,M,M,80000,Partial College,Professional
+13467,,Kristopher,Martinez,S,M,90000,High School,Professional
+13468,,Mariah,Sanders,S,F,100000,Partial College,Professional
+13469,,Bryce,Bailey,S,M,100000,Partial College,Professional
+13470,,Jaclyn,Jai,S,F,100000,Partial College,Professional
+13471,,Eric,Bryant,M,M,120000,High School,Professional
+13472,,Simon,Pearson,M,M,80000,Partial High School,Skilled Manual
+13473,,Logan,Hill,M,M,80000,Partial High School,Skilled Manual
+13474,,Elizabeth,Hall,M,F,60000,Partial High School,Skilled Manual
+13475,,Charles,Allen,M,M,60000,Partial High School,Skilled Manual
+13476,,Timothy,Hall,M,M,60000,Partial High School,Skilled Manual
+13477,,Katherine,Wood,M,F,70000,High School,Professional
+13478,,Alexia,Coleman,S,F,70000,High School,Professional
+13479,,Katelyn,Rogers,S,F,70000,Graduate Degree,Management
+13480,,Anna,Rodriguez,S,F,70000,Graduate Degree,Management
+13481,,Hunter,Hernandez,M,M,70000,Graduate Degree,Management
+13482,,Haley,Bryant,M,F,40000,Partial College,Professional
+13483,,Christian,Lal,M,M,40000,Partial College,Professional
+13484,,Marcus,Martinez,S,M,110000,Graduate Degree,Management
+13485,,Thomas,Allen,M,M,130000,Graduate Degree,Management
+13486,,Rebekah,Gomez,S,F,130000,Bachelors,Management
+13487,,Emily,Martin,M,F,150000,Graduate Degree,Management
+13488,,Laura,Guo,M,F,120000,Graduate Degree,Management
+13489,,Jennifer,Walker,M,F,90000,Bachelors,Management
+13490,,Edward,Rodriguez,M,M,120000,Graduate Degree,Management
+13491,,Natalie,Howard,M,F,120000,Graduate Degree,Management
+13492,,Christian,Foster,M,M,130000,Bachelors,Management
+13493,,Valerie,Zhao,M,F,10000,Graduate Degree,Manual
+13494,,Byron,Gutierrez,S,M,10000,Graduate Degree,Manual
+13495,,Micheal,Alvarez,M,M,20000,Graduate Degree,Clerical
+13496,,Lucas,Morris,M,M,20000,Graduate Degree,Clerical
+13497,,Deborah,Sharma,M,F,20000,Graduate Degree,Clerical
+13498,,Joel,Mehta,S,M,30000,Graduate Degree,Clerical
+13499,,Olivia,Cox,S,F,30000,Graduate Degree,Clerical
+13500,,Molly,Vance,M,F,10000,Bachelors,Manual
+13501,,Clayton,Zhu,M,M,10000,Bachelors,Manual
+13502,,Deborah,Nara,S,F,10000,Bachelors,Manual
+13503,,Theodore,Gomez,M,M,10000,Partial College,Manual
+13504,,Beth,Alonso,M,F,10000,Partial College,Manual
+13505,,Jamie,Cai,M,F,10000,Partial College,Manual
+13506,,Willie,Guo,S,M,10000,Partial College,Manual
+13507,,Margaret,Patterson,M,F,10000,Partial College,Manual
+13508,,Cassandra,Sanchez,M,F,20000,Graduate Degree,Clerical
+13509,,Lucas,Johnson,M,M,30000,Graduate Degree,Clerical
+13510,,Jon,Shen,M,M,10000,Partial College,Manual
+13511,,Ernest,Liu,S,M,10000,Partial College,Manual
+13512,,Ken,Sánchez,M,F,10000,Partial College,Manual
+13513,,Abigail,Henderson,M,F,30000,Bachelors,Clerical
+13514,,Lindsay,Luo,S,F,10000,Partial College,Manual
+13515,,Cara,Liang,M,F,20000,Partial College,Manual
+13516,,Harold,Ray,M,M,30000,Bachelors,Clerical
+13517,,Nicolas,Sharma,S,M,30000,Bachelors,Clerical
+13518,,Brendan,Goldstein,S,M,10000,Partial College,Manual
+13519,,Lucas,Foster,S,M,10000,Partial College,Manual
+13520,,Carol,Nelson,S,F,10000,Partial College,Manual
+13521,,Sandra,Lu,S,F,10000,Partial College,Manual
+13522,,Logan,Taylor,S,M,10000,High School,Manual
+13523,,Adrienne,Ruiz,S,F,10000,High School,Manual
+13524,,Cheryl,Blanco,M,F,20000,Bachelors,Clerical
+13525,,Cassandra,Van,M,F,20000,Bachelors,Clerical
+13526,,Krystal,Liu,M,F,20000,Bachelors,Clerical
+13527,,Tonya,Andersen,M,F,20000,Partial College,Manual
+13528,,Carmen,Lopez,M,F,20000,Partial College,Manual
+13529,,Pamela,Martinez,S,F,20000,Partial College,Manual
+13530,,Krystal,Chen,M,F,40000,Graduate Degree,Clerical
+13531,,Tyrone,Gutierrez,M,M,30000,Graduate Degree,Clerical
+13532,,Melody,Gill,M,F,30000,Graduate Degree,Clerical
+13533,,Eduardo,Butler,S,M,30000,Graduate Degree,Clerical
+13534,,Beth,Navarro,M,F,30000,Graduate Degree,Clerical
+13535,,Omar,Nara,S,M,20000,Partial College,Manual
+13536,,Arianna,Ward,S,F,10000,High School,Manual
+13537,,Jill,Moreno,S,F,10000,High School,Manual
+13538,,Vanessa,Henderson,S,F,20000,Partial College,Manual
+13539,,Roger,Guo,S,M,30000,Graduate Degree,Clerical
+13540,,Paula,Ortega,M,F,40000,Graduate Degree,Clerical
+13541,,Ashlee,Xu,M,F,40000,Graduate Degree,Clerical
+13542,,Sharon,Kumar,M,F,30000,Bachelors,Clerical
+13543,,Phillip,Rana,S,M,30000,Bachelors,Clerical
+13544,,Joy,Martin,S,F,20000,Partial College,Manual
+13545,,Brad,Sharma,M,M,30000,Bachelors,Clerical
+13546,,Mitchell,Jai,M,M,30000,Bachelors,Clerical
+13547,,Michele,Jimenez,S,F,10000,High School,Manual
+13548,,Bridget,Jai,M,F,30000,Bachelors,Clerical
+13549,,Richard,King,S,M,10000,High School,Manual
+13550,,Joe,Malhotra,S,M,20000,Partial College,Manual
+13551,,Jacob,Lee,M,M,30000,Bachelors,Clerical
+13552,,Trevor,Hughes,S,M,30000,Bachelors,Clerical
+13553,,Jessica,Coleman,M,F,30000,Bachelors,Clerical
+13554,,Paula,Moreno,M,F,30000,Bachelors,Clerical
+13555,,Tammy,Smith,M,F,40000,Graduate Degree,Clerical
+13556,,Alisha,Nath,S,F,40000,Graduate Degree,Clerical
+13557,,Stacey,Liu,M,F,40000,Graduate Degree,Clerical
+13558,,Karen,Lu,M,F,40000,Graduate Degree,Clerical
+13559,,Lori,Ramos,S,F,50000,Graduate Degree,Skilled Manual
+13560,,Andres,Shan,M,M,50000,Graduate Degree,Skilled Manual
+13561,,Gary,Navarro,M,M,50000,Graduate Degree,Skilled Manual
+13562,,Bryant,Van,S,M,50000,Graduate Degree,Skilled Manual
+13563,,Phillip,Sai,M,M,50000,Graduate Degree,Skilled Manual
+13564,,Sabrina,Blanco,M,F,10000,Partial College,Manual
+13565,,Tiffany,Zhao,M,F,10000,Partial College,Manual
+13566,,Mikael,Sandberg,S,F,10000,High School,Manual
+13567,,Anne,Rubio,M,F,10000,High School,Manual
+13568,,Max,Jimenez,M,M,10000,High School,Manual
+13569,,Marcus,Hall,S,M,10000,High School,Manual
+13570,,Benjamin,Jackson,S,M,10000,High School,Manual
+13571,,Allen,Mehta,M,M,10000,High School,Manual
+13572,,Shaun,Deng,S,M,10000,High School,Manual
+13573,,Edwin,Pal,M,M,20000,Partial College,Manual
+13574,,Brenda,Garcia,S,F,20000,Partial College,Manual
+13575,,Alicia,Shen,M,F,70000,High School,Professional
+13576,,Tamara,Lal,S,F,160000,Bachelors,Management
+13577,,Theodore,Torres,M,M,70000,High School,Professional
+13578,,Karl,Nath,M,M,70000,High School,Professional
+13579,,Alan,Chen,M,M,110000,Bachelors,Management
+13580,,Carol,Xu,M,F,110000,Bachelors,Management
+13581,,Albert,Blanco,M,M,130000,Partial College,Professional
+13582,,Martha,Gao,M,F,130000,Partial College,Professional
+13583,,Blake,Butler,S,M,90000,High School,Professional
+13584,,Isaiah,Cox,S,M,70000,High School,Professional
+13585,,Savannah,Morris,M,F,80000,Partial College,Professional
+13586,,Larry,Alonso,M,M,80000,Partial College,Professional
+13587,,Kristina,Subram,S,F,100000,High School,Professional
+13588,,Deb,Dominguez,M,F,130000,Partial College,Professional
+13589,,Cameron,Smith,S,M,90000,Partial College,Professional
+13590,,Louis,Xie,M,M,170000,Bachelors,Management
+13591,,Latasha,Alonso,M,F,170000,Bachelors,Management
+13592,,Gabriella,Collins,M,F,70000,Partial High School,Skilled Manual
+13593,,Deanna,Navarro,S,F,100000,Partial College,Professional
+13594,,Jessica,Williams,M,F,100000,Partial College,Professional
+13595,,Cole,Stewart,S,M,70000,Partial High School,Skilled Manual
+13596,,Billy,Gomez,M,M,80000,High School,Professional
+13597,,Lance,Gutierrez,M,M,90000,High School,Professional
+13598,,Keith,Luo,M,M,120000,Partial College,Professional
+13599,,Valerie,Zhu,M,F,120000,Partial College,Professional
+13600,,Marie,Sanz,M,F,170000,Partial College,Professional
+13601,,Tanya,Dominguez,M,F,100000,Partial College,Management
+13602,,Virginia,Mehta,M,F,110000,Partial College,Management
+13603,,Molly,Martinez,M,F,120000,Partial College,Management
+13604,,Nuan,Zheng,M,M,130000,High School,Management
+13605,,Gerrit,Straatsma,M,M,80000,High School,Management
+13606,,Drew,Sharma,M,M,100000,Partial College,Management
+13607,,Levi,Rana,S,M,110000,High School,Management
+13608,,Karla,Kumar,M,F,120000,High School,Management
+13609,,Ramon,Yang,M,M,150000,High School,Management
+13610,,Omar,Sharma,M,M,80000,High School,Management
+13611,,Marshall,Huang,M,M,90000,High School,Management
+13612,,Hailey,Ross,M,F,130000,Partial High School,Professional
+13613,,Derek,Jai,M,M,60000,Bachelors,Professional
+13614,,Julie,Becker,S,F,60000,Bachelors,Professional
+13615,,Jacquelyn,Rowe,S,F,60000,Bachelors,Professional
+13616,,Cole,Ramirez,M,M,70000,Bachelors,Professional
+13617,,Gerald,Suri,M,M,70000,Bachelors,Professional
+13618,,Jay,Raman,S,M,70000,Bachelors,Professional
+13619,,Arturo,Xu,M,M,70000,Bachelors,Professional
+13620,,Damien,Ye,S,M,70000,Bachelors,Professional
+13621,,Melody,Ruiz,M,F,60000,Bachelors,Professional
+13622,,Alan,Wang,M,M,70000,Partial High School,Professional
+13623,,Mitchell,Carson,M,M,80000,Bachelors,Professional
+13624,,Nicole,Long,S,F,80000,Bachelors,Professional
+13625,,Jason,Campbell,M,M,90000,Bachelors,Professional
+13626,,Johnathan,Madan,M,M,90000,Bachelors,Professional
+13627,,Natasha,Rubio,M,F,80000,Bachelors,Professional
+13628,,Kaitlin,Schmidt,M,F,110000,Partial College,Management
+13629,,Karla,Yuan,M,F,90000,Bachelors,Professional
+13630,,Brenda,Arun,S,F,90000,Bachelors,Professional
+13631,,Joe,Subram,M,M,90000,Bachelors,Professional
+13632,,Cheryl,Munoz,S,F,90000,Bachelors,Professional
+13633,,Juan,Ramos,S,M,90000,Bachelors,Professional
+13634,,Alexis,Russell,M,F,100000,High School,Management
+13635,,Kurt,Deng,M,M,80000,Bachelors,Professional
+13636,,Jarrod,Rodriguez,M,M,90000,Bachelors,Professional
+13637,,Victoria,Cooper,M,F,110000,Partial College,Management
+13638,,Diana,Alvarez,S,F,110000,High School,Management
+13639,,Colin,Liang,M,M,100000,High School,Management
+13640,,Rachael,Patel,M,F,100000,High School,Management
+13641,,Adrian,Watson,S,M,90000,Bachelors,Professional
+13642,,Cassie,Nara,M,F,100000,High School,Management
+13643,,Ronald,Sai,S,M,100000,Partial High School,Professional
+13644,,Kristi,Dominguez,M,F,100000,Partial High School,Professional
+13645,,Eugene,He,S,M,100000,Partial High School,Professional
+13646,,Terry,Yuan,M,M,110000,High School,Management
+13647,,Armando,Alonso,S,M,120000,Partial High School,Professional
+13648,,Arturo,Sharma,S,M,120000,Partial High School,Professional
+13649,,Rebekah,Suarez,M,F,110000,Partial High School,Professional
+13650,,Jessie,She,M,M,110000,Partial High School,Management
+13651,,Jerry,Sharma,M,M,120000,Partial High School,Management
+13652,,Tamara,Zeng,M,F,90000,Bachelors,Management
+13653,,Tony,Chander,M,M,90000,Bachelors,Management
+13654,,Shawn,Andersen,M,M,100000,Graduate Degree,Management
+13655,,Christopher,Walker,M,M,100000,Graduate Degree,Management
+13656,,Faith,Howard,M,F,110000,Graduate Degree,Management
+13657,,Kaylee,Collins,S,F,110000,Graduate Degree,Management
+13658,,Wyatt,Bennett,M,M,130000,Bachelors,Management
+13659,,Clayton,Shan,M,M,130000,Bachelors,Management
+13660,,Ethan,Davis,M,M,70000,Bachelors,Management
+13661,,Andre,Sara,M,M,40000,Bachelors,Skilled Manual
+13662,,Miguel,Roberts,S,M,20000,Partial High School,Manual
+13663,,Melvin,Tang,S,M,10000,Partial High School,Manual
+13664,,Larry,Diaz,S,M,10000,Partial High School,Manual
+13665,,Kristi,Randall,M,F,10000,Partial High School,Manual
+13666,,Teresa,Ruiz,S,F,20000,Partial High School,Manual
+13667,,Andres,Deng,S,M,20000,Partial High School,Manual
+13668,,Stanley,Martinez,M,M,60000,Bachelors,Professional
+13669,,Kristy,Gill,M,F,60000,Bachelors,Professional
+13670,,Brittney,Zeng,S,F,60000,Bachelors,Professional
+13671,,Frank,Ramos,S,M,30000,Partial College,Clerical
+13672,,Benjamin,Davis,S,M,20000,Partial High School,Manual
+13673,,Sandra,He,S,F,20000,Partial High School,Manual
+13674,,Drew,Shen,S,M,20000,Partial High School,Manual
+13675,,Stanley,Sai,S,M,20000,Partial High School,Manual
+13676,,George,Kapoor,M,M,20000,Partial High School,Manual
+13677,,Brian,Albrecht,S,F,30000,High School,Manual
+13678,,Warren,Goel,M,M,40000,Bachelors,Skilled Manual
+13679,,Sandra,Li,M,F,40000,Bachelors,Skilled Manual
+13680,,Jan,Watson,M,F,40000,Bachelors,Skilled Manual
+13681,,Adam,Hall,S,M,30000,High School,Manual
+13682,,Fernando,Lopez,S,M,30000,High School,Manual
+13683,,Sheila,Torres,S,F,30000,High School,Manual
+13684,,Francis,Dominguez,S,M,10000,Partial High School,Manual
+13685,,Briana,Torres,M,F,40000,Bachelors,Skilled Manual
+13686,,Peter,Jai,M,M,40000,Bachelors,Skilled Manual
+13687,,Mario,Xie,M,M,40000,Bachelors,Skilled Manual
+13688,,Ruben,Sanchez,S,M,50000,Graduate Degree,Skilled Manual
+13689,,Teresa,Ramos,S,F,50000,Graduate Degree,Skilled Manual
+13690,,Claudia,Gao,S,F,20000,Partial High School,Manual
+13691,,Ariana,Bailey,S,F,40000,Partial College,Clerical
+13692,,Curtis,Li,M,M,40000,Partial College,Clerical
+13693,,Dominic,Gonzalez,S,M,20000,Partial High School,Manual
+13694,,Savannah,Gray,S,F,30000,High School,Manual
+13695,,Christian,Clark,S,M,30000,High School,Manual
+13696,,Katherine,Edwards,S,F,40000,Partial College,Clerical
+13697,,Jésus,Munoz,S,M,40000,Partial College,Clerical
+13698,,Catherine,Sanchez,S,F,40000,Partial College,Clerical
+13699,,Rachel,Alexander,S,F,40000,Partial College,Clerical
+13700,,Evan,Howard,S,M,40000,Partial College,Clerical
+13701,,Haley,Scott,S,F,40000,Partial College,Clerical
+13702,,Jessie,Suarez,S,F,40000,Partial College,Clerical
+13703,,Mackenzie,Sanders,S,F,30000,Graduate Degree,Skilled Manual
+13704,,Victoria,Davis,S,F,30000,Graduate Degree,Skilled Manual
+13705,,Blake,Mitchell,S,M,30000,Graduate Degree,Skilled Manual
+13706,,Kaitlyn,Peterson,S,F,40000,Partial College,Clerical
+13707,,Austin,Smith,M,M,40000,Partial College,Clerical
+13708,,Jennifer,Bennett,S,F,60000,Graduate Degree,Skilled Manual
+13709,,Zachary,Robinson,S,M,60000,Graduate Degree,Skilled Manual
+13710,,Destiny,Harris,S,F,60000,Graduate Degree,Skilled Manual
+13711,,Thomas,Mitchell,S,M,60000,Graduate Degree,Skilled Manual
+13712,,Nancy,Martinez,S,F,60000,Graduate Degree,Skilled Manual
+13713,,Alexander,Walker,S,M,60000,Graduate Degree,Skilled Manual
+13714,,Amanda,Ward,M,F,20000,High School,Manual
+13715,,Eduardo,Sanchez,M,M,30000,Bachelors,Skilled Manual
+13716,,Brandon,Jai,M,M,30000,Bachelors,Skilled Manual
+13717,,Audrey,Gill,M,F,30000,Bachelors,Skilled Manual
+13718,,Marcus,Barnes,M,M,30000,Bachelors,Skilled Manual
+13719,,Isaac,Carter,M,M,20000,Partial High School,Manual
+13720,,Cameron,Johnson,M,M,20000,Partial High School,Manual
+13721,,Lucas,Howard,S,M,20000,Partial High School,Clerical
+13722,,Luke,Campbell,M,M,30000,High School,Manual
+13723,,Leonard,Raje,M,M,30000,High School,Clerical
+13724,,Charles,Thompson,M,M,40000,Partial College,Clerical
+13725,,Nathan,Henderson,M,M,40000,Partial College,Clerical
+13726,,Austin,Lewis,M,M,40000,Partial College,Clerical
+13727,,Paula,Rubio,M,F,40000,Partial College,Clerical
+13728,,Taylor,Stewart,M,F,40000,Partial College,Clerical
+13729,,Jason,Li,M,M,40000,Partial College,Clerical
+13730,,Walter,Suarez,M,M,40000,Partial College,Clerical
+13731,,Jan,James,S,F,80000,Graduate Degree,Skilled Manual
+13732,,Julian,Isla,S,F,80000,Graduate Degree,Skilled Manual
+13733,,Sydney,Collins,M,F,40000,Partial College,Clerical
+13734,,Kristi,Gonzalez,M,F,40000,Partial College,Clerical
+13735,,Dennis,Guo,M,M,40000,Partial College,Clerical
+13736,,Cole,Rivera,M,M,40000,Partial College,Clerical
+13737,,Garrett,Sanders,M,M,40000,Partial College,Clerical
+13738,,Jose,Young,M,M,40000,Partial College,Clerical
+13739,,Jason,Coleman,M,M,40000,Partial College,Clerical
+13740,,Jada,Ramirez,M,F,40000,Partial College,Clerical
+13741,,Haley,Morgan,M,F,40000,Partial College,Clerical
+13742,,Benjamin,Ross,M,M,40000,Partial College,Clerical
+13743,,Isabella,Anderson,M,F,40000,Partial College,Clerical
+13744,,Alvin,Andersen,M,M,40000,Partial College,Clerical
+13745,,Andrew,Robinson,M,M,40000,Partial College,Clerical
+13746,,Janelle,Madan,M,F,40000,Partial College,Clerical
+13747,,Brian,Torres,M,M,40000,Partial College,Clerical
+13748,,José,Martinez,M,M,80000,Graduate Degree,Skilled Manual
+13749,,Julio,Alonso,M,M,80000,Graduate Degree,Skilled Manual
+13750,,Raymond,Sai,M,M,80000,Graduate Degree,Skilled Manual
+13751,,Allison,Rivera,S,F,80000,Graduate Degree,Skilled Manual
+13752,,Isabella,Parker,S,F,80000,Graduate Degree,Skilled Manual
+13753,,Rebecca,Nicholls,S,F,80000,Graduate Degree,Skilled Manual
+13754,,Paige,Peterson,S,F,80000,Graduate Degree,Skilled Manual
+13755,,Luke,Roberts,S,M,60000,Graduate Degree,Skilled Manual
+13756,,Kaylee,Young,S,F,60000,Graduate Degree,Skilled Manual
+13757,,Jordyn,Griffin,S,F,60000,Graduate Degree,Skilled Manual
+13758,,Alexandria,Bell,S,F,60000,Graduate Degree,Skilled Manual
+13759,,Jackson,Scott,M,M,60000,Graduate Degree,Skilled Manual
+13760,,Brian,Cooper,M,M,60000,Graduate Degree,Skilled Manual
+13761,,Logan,Powell,M,M,60000,Graduate Degree,Skilled Manual
+13762,,Gavin,Long,M,M,60000,Graduate Degree,Skilled Manual
+13763,,Stephanie,Richardson,S,F,60000,Graduate Degree,Skilled Manual
+13764,,Stephanie,Parker,M,F,20000,Partial College,Manual
+13765,,Jaime,Shen,M,M,30000,Bachelors,Clerical
+13766,,Joe,Gill,M,M,30000,Bachelors,Clerical
+13767,,Linda,Jimenez,S,F,30000,Bachelors,Clerical
+13768,,Ross,Munoz,M,M,40000,Graduate Degree,Clerical
+13769,,Brendan,Kumar,M,M,40000,Graduate Degree,Clerical
+13770,,Gerald,Moreno,M,M,40000,Graduate Degree,Clerical
+13771,,Victor,Moreno,S,M,40000,Graduate Degree,Clerical
+13772,,Michele,Perez,M,F,40000,Bachelors,Clerical
+13773,,Dana,Blanco,M,F,10000,Partial High School,Manual
+13774,,Steve,Guo,S,M,10000,Partial High School,Manual
+13775,,Patricia,Subram,S,F,10000,Partial High School,Manual
+13776,,Miguel,Carter,M,M,30000,Bachelors,Clerical
+13777,,Manuel,Perez,M,M,30000,Bachelors,Clerical
+13778,,Roger,Huang,M,M,30000,Bachelors,Clerical
+13779,,Manuel,Garcia,S,M,10000,Partial High School,Manual
+13780,,Monica,Perez,M,F,20000,High School,Manual
+13781,,Dominique,Patel,M,F,40000,Bachelors,Clerical
+13782,,Kelli,Lu,M,F,40000,Bachelors,Clerical
+13783,,Logan,Wright,M,M,40000,Bachelors,Clerical
+13784,,Spencer,Griffin,S,M,20000,High School,Manual
+13785,,Clayton,She,S,M,30000,Bachelors,Clerical
+13786,,Jon,Chavez,S,M,30000,Bachelors,Clerical
+13787,,Glenn,Cai,M,M,30000,Bachelors,Clerical
+13788,,Kari,Fernandez,M,F,30000,Bachelors,Clerical
+13789,,Julie,Shan,S,F,10000,Partial High School,Manual
+13790,,Nina,Deng,S,F,20000,High School,Manual
+13791,,Audrey,Martin,S,F,20000,High School,Manual
+13792,,Charles,Taylor,S,M,20000,High School,Manual
+13793,,Jason,Gonzales,M,M,30000,Bachelors,Skilled Manual
+13794,,Mallory,Martin,S,F,20000,High School,Manual
+13795,,Carl,Raje,S,M,20000,High School,Manual
+13796,,Martha,Zheng,M,F,10000,Partial High School,Manual
+13797,,Franklin,Gao,M,M,20000,High School,Manual
+13798,,Tammy,Randall,S,F,20000,High School,Manual
+13799,,Bryan,Bailey,S,M,30000,Partial College,Manual
+13800,,Logan,Li,M,M,30000,Partial College,Manual
+13801,,Colleen,Andersen,S,F,30000,Partial College,Clerical
+13802,,Tina,Subram,M,F,20000,Partial College,Clerical
+13803,,Krystal,Zheng,M,F,40000,Graduate Degree,Skilled Manual
+13804,,Dawn,Luo,M,F,40000,Bachelors,Skilled Manual
+13805,,Gabriel,Hernandez,M,M,40000,Bachelors,Skilled Manual
+13806,,Bryant,Mehta,M,M,30000,Partial College,Clerical
+13807,,Frederick,Rana,S,M,30000,Partial College,Clerical
+13808,,Richard,Perez,S,M,30000,Partial College,Clerical
+13809,,Lisa,Zhou,M,F,40000,Bachelors,Skilled Manual
+13810,,Vanessa,Barnes,M,F,40000,Bachelors,Skilled Manual
+13811,,Sandra,Chen,S,F,30000,Partial College,Clerical
+13812,,Joanna,Munoz,S,F,30000,Partial College,Clerical
+13813,,Kristen,Sun,M,F,30000,Partial College,Clerical
+13814,,Sarah,Walker,S,F,30000,Partial College,Clerical
+13815,,Lacey,Lin,S,F,30000,Partial College,Clerical
+13816,,Marissa,Henderson,S,F,30000,Partial College,Clerical
+13817,,Jenny,Huang,S,F,20000,High School,Manual
+13818,,Dawn,Chander,S,F,20000,High School,Manual
+13819,,Max,Gill,S,M,20000,High School,Manual
+13820,,Danny,Alvarez,M,M,40000,Bachelors,Skilled Manual
+13821,,Allen,Lopez,M,M,40000,Bachelors,Skilled Manual
+13822,,Jay,Moyer,M,M,40000,Bachelors,Skilled Manual
+13823,,Margaret,Zheng,M,F,40000,Bachelors,Skilled Manual
+13824,,Destiny,Wood,S,F,30000,Partial College,Clerical
+13825,,Kelvin,Ma,S,M,30000,Partial College,Clerical
+13826,,Candice,He,S,F,30000,Partial College,Clerical
+13827,,Nathan,Harris,M,M,30000,Partial College,Clerical
+13828,,Jessie,Travers,S,F,30000,Partial College,Clerical
+13829,,Randall,Carlson,S,M,30000,Partial College,Clerical
+13830,,Andrea,Cox,S,F,30000,Partial College,Clerical
+13831,,Eddie,Alvarez,S,M,20000,High School,Manual
+13832,,Priscilla,Raji,S,F,20000,High School,Manual
+13833,,Noah,Lewis,S,M,20000,High School,Manual
+13834,,Naomi,Suarez,S,F,20000,High School,Manual
+13835,,Hailey,Brooks,S,F,20000,High School,Manual
+13836,,Dominic,Sara,S,M,30000,Partial College,Clerical
+13837,,Alyssa,Lee,S,F,30000,Partial College,Clerical
+13838,,Jill,Rubio,S,F,30000,Partial College,Clerical
+13839,,Manuel,Madan,S,M,10000,Partial High School,Manual
+13840,,Tommy,Pal,M,M,10000,Partial High School,Manual
+13841,,Clayton,Kumar,S,M,20000,Partial High School,Manual
+13842,,Kenneth,Xie,S,M,20000,Partial High School,Manual
+13843,,Warren,Xie,S,M,30000,Partial College,Clerical
+13844,,Phillip,Mehta,S,M,30000,Partial College,Clerical
+13845,,Shawn,Nara,M,M,40000,Bachelors,Skilled Manual
+13846,,Lisa,Zheng,M,F,40000,Bachelors,Skilled Manual
+13847,,Kurt,Tang,M,M,40000,Bachelors,Skilled Manual
+13848,,Melissa,Blue,S,F,40000,Partial College,Clerical
+13849,,Preston,Rodriguez,S,M,40000,Partial College,Clerical
+13850,,Anthony,Thompson,S,M,40000,Graduate Degree,Skilled Manual
+13851,,Seth,Moore,S,M,40000,Graduate Degree,Skilled Manual
+13852,,Ian,Robinson,S,M,50000,Graduate Degree,Skilled Manual
+13853,,Connor,Zhang,S,M,50000,Graduate Degree,Skilled Manual
+13854,,Kyle,Parker,M,M,50000,Graduate Degree,Skilled Manual
+13855,,Sarah,Washington,S,F,50000,Graduate Degree,Skilled Manual
+13856,,Ian,Scott,S,M,40000,High School,Skilled Manual
+13857,,Victoria,Thompson,M,F,60000,Graduate Degree,Skilled Manual
+13858,,Melanie,Richardson,M,F,60000,Graduate Degree,Skilled Manual
+13859,,Kristin,Deng,M,F,60000,Graduate Degree,Skilled Manual
+13860,,Olivia,Watson,M,F,40000,Graduate Degree,Skilled Manual
+13861,,Hailey,Rogers,M,F,60000,Graduate Degree,Skilled Manual
+13862,,Andrew,Walker,M,M,60000,Graduate Degree,Skilled Manual
+13863,,Kevin,Long,M,M,60000,Graduate Degree,Skilled Manual
+13864,,Robin,Torres,M,F,60000,Graduate Degree,Skilled Manual
+13865,,Mariah,Foster,M,F,70000,Graduate Degree,Professional
+13866,,Mya,Butler,M,F,70000,Graduate Degree,Professional
+13867,,Luke,Griffin,M,M,50000,Bachelors,Skilled Manual
+13868,,Shelby,Morris,S,F,60000,Graduate Degree,Professional
+13869,,Anna,Morgan,M,F,50000,Bachelors,Skilled Manual
+13870,,Jonathan,Clark,M,M,50000,Bachelors,Skilled Manual
+13871,,Sarah,Gonzales,S,F,50000,Bachelors,Skilled Manual
+13872,,Alyssa,Henderson,M,F,60000,Graduate Degree,Professional
+13873,,Russell,Jai,M,M,70000,Graduate Degree,Professional
+13874,,Alyssa,Bryant,M,F,60000,Graduate Degree,Professional
+13875,,Samantha,Williams,M,F,60000,Graduate Degree,Professional
+13876,,Sebastian,Murphy,M,M,60000,Graduate Degree,Professional
+13877,,Adam,Lal,M,M,60000,Bachelors,Skilled Manual
+13878,,Sebastian,Gray,M,M,60000,Bachelors,Skilled Manual
+13879,,Derrick,Hernandez,S,M,60000,Bachelors,Skilled Manual
+13880,,Marshall,Kumar,S,M,60000,Bachelors,Skilled Manual
+13881,,Jasmine,Wood,S,F,60000,Bachelors,Skilled Manual
+13882,,Mariah,Russell,S,F,40000,Bachelors,Professional
+13883,,Brandon,Lal,S,M,40000,Bachelors,Professional
+13884,,Jada,Rogers,S,F,40000,Bachelors,Professional
+13885,,Brian,Howard,S,M,70000,Graduate Degree,Professional
+13886,,Rachel,Taylor,M,F,70000,Graduate Degree,Professional
+13887,,Nathan,Scott,M,M,80000,Graduate Degree,Professional
+13888,,Ian,Brown,S,M,70000,Bachelors,Skilled Manual
+13889,,Robert,Martin,S,M,60000,Graduate Degree,Professional
+13890,,Jennifer,Carter,S,F,60000,Graduate Degree,Professional
+13891,,Aaron,Simmons,M,M,60000,Graduate Degree,Professional
+13892,,Spencer,Diaz,S,M,60000,Graduate Degree,Professional
+13893,,Dalton,Carter,M,M,70000,Graduate Degree,Professional
+13894,,Robyn,Ruiz,M,F,70000,Graduate Degree,Professional
+13895,,Isabella,Brooks,S,F,70000,Graduate Degree,Professional
+13896,,Hailey,Mitchell,S,F,70000,Graduate Degree,Professional
+13897,,Carol,Washington,M,M,70000,Graduate Degree,Professional
+13898,,Richard,Baker,S,M,70000,Graduate Degree,Professional
+13899,,Cameron,Jones,M,M,70000,Graduate Degree,Professional
+13900,,Isaac,Campbell,M,M,70000,Graduate Degree,Professional
+13901,,Oscar,Foster,M,M,70000,Graduate Degree,Professional
+13902,,Jeremiah,Simmons,M,M,70000,Graduate Degree,Professional
+13903,,Elijah,Hernandez,S,M,80000,Graduate Degree,Professional
+13904,,Natalie,Thompson,M,F,80000,Graduate Degree,Professional
+13905,,Christian,Henderson,M,M,80000,Graduate Degree,Professional
+13906,,Courtney,Evans,S,F,40000,Bachelors,Professional
+13907,,Misty,Xie,S,F,80000,Bachelors,Skilled Manual
+13908,,Alyssa,Diaz,S,F,80000,Bachelors,Skilled Manual
+13909,,Riley,Price,S,F,80000,Bachelors,Skilled Manual
+13910,,Isabelle,Butler,S,F,80000,Bachelors,Skilled Manual
+13911,,Andrea,Kelly,S,F,80000,Bachelors,Skilled Manual
+13912,,Caroline,Simmons,S,F,80000,Bachelors,Skilled Manual
+13913,,Angela,Rogers,S,F,80000,Bachelors,Skilled Manual
+13914,,Abigail,Bell,M,F,40000,Bachelors,Professional
+13915,,Allison,King,S,F,50000,Bachelors,Skilled Manual
+13916,,Eduardo,Ward,S,M,50000,Bachelors,Skilled Manual
+13917,,Samuel,Allen,S,M,50000,Bachelors,Skilled Manual
+13918,,Armando,Blanco,S,M,50000,Bachelors,Skilled Manual
+13919,,Grace,Smith,M,F,70000,Bachelors,Skilled Manual
+13920,,Amanda,Rogers,S,F,50000,Bachelors,Skilled Manual
+13921,,Joseph,Jones,M,M,60000,Bachelors,Professional
+13922,,Jackson,Foster,M,M,60000,Bachelors,Professional
+13923,,Steven,Howard,S,M,60000,Bachelors,Professional
+13924,,Hannah,Hall,S,F,60000,Bachelors,Professional
+13925,,Wyatt,Barnes,S,M,60000,Bachelors,Professional
+13926,,Dalton,Hill,S,M,60000,Bachelors,Professional
+13927,,Gabriel,Gonzales,S,M,60000,Bachelors,Professional
+13928,,Nathaniel,Morris,M,M,60000,Graduate Degree,Professional
+13929,,Robert,Hayes,S,M,40000,High School,Skilled Manual
+13930,,Samantha,Coleman,M,F,70000,Partial College,Skilled Manual
+13931,,Luke,Hernandez,M,M,70000,Partial College,Skilled Manual
+13932,,Timothy,Sanchez,M,M,40000,High School,Skilled Manual
+13933,,Isabella,Richardson,M,F,60000,Partial College,Skilled Manual
+13934,,Luis,Young,M,M,40000,High School,Skilled Manual
+13935,,Kimberly,Sanchez,M,F,40000,High School,Skilled Manual
+13936,,Nathan,Wilson,M,M,70000,Partial College,Skilled Manual
+13937,,Victoria,Ware,S,F,70000,Partial College,Skilled Manual
+13938,,Alejandro,Cai,M,M,60000,Graduate Degree,Professional
+13939,,Eduardo,Ramirez,S,M,60000,Graduate Degree,Professional
+13940,,Emma,Simmons,S,F,60000,Graduate Degree,Professional
+13941,,Brittany,Hayes,M,F,60000,Partial College,Skilled Manual
+13942,,Seth,Long,M,M,60000,Partial College,Skilled Manual
+13943,,Kelly,Bryant,M,F,60000,Partial College,Skilled Manual
+13944,,Andrew,Moore,M,M,60000,Partial College,Skilled Manual
+13945,,Yolanda,Luo,M,F,60000,Partial College,Skilled Manual
+13946,,Jason,Powell,M,M,60000,Bachelors,Professional
+13947,,Megan,Hughes,M,F,70000,Graduate Degree,Professional
+13948,,Susan,Ma,S,F,80000,Graduate Degree,Professional
+13949,,Dwayne,Ramos,M,M,80000,Graduate Degree,Professional
+13950,,Meredith,Hernandez,M,F,70000,Graduate Degree,Professional
+13951,,Dylan,Hughes,S,M,60000,Graduate Degree,Management
+13952,,Franklin,Ye,M,M,90000,Graduate Degree,Management
+13953,,Theresa,Munoz,M,F,100000,Graduate Degree,Management
+13954,,Eddie,Ramos,M,M,60000,Bachelors,Professional
+13955,,Andres,Raji,M,M,90000,Bachelors,Professional
+13956,,Dawn,Ma,S,F,70000,Bachelors,Professional
+13957,,Meredith,Munoz,S,F,60000,Bachelors,Professional
+13958,,Diane,Martin,M,F,70000,Bachelors,Professional
+13959,,Ebony,Carlson,M,F,120000,Graduate Degree,Management
+13960,,Lacey,Kumar,S,F,70000,Bachelors,Professional
+13961,,Shawna,Raji,M,F,80000,Graduate Degree,Management
+13962,,Dawn,Li,M,F,80000,Graduate Degree,Management
+13963,,Veronica,Patel,M,F,80000,Graduate Degree,Management
+13964,,Jasmine,Lewis,S,F,90000,Bachelors,Professional
+13965,,Barry,Sara,M,M,90000,Bachelors,Professional
+13966,,Darren,Dominguez,M,M,90000,Bachelors,Professional
+13967,,Glenn,Zhang,S,M,60000,Bachelors,Professional
+13968,,Lydia,Sai,S,F,60000,Bachelors,Professional
+13969,,Roy,Martinez,S,M,70000,Bachelors,Professional
+13970,,Pedro,Rana,S,M,70000,Bachelors,Professional
+13971,,Bianca,Zhao,S,F,70000,Bachelors,Professional
+13972,,Eugene,Liang,S,M,70000,Bachelors,Professional
+13973,,Bethany,Shan,S,F,60000,Bachelors,Professional
+13974,,Tina,Chandra,M,F,60000,Bachelors,Professional
+13975,,Johnny,Raje,S,M,60000,Bachelors,Professional
+13976,,Emmanuel,Smith,M,M,100000,Bachelors,Management
+13977,,Alexandra,Brown,M,F,100000,Bachelors,Management
+13978,,Zoe,Peterson,M,F,100000,Bachelors,Management
+13979,,Chloe,Jenkins,S,F,40000,High School,Skilled Manual
+13980,,Margaret,Liu,S,F,30000,Partial College,Skilled Manual
+13981,,Joy,Carlson,M,F,10000,High School,Skilled Manual
+13982,,Clarence,Chander,M,M,20000,High School,Skilled Manual
+13983,,Logan,Collins,M,M,20000,High School,Skilled Manual
+13984,,Adrian,Richardson,S,M,60000,Partial College,Skilled Manual
+13985,,Alexis,Wood,M,F,60000,Partial College,Skilled Manual
+13986,,Chloe,Anderson,M,F,60000,Partial College,Skilled Manual
+13987,,Eduardo,Collins,S,M,40000,High School,Skilled Manual
+13988,,Miguel,White,S,M,40000,Partial High School,Clerical
+13989,,Chloe,Bradley,S,F,40000,Partial College,Skilled Manual
+13990,,Stephanie,Wood,S,F,40000,Partial College,Skilled Manual
+13991,,Jack,Hayes,M,M,40000,Partial College,Skilled Manual
+13992,,Gregory,Xie,S,M,60000,Partial College,Skilled Manual
+13993,,Zachary,Patterson,M,M,60000,Partial College,Skilled Manual
+13994,,Isaac,Cook,M,M,30000,Partial College,Clerical
+13995,,Michele,Black,M,F,20000,High School,Skilled Manual
+13996,,Marie,Perez,M,F,20000,High School,Skilled Manual
+13997,,Raquel,Hernandez,M,F,30000,Partial College,Clerical
+13998,,Ethan,Martin,M,M,10000,Partial High School,Clerical
+13999,,Elijah,Gonzales,M,M,70000,Partial College,Skilled Manual
+14000,,Terry,Sharma,S,M,40000,Partial High School,Clerical
+14001,,Hunter,Hill,S,M,40000,Partial High School,Clerical
+14002,,Jacqueline,Reed,S,F,30000,Partial College,Skilled Manual
+14003,,Angel,Ramirez,S,M,30000,Partial College,Skilled Manual
+14004,,Caitlin,Kelly,M,F,60000,Partial College,Skilled Manual
+14005,,Noah,Hughes,M,M,70000,Partial College,Skilled Manual
+14006,,Brianna,Walker,M,F,70000,Partial College,Skilled Manual
+14007,,Rebekah,Garcia,M,F,10000,Partial High School,Clerical
+14008,,Karen,Liu,M,F,10000,Partial High School,Clerical
+14009,,Brandy,Prasad,M,F,20000,Partial High School,Clerical
+14010,,Thomas,Moore,M,M,30000,Partial College,Clerical
+14011,,Roger,Shen,S,M,30000,Partial College,Clerical
+14012,,Eddie,Vazquez,M,M,40000,Bachelors,Management
+14013,,Jimmy,Blanco,M,M,30000,High School,Skilled Manual
+14014,,Leslie,Serrano,M,F,30000,High School,Skilled Manual
+14015,,Kurt,Lal,M,M,30000,High School,Skilled Manual
+14016,,Mary,Sandidge,M,M,30000,High School,Skilled Manual
+14017,,Chloe,Rodriguez,S,F,60000,Partial College,Skilled Manual
+14018,,Nina,Rai,M,F,30000,High School,Skilled Manual
+14019,,Kathleen,Romero,M,F,30000,High School,Skilled Manual
+14020,,Kristine,Dominguez,S,F,80000,Partial College,Skilled Manual
+14021,,Michelle,Richardson,S,F,30000,Partial College,Skilled Manual
+14022,,Taylor,Lee,S,F,30000,High School,Skilled Manual
+14023,,Beth,Carlson,S,F,30000,High School,Skilled Manual
+14024,,Hannah,Moore,S,F,60000,Partial College,Skilled Manual
+14025,,Robert,Alexander,M,M,30000,High School,Skilled Manual
+14026,,Chloe,Butler,S,F,30000,High School,Skilled Manual
+14027,,Carlos,Perez,M,M,70000,Partial College,Professional
+14028,,Patricia,Srini,S,F,70000,Partial College,Professional
+14029,,Christina,Morris,M,F,60000,Partial College,Professional
+14030,,Lawrence,Sanz,S,M,80000,High School,Skilled Manual
+14031,,Ruben,Suarez,M,M,80000,High School,Skilled Manual
+14032,,Arthur,Chandra,M,M,70000,High School,Skilled Manual
+14033,,Melinda,Torres,S,F,80000,High School,Professional
+14034,,Dennis,Liang,S,M,130000,Graduate Degree,Management
+14035,,Hunter,Hughes,S,M,80000,Bachelors,Management
+14036,,Amanda,Torres,M,F,60000,Partial College,Professional
+14037,,Lydia,Sara,M,F,60000,Partial College,Professional
+14038,,Madison,Foster,M,F,130000,Graduate Degree,Management
+14039,,Nathan,Wang,S,M,160000,Graduate Degree,Management
+14040,,Stephanie,Morris,S,F,80000,Partial High School,Skilled Manual
+14041,,Danielle,Bell,S,F,80000,Partial High School,Skilled Manual
+14042,,Stephanie,Adams,M,F,60000,High School,Professional
+14043,,Mary,Gonzalez,S,F,60000,High School,Professional
+14044,,Thomas,Wright,M,M,70000,Partial College,Professional
+14045,,Tanya,Ramos,M,F,80000,Bachelors,Professional
+14046,,Cheryl,Sanz,M,F,90000,Bachelors,Professional
+14047,,Linda,Alvarez,S,F,70000,Partial College,Skilled Manual
+14048,,Wyatt,Mitchell,M,M,60000,Bachelors,Professional
+14049,,Gina,Hernandez,M,F,60000,Bachelors,Professional
+14050,,Manuel,Lopez,S,M,100000,Graduate Degree,Management
+14051,,Nathaniel,Rivera,S,M,100000,Bachelors,Professional
+14052,,Jorge,Ma,S,M,110000,Graduate Degree,Management
+14053,,Tamara,Huang,S,F,110000,Graduate Degree,Management
+14054,,Reginald,Martin,M,M,60000,Partial College,Skilled Manual
+14055,,Alejandro,Kumar,M,M,60000,Partial College,Skilled Manual
+14056,,Nelson,Sanz,M,M,60000,Partial College,Skilled Manual
+14057,,Lance,Alonso,M,M,90000,Bachelors,Professional
+14058,,Johnny,Anand,S,M,70000,Bachelors,Professional
+14059,,Rodney,Ramos,M,M,80000,Bachelors,Professional
+14060,,Cedric,Sharma,M,M,80000,Bachelors,Professional
+14061,,Naomi,Torres,M,F,80000,Bachelors,Professional
+14062,,Madison,Clark,S,F,70000,Bachelors,Professional
+14063,,Patrick,Sands,S,F,70000,Bachelors,Professional
+14064,,Stacey,Li,S,F,70000,Bachelors,Professional
+14065,,Samuel,Diaz,S,M,70000,Bachelors,Professional
+14066,,Melody,Jimenez,S,F,60000,Partial College,Skilled Manual
+14067,,Larry,Sanz,S,M,70000,Bachelors,Professional
+14068,,Brent,McDonald,M,M,70000,Bachelors,Professional
+14069,,Joy,Serrano,M,F,70000,Bachelors,Professional
+14070,,Ricky,Alonso,S,M,90000,Bachelors,Professional
+14071,,Jack,Li,S,M,90000,Bachelors,Management
+14072,,Allen,Smith,M,M,80000,Partial College,Skilled Manual
+14073,,Gabriel,Alexander,M,M,30000,Partial College,Clerical
+14074,,Barbara,Xu,M,F,10000,High School,Skilled Manual
+14075,,Robert,Harris,S,M,30000,High School,Skilled Manual
+14076,,Justin,Ross,M,M,30000,High School,Skilled Manual
+14077,,Bryan,Townsend,S,M,30000,High School,Skilled Manual
+14078,,Ryan,Alexander,M,M,40000,High School,Skilled Manual
+14079,,Lauren,Price,S,F,40000,High School,Skilled Manual
+14080,,Cynthia,Srini,S,F,40000,High School,Skilled Manual
+14081,,Nicole,Butler,M,F,30000,High School,Skilled Manual
+14082,,Johnny,Jai,S,M,30000,High School,Skilled Manual
+14083,,Nathan,Lopez,M,M,30000,High School,Skilled Manual
+14084,,Robert,Lal,S,M,30000,High School,Skilled Manual
+14085,,Nathan,Garcia,M,M,30000,High School,Skilled Manual
+14086,,Maurice,Chander,M,M,10000,High School,Skilled Manual
+14087,,Harold,Garcia,S,M,40000,Bachelors,Management
+14088,,Alexandra,Lopez,S,F,30000,Partial High School,Clerical
+14089,,Kaitlyn,Gray,S,F,40000,High School,Skilled Manual
+14090,,Jennifer,Lewis,M,F,30000,Partial High School,Clerical
+14091,,Logan,Thomas,S,M,30000,Partial High School,Clerical
+14092,,Maurice,Nath,S,M,30000,Partial High School,Clerical
+14093,,Jillian,Arthur,S,F,30000,Partial High School,Clerical
+14094,,Amanda,Russell,S,F,40000,High School,Skilled Manual
+14095,,Paige,Griffin,M,F,40000,High School,Skilled Manual
+14096,,Samuel,Green,S,M,30000,Partial High School,Clerical
+14097,,Johnathan,Srini,M,M,40000,High School,Skilled Manual
+14098,,Allison,Lopez,M,F,40000,High School,Skilled Manual
+14099,,Rafael,Lin,M,M,40000,Bachelors,Management
+14100,,Alisha,Xu,M,F,40000,Bachelors,Management
+14101,,Franklin,Lal,M,M,40000,Bachelors,Management
+14102,,Lisa,Huang,S,F,60000,Graduate Degree,Management
+14103,,Monique,Blanco,S,F,40000,Bachelors,Management
+14104,,Sydney,James,S,F,40000,Partial College,Skilled Manual
+14105,,Jackson,Zhang,S,M,40000,Partial College,Skilled Manual
+14106,,Melissa,Hughes,S,F,40000,Partial College,Skilled Manual
+14107,,Alexandra,Garcia,S,F,40000,High School,Skilled Manual
+14108,,Thomas,Yang,S,M,40000,High School,Skilled Manual
+14109,,Aidan,Gonzales,M,M,30000,Partial College,Skilled Manual
+14110,,Dakota,Simmons,S,M,60000,Partial College,Skilled Manual
+14111,,Michael,Anderson,S,M,70000,Partial College,Skilled Manual
+14112,,Charles,Sanchez,S,M,70000,Partial College,Skilled Manual
+14113,,Natalie,Lopez,S,F,70000,Partial College,Skilled Manual
+14114,,Chloe,Martin,M,F,70000,Partial College,Skilled Manual
+14115,,Samantha,Gonzales,S,F,80000,Bachelors,Management
+14116,,Brianna,Torres,S,F,80000,Bachelors,Management
+14117,,Emma,Cook,S,F,80000,Bachelors,Management
+14118,,Elizabeth,Ross,S,F,100000,Bachelors,Management
+14119,,Paige,Cooper,S,F,110000,Graduate Degree,Management
+14120,,Gabrielle,Cooper,M,F,120000,Bachelors,Management
+14121,,Devon,Goel,S,M,130000,Graduate Degree,Management
+14122,,Kaitlyn,Miller,M,F,80000,Bachelors,Management
+14123,,Erick,Mehta,M,M,10000,Partial College,Manual
+14124,,Justin,Li,M,M,10000,Partial College,Manual
+14125,,Shane,Gonzalez,S,M,10000,Partial College,Manual
+14126,,Andy,Dominguez,M,M,10000,Partial College,Manual
+14127,,Lacey,Zhang,M,F,10000,High School,Manual
+14128,,Ian,Harris,S,M,10000,High School,Manual
+14129,,Monica,Martinez,M,F,20000,Bachelors,Clerical
+14130,,Rebekah,Serrano,M,F,20000,Bachelors,Clerical
+14131,,Javier,Navarro,M,M,20000,Bachelors,Clerical
+14132,,Brandon,Ross,S,M,10000,High School,Manual
+14133,,Ricardo,Kumar,S,M,20000,Bachelors,Clerical
+14134,,Cassandra,Fernandez,S,F,20000,Partial College,Manual
+14135,,Clayton,Xie,M,M,20000,Partial College,Manual
+14136,,Louis,She,M,M,20000,Partial College,Manual
+14137,,Joy,Ruiz,M,F,20000,Partial College,Manual
+14138,,Vincent,He,S,M,20000,Partial College,Manual
+14139,,Meredith,Sai,M,F,30000,Graduate Degree,Clerical
+14140,,Meagan,Sai,M,F,30000,Graduate Degree,Clerical
+14141,,Ana,Bryant,S,F,10000,High School,Manual
+14142,,Damien,Zheng,M,M,10000,High School,Manual
+14143,,Jill,Sandoval,S,F,20000,Partial College,Manual
+14144,,Lee,Gutierrez,M,M,10000,High School,Manual
+14145,,Jessie,Ye,S,M,10000,High School,Manual
+14146,,Toni,Sara,M,F,20000,Partial College,Manual
+14147,,Marcus,Rivera,M,M,30000,Graduate Degree,Clerical
+14148,,Shaun,Sharma,M,M,30000,Graduate Degree,Clerical
+14149,,Donald,Srini,M,M,30000,Bachelors,Clerical
+14150,,Billy,Munoz,M,M,30000,Bachelors,Clerical
+14151,,Marie,Martin,S,F,10000,High School,Manual
+14152,,Luke,Turner,S,M,20000,Partial College,Manual
+14153,,Dylan,Lewis,S,M,20000,Partial College,Manual
+14154,,Willie,Gao,M,M,30000,Bachelors,Clerical
+14155,,Olivia,Morris,M,F,40000,Graduate Degree,Clerical
+14156,,Preston,Gonzalez,S,M,20000,Partial College,Manual
+14157,,Willie,Xu,S,M,30000,Bachelors,Clerical
+14158,,Craig,Moreno,S,M,40000,Graduate Degree,Clerical
+14159,,Jay,Malhotra,S,M,40000,Graduate Degree,Clerical
+14160,,Brittney,Hu,M,F,40000,Graduate Degree,Clerical
+14161,,Claudia,Li,S,F,40000,Graduate Degree,Clerical
+14162,,Brett,Garcia,M,M,40000,Graduate Degree,Clerical
+14163,,Ebony,Garcia,M,F,40000,Graduate Degree,Clerical
+14164,,Kari,Smith,S,F,50000,Graduate Degree,Skilled Manual
+14165,,Natalie,Gray,S,F,50000,Graduate Degree,Skilled Manual
+14166,,Elizabeth,Jenkins,M,F,10000,Bachelors,Clerical
+14167,,Pamela,Subram,S,F,10000,Partial College,Manual
+14168,,Edwin,Guo,M,M,20000,Partial College,Manual
+14169,,Carmen,Martinez,S,F,10000,High School,Manual
+14170,,Rebekah,Moreno,S,F,10000,High School,Manual
+14171,,Michele,Lal,S,F,90000,Partial College,Professional
+14172,,Carla,Garcia,S,F,130000,Bachelors,Management
+14173,,Tonya,Shan,M,F,70000,High School,Professional
+14174,,Alberto,Diaz,M,M,70000,High School,Professional
+14175,,Cynthia,Mehta,M,F,110000,Bachelors,Management
+14176,,Mindy,Rai,M,F,80000,Partial College,Professional
+14177,,Kenneth,Nara,M,M,80000,Partial College,Professional
+14178,,Katie,Raje,S,F,90000,Partial College,Professional
+14179,,Claudia,Xu,S,F,100000,Bachelors,Management
+14180,,Henry,Patel,M,M,100000,Bachelors,Management
+14181,,Adriana,Chandra,M,F,100000,Bachelors,Management
+14182,,Steve,Lin,M,M,110000,Partial College,Professional
+14183,,Robyn,Carlson,S,F,130000,Partial College,Professional
+14184,,Caleb,Jenkins,M,M,170000,Bachelors,Management
+14185,,Frank,Vazquez,S,M,80000,Partial College,Professional
+14186,,Katrina,Tang,M,F,80000,Partial College,Professional
+14187,,Eugene,Lu,M,M,100000,Partial College,Professional
+14188,,Meagan,Sanchez,M,F,80000,High School,Professional
+14189,,Krista,Martin,M,F,90000,High School,Professional
+14190,,Candace,Patel,M,F,90000,High School,Professional
+14191,,Derrick,Martin,M,M,160000,Partial College,Professional
+14192,,Ronald,Kapoor,M,M,90000,High School,Management
+14193,,Pamela,Vance,S,F,100000,Partial College,Management
+14194,,Cassie,Rai,M,F,120000,Partial College,Management
+14195,,Clinton,Blanco,S,M,130000,High School,Management
+14196,,Felicia,Dominguez,M,F,160000,Partial College,Management
+14197,,Frank,Gill,M,M,100000,Partial College,Management
+14198,,Daisy,Romero,M,F,110000,High School,Management
+14199,,Samuel,Anderson,M,M,130000,High School,Management
+14200,,Colleen,Goel,M,F,70000,Partial High School,Skilled Manual
+14201,,Marie,Serrano,M,F,80000,High School,Management
+14202,,Clayton,Zeng,S,M,90000,Partial High School,Skilled Manual
+14203,,Seth,Rodriguez,S,M,80000,High School,Management
+14204,,Chelsea,Sara,M,F,80000,Partial High School,Skilled Manual
+14205,,Wesley,Wu,S,M,90000,Partial High School,Skilled Manual
+14206,,Edwin,West,M,M,100000,Partial High School,Professional
+14207,,José,Saraiva,M,M,110000,Partial High School,Professional
+14208,,Eugene,Xu,S,M,120000,High School,Management
+14209,,Craig,Ramos,M,M,60000,Bachelors,Professional
+14210,,Jenny,Tang,M,F,80000,Bachelors,Professional
+14211,,Emma,Bradley,S,F,70000,Bachelors,Professional
+14212,,Erick,Madan,S,M,80000,Bachelors,Professional
+14213,,Autumn,Guo,M,F,80000,Bachelors,Professional
+14214,,Robyn,Munoz,S,F,90000,Bachelors,Professional
+14215,,Stacey,Yang,S,F,90000,Bachelors,Professional
+14216,,Edwin,Zheng,S,M,70000,Bachelors,Professional
+14217,,Terrance,Lopez,S,M,80000,Bachelors,Professional
+14218,,Karl,Kumar,S,M,90000,Bachelors,Professional
+14219,,Christy,Ye,S,F,90000,Bachelors,Professional
+14220,,Latasha,Romero,M,F,100000,High School,Management
+14221,,Glenn,Zhao,S,M,80000,Bachelors,Professional
+14222,,Dawn,Zhang,S,F,80000,Bachelors,Professional
+14223,,Larry,Rubio,M,M,80000,Bachelors,Professional
+14224,,Tamara,She,S,F,110000,Partial College,Management
